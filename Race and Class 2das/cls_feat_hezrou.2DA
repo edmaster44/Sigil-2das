@@ -1,0 +1,27 @@
+2DA V2.0
+
+   FeatLabel                      FeatIndex List GrantedOnLevel OnMenu 
+0  FEAT_EPIC_GREAT_CHARISMA_1     764       3    10             0      
+1  FEAT_HEZROU_ARMOR              3602      3    1              0      
+2  FEAT_EPIC_GREAT_STRENGTH_1     814       3    2              0      
+3  FEAT_EPIC_GREAT_CHARISMA_2     765       3    10             0      
+4  FEAT_EPIC_GREAT_STRENGTH_2     815       3    2              0      
+5  FEAT_HEZROU_STENCH             3603      3    1              1      
+6  FEAT_EPIC_GREAT_CONSTITUTION_1 774       3    4              0      
+7  FEAT_SUCCUBUS_DR               2824      3    8              0      
+8  FEAT_EPIC_GREAT_CONSTITUTION_2 775       3    4              0      
+9  FEAT_EPIC_GREAT_STRENGTH_3     816       3    6              0      
+10 FEAT_EPIC_GREAT_STRENGTH_4     817       3    6              0      
+11 FEAT_HEZROU_SUMMON_TANARRI     3604      3    10             1      
+12 FEAT_UNSUMMON_TANARRI          2826      3    10             1      
+13 FEAT_HEZROU_BLASPHEMY          3601      3    4              1      
+14 FEAT_POWER_ATTACK              28        1    -1             0      
+15 Cleave                         6         1    -1             0      
+16 GreatCleave                    391       1    -1             0      
+17 BlindFight                     408       1    -1             0      
+18 Toughness                      40        1    -1             0      
+19 FEAT_EPIC_GREAT_STRENGTH_5     818       3    10             0      
+20 FEAT_EPIC_GREAT_STRENGTH_6     819       3    10             0      
+21 FEAT_EPIC_GREAT_CONSTITUTION_3 776       3    8              0      
+22 FEAT_EPIC_GREAT_CONSTITUTION_4 777       3    8              0      
+23 FEAT_HEZROU_ALIGNED_STRIKE     3606      3    6              1      

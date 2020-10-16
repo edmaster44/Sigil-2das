@@ -1,0 +1,10 @@
+2DA V2.0                                                                                                             				
+                                                                                                                     				
+	LTE			TYPE		BASE_TEMPLATE
+0	10			buckler		NW_ASHSW001
+1	15			light_wood	NW_ASHSW001	
+2	20			light_steel	NW_ASHSW001	
+3	30			heavy_wood	NW_ASHLW001	
+4	95			heavy_steel	NW_ASHLW001	
+5	100			tower		NW_ASHTO001
+

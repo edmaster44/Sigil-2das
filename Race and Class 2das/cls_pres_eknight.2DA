@@ -1,0 +1,6 @@
+2DA	V2.0			
+
+	LABEL	ReqType	ReqParam1	ReqParam2
+1	MartialWeaponProficiency	FEAT	45	****
+2	Arcane	ARCSPELL	3	****
+3	ScriptVar	VAR	nw_AllowEldritchKnight	0

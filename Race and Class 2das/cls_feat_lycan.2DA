@@ -1,0 +1,22 @@
+2DA V2.0
+
+   FeatLabel                   FeatIndex List GrantedOnLevel OnMenu GrantedPrereq 
+0  FEAT_LYCAN_AFLLICTION       2585      3    1              0      -1            
+1  FEAT_LYCAN_ANIMAL_FORM      2586      3    1              1      -1            
+2  FEAT_EPIC_GREAT_WISDOM_1    804       3    1              0      -1            
+3  FEAT_LOW_LIGHT_VISION       354       3    1              0      -1            
+4  FEAT_PROFICIENCY_CREATURE   289       3    1              0      -1            
+5  FEAT_SCENT                  2178      3    2              0      -1            
+6  FEAT_IRON_WILL              22        3    2              0      -1            
+7  FEAT_LYCAN_DAMAGE_REDUCTION 2587      3    3              0      -1            
+8  FEAT_LYCAN_HYBRID_FORM      2588      3    4              1      -1            
+9  FEAT_LYCAN_HUMFORM          2835      3    4              1      -1            
+10 FEAT_EPIC_GREAT_WISDOM_2    805       3    5              0      -1            
+11 FEAT_LYCAN_BP_WEREWOLF      2589      3    5              1      2592          
+12 FEAT_LYCAN_BP_WEREBOAR      2590      3    5              0      2610          
+13 FEAT_LYCAN_BP_WERETIGER     2591      3    5              1      2656          
+14 padding                     ****      0    ****           0      -1            
+15 padding                     ****      0    ****           0      -1            
+16 padding                     ****      0    ****           0      -1            
+17 padding                     ****      0    ****           0      -1            
+18 padding                     ****      0    ****           0      -1            

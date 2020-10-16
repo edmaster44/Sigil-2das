@@ -1,0 +1,8 @@
+2DA V2.0
+
+  LABEL              BASE_RESREF     COST_TIER IP_DESCRIPTION_ID CRAFT_DC IP_MELEE_TYPE IP_MELEE_SUBTYPE IP_MELEE_PARAM DR_PIERC_MAT IP_ARMOR_TYPE IP_ARMOR_SUBTYPE IP_ARMOR_PARAM ARMOR_SUFFIX IP_RANGED_TYPE IP_RANGED_SUBTYPE IP_RANGED_PARAM 
+0 Wood               ****            0         40                ****     ****          ****             ****           ****         ****          ****             ****           ****         ****           ****              ****            
+1 "Arboreal Oak"     ps_crft_plk_ao  2         31                20       17            5                7              ****         2             5                7              ****         17             5                 7               
+2 "Dragon Bone"      ps_crft_plk_db  2         32                18       16            1                12             ****         ****          ****             ****           ****         45             ****              10              
+3 "Formic Amber"     ps_crft_formamb 2         33                19       16            2                12             ****         ****          ****             ****           ****         16             2                 12              
+4 "Twelvetrees Bark" ps_crft_plk_tb  2         34                20       17            4                7              ****         2             4                7              ****         17             4                 7               

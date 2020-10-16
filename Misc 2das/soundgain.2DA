@@ -1,0 +1,19 @@
+2DA V2.0
+
+    Name                Volume MinDistance MaxDistance
+0   footsteps           120    12.0      100.0
+1   music               40     ****     ****
+2   swing               120    5.0      15.0
+3   hit                 120    5.0      15.0
+4   parry               120    5.0      15.0
+5   duck                120    5.0      15.0
+6   pickup              50     ****     ****
+7   drop                50     ****     ****
+8   spellprojectile     120    12.0      100.0
+9   spellimpact         120    12.0      100.0
+10  spellduration       120    12.0      100.0
+11  spellcessation      120    12.0      100.0
+12  spellconjure        120    12.0      100.0
+13  gui                 50     ****     ****
+14  voiceover		127    12.0      100.5
+

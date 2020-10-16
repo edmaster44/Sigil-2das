@@ -1,0 +1,16 @@
+2DA V2.0                                                                                                             				
+                                                                                                                     				
+	LTE			TYPE			BASE_TEMPLATE
+0	1			padded			NW_AARCL009
+1	2			leather			NW_AARCL001
+2	17			studded			NW_AARCL002
+3	32			chain_shirt		NW_AARCL012
+4	42			hide			NW_AARCL008	
+5	43			scale			NW_AARCL003
+6	44			chain			NW_AARCL004
+7	57			breastplate		NW_AARCL010
+8	58			splint			NW_AARCL005
+9	59			banded			NW_AARCL011
+10	60			half_plate		NW_AARCL006
+11	100			full_plate		NW_AARCL007
+

@@ -1,0 +1,25 @@
+2DA	V2.0								
+									
+	TableName	Comment	FeedBackStrRefSuccess	FeedBackStrRefFail	Enc1_ResRefs	Enc1_Prob	Enc2_ResRefs	Enc2_Prob	Enc3_ResRefs
+0	INVALID_TABLE	",start w/ comma (makes excel add quotes!) Dont_change this row!"	83306	83307	****	****	****	****	****
+1	Beetles	",various kinds of beetles"	****	****	"c_beetlefire,c_beetlefire"	15	c_beetlefire	****	c_beetlefire
+2	DangerousForestAnimals	",Wolves, Bears, etc."	****	****	c_dogwolf	****	c_bear	****	c_dogwolfdire
+3	NormalDrow	",A few regular drow"	****	****	c_drow	****	"c_drow,c_drow"	****	"c_drow,c_drow,c_drow"
+4	MiddleBarrow	",Some telthors out looking for the player."	****	****	"a_telthorwolf,a_telthorwolverine"	100	****	****	****
+5	UpperBarrow	",Even more angry telthors."	****	****	"a_telthorwolf,a_telthorwolf"	100	****	****	****
+6	EE_Kelemvorites	",Hostile paladins and clerics"	****	****	"z03_paladin_hostile_1,z03_cleric_hostile_2"	50	"z03_paladin_hostile_1,z03_paladin_hostile_2"	25	z03_cleric_hostile_2
+7	EE_Undead	",Hostile zombies and whatnot."	****	****	"z03_zombie_1,z03_zombie_2"	33	"z03_zombie_2,z03_zombie_3"	33	"z03_zombie_2,z03_zombie_3"
+8	c_wyverns	",wyverns"	****	****	"c_wyvern_module,c_wyvern_module"	100	****	****	****
+9	c_forest	",creatures of Ashenwood"	****	****	"c_mound_module,c_blightspawned_treant"	50	"c_felltroll_barbarian,c_felltroll_shaman"	25	"c_felltroll_barbarian,c_felltroll_ranger"
+10	c_cave	",beasts"	****	****	"c_wolverinedire_module,c_wolverinedire_module"	50	"c_snowleopard_module,c_snowleopard_module"	50	
+11	e_thaymount	",gnolls"	****	****	"e_gnoll1,e_gnoll2"	50	"e_gnoll1,egnoll1"	50	****
+12	e_academy	",students"	****	****	"e_student_female_hostile,e_student_male_hostile"	50	"e_student_female_hostile2,e_student_female_hostile,e_student_male_hostile2"	25	"e_student_female_hostile,e_student_male_hostile,e_student_male_hostile2"
+13	e_founder	",myrkulites"	****	****	"e_myrkulite1,e_myrkulite2"	33	"e_myrkulite3,e_myrkulite4"	33	"e_myrkulite3,e_myrkulite1"
+14	e_wyvern	",wyverns"	****	****	e_wyvern	100	****	****	****
+15	d_lakeshore	",Water Elementals, Green Hags, Hagspawn, Telthor Panthers"	****	****	"d01_elemental_water,d01_elemental_water,d01_elemental_water"	33	"d04_telthor_panther,d04_telthor_panther,d04_telthor_panther,d04_telthor_panther"	33	"d_hag,d_hagspawn,d_hagspawn"
+16	d_skein	",Fire Elementals,Telthor Rats,Exiles"	****	****	"d04_elemental_fire,d04_elemental_fire,d04_elemental_fire"	35	"d04_telthor_rat,d04_telthor_rat,d04_telthor_rat,d04_telthor_rat,d04_telthor_rat,d04_telthor_rat"	35	"d04_drow,d04_hagspawn,d04_gnoll,d04_duergar,d04_deepgnome"
+17	b_mulsantir_gate	",Telthor Wolves,Telthor Dire Bears,Telthor Snow Leopards"	****	****	"b_telthor_wolf,b_telthor_wolf,b_telthor_wolf,b_telthor_direbear,b_telthor_direbear"	33	"b_telthor_direbear,b_telthor_direbear"	33	"b_telthor_leopard,b_telthor_leopard,b_telthor_leopard"
+18	b_shadow_mulsantir	",various creatures of the Shadow Plane"	****	****	"b03_greater_shadow,b03_greater_shadow,b03_nightwalker"	33	"b_shadow_mastiff,b03_shadow_spider,b_shadow_umber"	33	"b03_shadow_adept_1, b03_shadow_adept_2"
+19	b_upper_vault	",Death Knights, Mummified Priests, Dread Wraiths"	****	****	"b07_deathknight_hostile,b07_deathknight_hostile"	33	"b07_mummy_priest,b07_mummy_priest,b07_mummy_priest"	33	"b07_dreadwraith,b07_dreadwraith,b07_dreadwraith,b07_dreadwraith"
+20	b_lower_vault	",Death Lords, Vampire Ancients, Shadow of the Void"	****	****	"b08_deathknight,b08_deathknight"	33	"b08_vampire,b08_vampire"	33	"b08_shadow_of_the_void,b08_shadow_of_the_void"
+21	b_wells_of_lurue	",Various Telthors and Elementals"	****	****	"b10_telthor_direbear,b10_telthor_direbear,b10_telthor_direbear"	33	"b10_telthor_wolf,b10_telthor_wolf"	33	"b10_earth_elemental,b10_orglash"

@@ -1,0 +1,7 @@
+2DA V2.0
+
+  LABEL         ReqType  ReqParam1         ReqParam2 
+0 BAB           BAB      5                 ****      
+1 Divine        DIVSPELL 4                 ****      
+2 CombatCasting FEAT     7                 ****      
+3 ScriptVar     VAR      nw_AllowWarpriest 0         

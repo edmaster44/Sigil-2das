@@ -1,0 +1,16 @@
+2DA V2.0                                                                     
+                                                                             
+           Label           Walk   WalkCheck   LineOfSight   Sound   Name	IsWater		Visual
+0          NotDefined      0      0           0             ****    ****	0			****
+1          Dirt            1      1           1             DT      Dirt	0			fx_step_dust
+2          Grass           1      1           1             GR      Grass	0			****
+3          Stone           1      1           1             ST      Stone	0			****
+4          Wood            1      1           1             WD      Wood	0			****
+5          Carpet          1      1           1             CP      Carpet	0			****
+6          Metal           1      1           1             MT      Metal	0			****
+7          Swamp           1      1           1             WT      ****	1			fx_step_splash
+8          Mud             1      1           1             WT      ****	1			fx_step_splash
+9          Leaves          1      1           1             LV      Leaves	0			****
+10         Water           1      1           1             WT      Water	1			fx_step_splash
+11         Puddles         1      1           1             WT      Puddle	1			fx_step_splash
+12         Temp            0      0           0             ****    ****	0			****

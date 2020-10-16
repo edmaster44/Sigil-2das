@@ -1,0 +1,31 @@
+2DA V2.0
+
+   LABEL                    StringRef NWN2_ModelName        NWN2_Skeleton_File     NWN2_BaseAnims MODEL                  
+0  None                     112753    ****                  ****                   ****           ****                   
+1  Lizard                   ****      ****                  ****                   ****           c_tailliz              
+2  Bone                     ****      ****                  ****                   ****           c_tailbone             
+3  Devil                    ****      ****                  ****                   ****           c_taildevil            
+4  RedDragonTail            112573    c_reddragon_tail      c_dragontail_skel      c_dragon       c_reddragon_tail       
+5  SuccubusTail             113254    C_Succubus_Tail       c_succubustail_skel    C_Succubus     C_Succubus_Tail        
+6  N_HezebelTail            113349    N_Hezebel_tail        P_HHFtail_skel         P_HHF          N_Hezebel_tail         
+7  BlackDragonTail          181022    C_Blackdragon_Tail    C_Blackdragontail_skel c_blackdragon  C_Blackdragon_Tail     
+8  Tiefling_Tail_Male       184703    P_HTM_tail            P_HHMtail_skel         P_HHM          P_HTM_tail             
+9  Tiefling_Tail_Female     184704    P_HTF_tail            P_HHFtail_skel         P_HHF          P_HTF_tail             
+10 BlueDragonTail           185674    c_bluedragon_tail     c_bluedragontail_skel  c_bluedragon   c_bluedragon_tail      
+11 BronzeDragonTail         201148    c_bronzedragon_tail   c_dragontail_skel      c_dragon       c_bronzedragon_tail    
+12 HezebelTail_HumanMale    113349    N_Hezebel_tail        P_HHMtail_skel         P_HHM          N_Hezebel_tail         
+13 SuccubusTail_HumanFemale 113254    C_Succubus_Tail       P_HHFtail_skel         P_HHF          C_Succubus_Tail        
+14 SuccubusTail_HumanMale   113254    C_Succubus_Tail       P_HHMtail_skel         P_HHM          C_Succubus_Tail        
+15 Tiger_Tail_Female        184704    P_HTF_ttail           P_HHFtail_skel         P_HHF          P_HTF_ttail            
+16 Tiger_Tail_Male          184704    P_HTM_ttail           P_HHMtail_skel         P_HHM          P_HTM_ttail            
+17 ****                     ****      ****                  ****                   ****           ****                   
+18 ShadowDragonTail         ****      c_shadowdragon_tail   c_dragontail_skel      c_dragon       c_shadowdragon_tail    
+19 AmethystDragonTail       16780196  c_amethystdragon_tail c_dragontail_skel      c_dragon       c_amethystdragon_tail  
+20 EmeraldDragonTail        16780197  c_emeralddragon_tail  c_dragontail_skel      c_dragon       c_emeralddragon_tail   
+21 TopazDragonTail          16780199  c_topazdragon_tail    c_dragontail_skel      c_dragon       c_topazdragon_tail     
+22 CopperDragonTail         16780198  c_copperdragon_tail   c_dragontail_skel      c_dragon       c_copperdragon_tail    
+23 IronDragonTail           16780200  c_irondragon_tail     c_dragontail_skel      c_dragon       c_irondragon_tail      
+24 WhiteDragonTail          16781240  c_whitedragon_tail    c_dragontail_skel      c_dragon       c_whitedragon_tail01   
+25 RadiantDragonTail        16807254  c_radiantdragon_tail  c_dragontail_skel      c_dragon       c_radiantdragon_tail01 
+26 Huldre_Tail_Female       ****      C_Huldre_Tail         P_HHFtail_skel         P_HHF          C_Huldre_Tail
+27 Huldre_Tail_Male         ****      C_Huldre_Tail         P_HHMtail_skel         P_HHM          C_Huldre_Tail

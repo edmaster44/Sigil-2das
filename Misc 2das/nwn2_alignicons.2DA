@@ -1,0 +1,13 @@
+2DA	V2.0	
+
+	Alignment	AlignmentIcon
+
+0	ALIGN_CG	align_cg
+1	ALIGN_NG	align_ng
+2	ALIGN_LG	align_lg
+3	ALIGN_CN	align_cn
+4	ALIGN_TN	align_nn
+5	ALIGN_LN	align_ln
+6	ALIGN_CE	align_ce
+7	ALIGN_NE	align_ne
+8	ALIGN_LE	align_le

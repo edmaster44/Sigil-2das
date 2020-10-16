@@ -1,0 +1,9 @@
+2DA V2.0
+
+  LABEL                      ReqType  ReqParam1 ReqParam2 
+0 Race_Eladrin               SUBRACE  193       ****      
+1 Epithet_Eladrin            FEAT     2492      ****      
+2 Weapon_Proficiency_Martial FEAT     45        ****      
+3 BAB+2                      BAB      2         ****      
+4 No_Firre                   CLASSNOT 102       ****      
+5 No_Ghaele                  CLASSNOT 103       ****      

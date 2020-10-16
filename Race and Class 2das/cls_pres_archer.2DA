@@ -1,0 +1,9 @@
+2DA V2.0
+
+  LABEL            ReqType  ReqParam1      ReqParam2 
+0 Point_Blank_Shot FEAT     27             ****      
+1 WeapFocLongBow   FEATOR   101            ****      
+2 WeapFocShortBow  FEATOR   102            ****      
+3 Base_Attack      BAB      6              ****      
+4 ScriptVar        VAR      X1_AllowArcher 0         
+5 Arcane           ARCSPELL 1              ****      

@@ -1,0 +1,10 @@
+2DA V2.0
+
+   LABEL              ReqType  ReqParam1 ReqParam2 
+0  Race_Aasimon       SUBRACE  203       ****      
+1  Class_Cleric       CLASSOR  2         ****      
+2  Class_Favored_Soul CLASSOR  58        ****      
+3  Class_Paladin      CLASSOR  6         ****      
+4  Aasimon_epithet    FEAT     2679      ****      
+5  No_Monadic         CLASSNOT 88        ****      
+6  No_Movanic         CLASSNOT 89        ****      

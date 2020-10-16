@@ -1,0 +1,6 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 Race_Fire_Giant SUBRACE 202 ****
+1 Fire_giant_epithet FEAT 2680 ****
+2 Race_Fire_Giant SUBRACE 206 ****

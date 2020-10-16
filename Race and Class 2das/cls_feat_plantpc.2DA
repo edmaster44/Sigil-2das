@@ -1,0 +1,14 @@
+2DA V2.0
+
+  FeatLabel            FeatIndex List GrantedOnLevel OnMenu 
+0 FEAT_GENESIS         5016      3    1              0      
+1 FEAT_ARMOR_OF_NATURE 5017      3    1              0      
+2 FEAT_OVERGROWTH      5018      3    3              0      
+3 FEAT_TOUGH_ROOTS     5019      3    6              0      
+4 EPIC_STR1            814       3    1              0      
+4 EPIC_STR2            815       3    1              0      
+5 EPIC_STR3            816       3    5              0      
+5 EPIC_STR4            817       3    5              0      
+6 EPIC_CON1            774       3    3              0      
+6 EPIC_CON2            775       3    3              0      
+9 EPIC_CON3            776       3    6              0      

@@ -1,0 +1,5 @@
+2DA V2.0
+
+                         LABEL     ReqType           ReqParam1     ReqParam2
+0      FEAT_ELDRITCH_BLAST_4        FEAT                1414          ****
+1                  ScriptVar         VAR      X2_AllowPalema             0

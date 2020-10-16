@@ -1,0 +1,16 @@
+2DA V2.0
+
+      Label               Name   Description   NormalItem       MaximizedItem    SkillRank   Cost    CanBeFound    Ingredient0         Count0   Ingredient1         Count1   SpellcraftIDRnk
+0     Aid                 269    344           nw_wblml001      ****             4           120     1             Holy_Water          2        ****                ****     15
+1     Antidote            270    345           nw_wblml001      ****             12          300     0             Venom_Gland         1        ****                ****     15
+2     BearsEndurance      271    346           nw_wblml001      ****             8           120     1             Distilled_Alchohol  1        ****                ****     15
+3     Bless               343    347           nw_wblml001      ****             6           40      1             Powdered_Silver     2        ****                ****     15
+4     BullsStrength       273    349           nw_wblml001      ****             8           120     1             Adamantine_Powder   1        ****                ****     15
+5     CatsGrace           274    350           nw_wblml001      ****             8           120     1             Quicksilver         1        Powdered_Silver     1        15
+6     CureLight           275    351           nw_wblml001      nw_wblml002      6           20      1             Garlic              2        ****                ****     15
+7     CureModerate        276    352           nw_wblml001      nw_wblml002      9           33      1             Belladona           1        ****                ****     15
+8     CureSerious         277    353           nw_wblml001      nw_wblml002      12          66      1             Holy_Water          1        Garlic              1        15
+9     CureCritical        278    354           nw_wblml001      nw_wblml002      15          280     0             Deva_Feather        1        ****                ****     15
+10    CureDisease         279    355           nw_wblml001      ****             15          300     0             Diamond_Dust        1        ****                ****     15
+11    LesserRestoration   280    356           nw_wblml001      ****             9           120     0             Slaad_Tongue        1        ****                ****     15
+12    Speed               281    357           nw_wblml001      ****             11          300     0             Quicksilver         1        Garnet              1        15

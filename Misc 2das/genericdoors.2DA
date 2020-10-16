@@ -1,0 +1,16 @@
+2DA V2.0                                                                                          
+                                                                                                  
+           Label          StrRef   ModelName   BlockSight   VisibleModel   SoundAppType   Name    
+0          Wood_strong    5349     T_DOOR01    1            1              0              63750   
+1          Fancy          5349     T_DOOR02    1            1              0              14445   
+2          Porticullis    5349     T_Door03    0            1              11             63199   
+3          Porticullis2   5349     T_Door04    0            1              11             63752   
+4          Rusted         5349     T_Door05    1            1              7              14451   
+5          Metal          5349     T_Door06    1            1              7              14449   
+6          Stone_evil     5349     T_Door07    1            1              4              14444   
+7          Stone          5349     T_Door08    1            1              4              14452   
+8          Jeweled        5349     T_Door09    1            1              7              14448   
+9          Wood_weak      5349     T_Door10    1            1              0              63751   
+10         ForceField     5349     T_Door11    0            1              ****           63753   
+                                                                                                  
+                                                                                                  

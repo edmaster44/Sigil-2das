@@ -1,0 +1,6 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 Race_Frost_Giant SUBRACE 201 ****
+1 Frost_giant_epithet FEAT 2681 ****
+2 Race_Frost_Giant SUBRACE 205 ****

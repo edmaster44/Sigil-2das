@@ -1,0 +1,18 @@
+2DA V2.0
+
+   FeatLabel                         FeatIndex 
+0  Darkvision                        228       
+1  SmiteEvil                         301       
+2  FEAT_RACIAL_NATURAL_ARMOR_1       2112      
+3  FEAT_RACIAL_IMMUNITY_DISEASE      2113      
+4  FEAT_RACIAL_RESIST_ACID_10        2114      
+5  FEAT_RACIAL_RESIST_COLD_10        2115      
+6  FEAT_RACIAL_RESIST_ELECTRICITY_10 2116      
+7  FEAT_RACIAL_DR_MAGIC_5            2292      
+8  FEAT_RACIAL_SPELL_RESISTANCE_10   2118      
+9  FEAT_RACIAL_RESIST_POISON         2119      
+10 FEAT_WINGS                        2120      
+11 FEAT_RACIAL_RESURRECTION          2871      
+12 FEAT_RACIAL_WORD_OF_FAITH         2872      
+13 FEAT_RACIAL_MASS_CHARM_MONSTER    2873      
+14 FEAT_RACIAL_SUMMON_PLANETAR       2874      

@@ -1,0 +1,16 @@
+2DA V2.0
+
+     FeatLabel                          FeatIndex List GrantedOnLevel OnMenu 
+0    FEAT_HA_SPELLCASTING_PALADIN       2455      2    1              0      
+1    FEAT_HA_SPELLCASTING_RANGER        2456      2    1              0      
+2    FEAT_HA_ARCHONIC_ARMOR             2449      3    1              0      
+3    FEAT_HA_CANINE_FORM_2              2450      3    1              1      
+4    FEAT_EPIC_GREAT_STRENGTH_1         814       3    1              0      
+5    FEAT_HA_DAMAGE_REDUCTION           2451      3    3              0      
+6    FEAT_HA_SPELLABILITY_AID           2452      3    3              1      
+7    FEAT_EPIC_GREAT_WISDOM_1           804       3    3              0      
+8    FEAT_HA_SANCTIFIED_WEAPON          2453      3    4              1      
+9    FEAT_EPIC_GREAT_CONSTITUTION_1     774       3    4              0      
+10   FEAT_EPIC_GREAT_CHARISMA_1         764       3    5              0      
+11   FEAT_HA_AURA_OF_MENACE             2454      3    6              1      
+12   FEAT_EPIC_GREAT_STRENGTH_2         815       3    6              0      

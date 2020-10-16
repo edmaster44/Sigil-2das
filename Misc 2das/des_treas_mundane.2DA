@@ -1,0 +1,839 @@
+2DA	V2.0						
+
+	Comment	THigh	LabelHigh	TMed	LabelMed	TLow	LabelLow
+0	****	171	****	160	****	55	****
+1	****	NW_WMGWN011	WandArcaneDisj	NW_IT_MPOTION016	PotionAid	nw_it_medkit001	HealKit+1
+2	****	NW_WMGWN003	WandFear	NW_IT_MPOTION005	PotionBarkskin	nw_it_medkit001	HealKit+1
+3	****	NW_WMGWN002	WandFire	NW_IT_MPOTION009	PotionBless	nw_it_medkit001	HealKit+1
+4	****	NW_WMGWN013	WandLesserSummon	NW_IT_MPOTION015	PotionBullstrength	nw_it_medkit001	HealKit+1
+5	****	NW_WMGWN007	WandLightning	NW_IT_MPOTION014	PotionCatsGrace	nw_it_medkit001	HealKit+1
+6	****	NW_WMGWN004	WandMissiles	NW_IT_MPOTION020	PotionCureModerate	nw_it_medkit001	HealKit+1
+7	****	NW_WMGWN004	WandMissiles	NW_IT_MPOTION020	PotionCureModerate	nw_it_medkit001	HealKit+1
+8	****	nw_wmgwn012	WandSleep	NW_IT_MPOTION010	PotionEagle	nw_it_medkit001	HealKit+1
+9	****	NW_WMGWN008	WandSummoning	NW_IT_MPOTION013	PotionEndurance	nw_it_medkit001	HealKit+1
+10	****	x2_it_spdvscr405	FreedomOfMovement	NW_IT_MPOTION017	PotionFox	nw_it_medkit001	HealKit+1
+11	****	nw_it_spdvscr402	NeutralizePoison	NW_IT_MPOTION008	PotionInvis	NW_IT_PICKS001	Lockpicks+1
+12	****	nw_it_sparscr415	PolymorphSelf	NW_IT_MPOTION019	PotionLore	NW_IT_PICKS001	Lockpicks+1
+13	****	nw_it_sparscr403	Stoneskin	NW_IT_MPOTION018	PotionOwl	NW_IT_PICKS001	Lockpicks+1
+14	****	nw_it_sparscr404	SummonCreatureIV	NW_WMGWN011	WandArcaneDisj	NW_IT_PICKS001	Lockpicks+1
+15	****	x2_it_spdvscr402	CureCriticalWounds	NW_WMGWN013	WandLesserSummon	NW_IT_PICKS001	Lockpicks+1
+16	****	nw_it_sparscr407	WallOfFire	NW_WMGWN004	WandMissiles	NW_IT_PICKS001	Lockpicks+1
+17	****	nw_it_sparscr405	CharmMonster	nw_wmgwn012	WandSleep	NW_IT_PICKS002	Lockpicks+3
+18	****	nw_it_sparscr406	Confusion	NW_WMGWN013	WandLesserSummon	NW_IT_PICKS002	Lockpicks+3
+19	****	n2_it_sparscr006	CrushingDespair	NW_WMGWN013	WandLesserSummon	NW_IT_PICKS002	Lockpicks+3
+20	****	nw_it_sparscr416	ElementalShield	NW_WMGWN013	WandLesserSummon	NW_IT_PICKS002	Lockpicks+3
+21	****	nw_it_sparscr412	Enervation	NW_WMGWN013	WandLesserSummon	NW_IT_PICKS002	Lockpicks+3
+22	****	nw_it_sparscr418	EvardsBlackTentacles	NW_WMGWN004	WandMissiles	NW_IT_PICKS002	Lockpicks+3
+23	****	nw_it_sparscr413	Fear	NW_WMGWN004	WandMissiles	X1_WMGRENADE001	AcidFlask
+24	****	n2_it_sparscr013	GlobeOfInvulnerabilityLesser	NW_WMGWN004	WandMissiles	X1_WMGRENADE002	AlchemistsFire
+25	****	nw_it_sparscr408	InvisibilityGreater	NW_WMGWN004	WandMissiles	nw_it_medkit002	HealKit+3
+26	****	x1_it_sparscr401	IsaacsLesserMissileStorm	NW_WMGWN004	WandMissiles	X1_WMGRENADE004	ChokingPowder
+27	****	nw_it_sparscr417	SpellBreachLesser	NW_WMGWN004	WandMissiles	X1_WMGRENADE005	HolyWater
+28	****	nw_it_sparscr409	PhantasmalKiller	n2_it_sparscr004	CauseFear	X1_WMGRENADE006	TanglefootBag
+29	****	nw_it_sparscr410	ShadowConjuration	x2_it_spdvscr104	CureLightWounds	X1_WMGRENADE007	Thunderstone
+30	****	n2_it_sparscr034	WarCry	n2_it_spdvscr006	DetectUndead	NW_IT_MPOTION019	PotionLore
+31	****	nw_it_sparscr501	Dismissal	nw_it_sparscr101	EndureElements	NW_IT_MPOTION022	Spirits
+32	****	nw_it_sparscr505	HoldMonster	nw_it_sparscr103	Grease	NW_IT_MPOTION023	Wine
+33	****	nw_it_sparscr510	SummonCreatureV	n2_it_sparscr021	Low-LightVision	NW_IT_MPOTION021	Ale
+34	****	x2_it_spdvscr505	CureLightWoundsMass	x2_it_sparscr105	MagicWeapon	X1_WMGRENADE001	Acid
+35	****	nw_it_sparscr502	Cloudkill	nw_it_sparscr102	ProtectionFromAlignment	X1_WMGRENADE002	AlchemistsFire
+36	****	nw_it_sparscr507	ConeOfCold	nw_it_sparscr108	Sleep	nw_it_medkit002	HealKit+3
+37	****	nw_it_sparscr503	DominatePerson	nw_it_sparscr105	SummonCreatureI	X1_WMGRENADE004	ChokingPowder
+38	****	nw_it_sparscr504	Feeblemind	nw_it_sparscr112	BurningHands	X1_WMGRENADE005	HolyWater
+39	****	x1_it_sparscr501	Firebrand	nw_it_sparscr107	CharmPerson	X1_WMGRENADE006	TanglefootBag
+40	****	n2_it_sparscr012	FireburstGreater	nw_it_sparscr110	ColorSpray	X1_WMGRENADE007	Thunderstone
+41	****	nw_it_sparscr511	MindBlankLesser	n2_it_sparscr009	EnlargePerson	X1_WMGRENADE001	AcidFlask
+42	REPEAT	nw_it_sparscr512	PlanarBindingLesser	x1_it_sparscr101	ExpeditiousRetreat	X1_WMGRENADE002	AlchemistsFire
+43	****	nw_it_sparscr513	SpellMantleLesser	nw_it_sparscr106	Identify	nw_it_medkit002	HealKit+3
+44	****	nw_it_sparscr506	MindFog	n2_it_sparscr019	JoyfulNoise	X1_WMGRENADE004	ChokingPowder
+45	****	n2_it_sparscr029	ShroudOfFlame	nw_it_sparscr104	MageArmor	X1_WMGRENADE005	HolyWater
+46	****	n2_it_sparscr030	SongOfDiscord	nw_it_sparscr109	MagicMissile	X1_WMGRENADE006	TanglefootBag
+47	****	n2_it_sparscr033	VitriolicSphere	nw_it_sparscr111	RayOfEnfeeblement	X1_WMGRENADE007	Thunderstone
+48	****	x2_it_sparscr401	IceStorm	x1_it_sparscr103	Shield	NW_IT_MPOTION001	PotionCureLight
+49	****	x1_it_spdvscr605	CreateUndead	n2_it_sparscr028	ShockingGrasp	NW_IT_MPOTION001	PotionCureLight
+50	****	nw_it_sparscr602	DispelMagicGreater	x1_it_sparscr104	TrueStrike	NW_IT_MEDKIT003	Healing+6
+51	****	nw_it_sparscr613	StoneskinGreater	nw_it_sparscr212	BullsStrength	NW_IT_MEDKIT003	Healing+6
+52	****	n2_it_sparscr032	StoneBody	nw_it_sparscr213	CatsGrace	NW_IT_PICKS003	Lockpicks+6
+53	****	nw_it_sparscr605	SummonCreatureVI	nw_it_spdvscr206	Darkness	NW_IT_PICKS003	Lockpicks+6
+54	****	x2_it_sparscr601	UndeathToDeath	nw_it_sparscr219	EaglesSplendor	nw_it_medkit002	HealKit+3
+55	****	n2_it_spdvscr002	CureModerateWoundsMass	x1_it_sparscr303	GustOfWind	nw_it_medkit002	HealKit+3
+56	****	n2_it_sparscr027	Repulsion	nw_it_sparscr218	DispelMagicLesser	****	****
+57	****	nw_it_sparscr606	TrueSeeing	nw_it_sparscr221	OwlsWisdom	****	****
+58	****	nw_it_sparscr607	ChainLightning	nw_it_sparscr201	ResistEnergy	****	****
+59	****	nw_it_sparscr610	CircleOfDeath	nw_it_spdvscr203	Silence	****	****
+60	****	x1_it_sparscr601	Dirge	nw_it_sparscr203	SummonCreatureII	****	****
+61	****	n2_it_sparscr008	Disintegrate	nw_it_sparscr207	Invisibility	****	****
+62	****	nw_it_sparscr608	EtherealVisage	x2_it_spdvscr203	CureModerateWounds	****	****
+63	****	x1_it_sparscr605	FleshToStone	x2_it_sparscr206	CloudOfBewilderment	****	****
+64	****	nw_it_sparscr601	GlobeOfInvulnerability	x2_it_sparscr201	Combust	****	****
+65	****	nw_it_sparscr612	SpellBreachGreater	x2_it_sparscr202	DeathArmor	****	****
+66	****	n2_it_sparscr015	HeroismGreater	n2_it_sparscr010	FalseLife	****	****
+67	****	x1_it_sparscr603	IsaacsGreaterMissileStorm	n2_it_sparscr011	Fireburst	****	****
+68	****	x2_it_sparscr602	LegendLore	nw_it_sparscr220	FoxsCunning	****	****
+69	****	nw_it_sparscr604	PlanarBinding	x2_it_sparscr203	GedleesElectricLoop	****	****
+70	****	x1_it_sparscr604	StoneToFlesh	nw_it_sparscr208	GhostlyVisage	****	****
+71	****	nw_it_sparscr614	TensersTransformation	nw_it_sparscr209	GhoulTouch	****	****
+72	****	nw_it_sparscr707	ControlUndead	nw_it_sparscr207	Invisibility	****	****
+73	****	n2_it_spdvscr007	EnergyImmunity	nw_it_sparscr216	Knock	****	****
+74	****	n2_it_spdvscr008	EtherealJaunt	nw_it_sparscr202	MelfsAcidArrow	****	****
+75	****	nw_it_sparscr703	SummonCreatureVII	n2_it_sparscr023	MirrorImage	****	****
+76	****	nw_it_sparscr708	FingerOfDeath	n2_it_sparscr025	ProtectionFromArrows	****	****
+77	****	nw_it_sparscr704	DelayedBlastFireball	nw_it_sparscr210	Scare	****	****
+78	****	nw_it_sparscr508	ShadowConjurationGreater	nw_it_sparscr205	SeeInvisibility	****	****
+79	****	n2_it_sparscr017	HoldPersonMass	x1_it_sparscr202	TashasHideousLaughter	****	****
+80	****	nw_it_sparscr705	MordenkainensSword	nw_it_sparscr204	Web	****	****
+81	****	nw_it_sparscr706	PrismaticSpray	x2_it_sparscr305	FindTraps	****	****
+82	****	x2_it_sparscr703	ShadowShield	nw_it_sparscr308	HoldPerson	****	****
+83	REPEAT	nw_it_sparscr701	SpellMantle	nw_it_sparscr309	Fireball	****	****
+84	****	x1_it_spdvscr804	CreateGreaterUndead	nw_it_sparscr302	MagicCircleAgainstAlignment	****	****
+85	****	nw_it_sparscr808	Premonition	nw_it_sparscr303	ProtectionFromEnergy	****	****
+86	****	nw_it_sparscr805	SummonCreatureVIII	n2_it_sparscr031	Spiderskin	****	****
+87	****	x1_it_spdvscr802	Sunburst	nw_it_sparscr306	SummonCreatureIII	****	****
+88	****	n2_it_sparscr005	CharmMonsterMass	n2_it_sparscr035	WeaponOfImpact	****	****
+89	****	nw_it_sparscr803	PlanarBindingGreater	x2_it_spdvscr308	CureSeriousWounds	****	****
+90	****	nw_it_sparscr809	HorridWilting	nw_it_sparscr301	DispelMagic	****	****
+91	****	nw_it_sparscr804	IncendiaryCloud	x2_it_sparscr304	MagicWeaponGreater	****	****
+92	****	n2_it_sparscr018	IronBody	nw_it_sparscr307	ClairaudienceAndClairvoyance	****	****
+93	****	nw_it_sparscr806	CharmMonsterMass	n2_it_sparscr007	DeepSlumber	****	****
+94	****	nw_it_sparscr801	MindBlank	x1_it_sparscr301	Displacement	****	****
+95	****	n2_it_sparscr024	PolarRay	nw_it_sparscr309	Fireball	****	****
+96	****	nw_it_sparscr702	PowerWordStun	nw_it_sparscr304	FlameArrow	****	****
+97	****	nw_it_sparscr802	ProtectionFromSpells	nw_it_sparscr312	Haste	****	****
+98	****	nw_it_sparscr908	EnergyDrain	n2_it_sparscr014	Heroism	****	****
+99	****	n2_it_sparscr036	Etherealness	nw_it_sparscr314	InvisibilitySphere	****	****
+100	****	nw_it_sparscr902	Gate	x2_it_sparscr303	KeenEdge	****	****
+101	****	nw_it_sparscr910	Shapechange	nw_it_sparscr310	LightningBolt	****	****
+102	****	nw_it_sparscr904	SummonCreatureIX	n2_it_sparscr022	MageArmorImproved	****	****
+103	****	nw_it_sparscr905	DominateMonster	x2_it_sparscr301	MestilsAcidBreath	****	****
+104	****	nw_it_sparscr912	SpellMantleGreater	n2_it_sparscr026	Rage	****	****
+105	****	n2_it_sparscr016	HoldMonsterMass	x2_it_sparscr302	ScintillatingSphere	****	****
+106	****	nw_it_sparscr906	MeteorSwarm	nw_it_sparscr313	Slow	****	****
+107	****	nw_it_sparscr901	MordenkainensDisjunction	nw_it_sparscr305	StinkingCloud	****	****
+108	****	nw_it_sparscr903	PowerWordKill	nw_it_sparscr311	VampiricTouch	****	****
+109	****	nw_it_sparscr609	Shades	nw_it_sparscr411	Contagion	****	****
+110	****	nw_it_sparscr909	WailOfTheBanshee	nw_it_sparscr402	RemoveCurse	****	****
+111	****	nw_it_sparscr907	Weird	x1_it_spdvscr107	Camouflage	****	****
+112	****	x2_it_spdvscr404	DivinePower	nw_it_sparscr312	Haste	****	****
+113	****	x2_it_spdvscr406	HammerOfTheGods	x1_it_spdvscr102	DivineFavor	****	****
+114	****	x2_it_spdvscr401	HolySword	x2_it_spdvscr105	Doom	****	****
+115	****	x1_it_spdvscr401	InflictCriticalWounds	x2_it_spdvscr106	Entangle	****	****
+116	****	n2_it_sparscr020	LeastSpellMantle	x1_it_spdvscr103	EntropicShield	****	****
+117	****	x1_it_spdvscr402	CamouflageMass	x1_it_spdvscr104	InflictLightWounds	****	****
+118	****	x2_it_spdvscr407	Poison	x1_it_spdvscr106	MagicFang	****	****
+119	****	nw_it_sparscr401	Restoration	x2_it_spdvscr107	RemoveFear	****	****
+120	****	x2_it_spdvscr403	DeathWard	nw_it_sparscr001	Resistance	****	****
+121	****	x1_it_spdvscr403	FlameStrike	x2_it_spdvscr108	Sanctuary	****	****
+122	****	x1_it_spdvscr501	Inferno	x1_it_spdvscr105	ShieldOfFaith	****	****
+123	****	x2_it_spdvscr504	InflictLightWoundsMass	x2_it_spdvscr002	Virtue	****	****
+124	REPEATMISC	x1_it_spdvscr502	OwlsInsight	n2_it_spdvscr004	DeathKnell	****	****
+125	****	nw_it_spdvscr501	RaiseDead	x2_it_sparscr205	FlameWeapon	****	****
+126	****	n2_it_spdvscr012	RighteousMight	x2_it_spdvscr204	HoldAnimal	****	****
+127	****	x2_it_spdvscr506	SlayLiving	x1_it_spdvscr201	InflictModerateWounds	****	****
+128	****	x2_it_spdvscr507	SpellResistance	nw_it_spdvscr201	RestorationLesser	****	****
+129	REPEAT	x2_it_spdvscr503	VineMine	x2_it_spdvscr205	RemoveParalysis	****	****
+130	****	x2_it_spdvscr601	Crumble	n2_it_spdvscr013	ShieldOther	****	****
+131	****	x1_it_spdvscr604	Drown	x2_it_spdvscr307	CallLightning	****	****
+132	****	n2_it_spdvscr010	InflictModerateWoundsMass	x2_it_spdvscr309	DominateAnimal	****	****
+133	****	x1_it_spdvscr603	PlanarAlly	x2_it_spdvscr306	GlyphOfWarding	****	****
+134	****	x2_it_spdvscr602	Stonehold	x1_it_spdvscr303	MagicFangGreater	****	****
+135	****	x1_it_spdvscr702	CreepingDoom	x2_it_spdvscr301	InfestationOfMaggots	****	****
+136	****	x1_it_spdvscr703	Destruction	x1_it_spdvscr302	InflictSeriousWounds	****	****
+137	****	nw_it_spdvscr701	RestorationGreater	x2_it_spdvscr310	InvisibilityPurge	****	****
+138	****	x2_it_spdvscr604	Harm	x2_it_spdvscr304	MagicVestment	****	****
+139	****	x2_it_spdvscr605	Heal	x2_it_spdvscr312	Prayer	****	****
+140	****	n2_it_spdvscr011	InflictSeriousWoundsMass	x1_it_spdvscr305	Quillfire	****	****
+141	****	x2_it_spdvscr702	Regenerate	nw_it_spdvscr301	RemoveBlindnessAndDeafness	****	****
+142	****	nw_it_spdvscr702	Resurrection	nw_it_spdvscr302	RemoveDisease	****	****
+143	****	x2_it_spdvscr701	WordOfFaith	x2_it_spdvscr313	SearingLight	****	****
+144	****	x1_it_spdvscr803	Bombardment	x1_it_spdvscr304	SpikeGrowth	****	****
+145	****	n2_it_spdvscr003	CureSeriousWoundsMass	x1_it_sparscr002	AcidSplash	****	****
+146	****	x1_it_spdvscr801	Earthquake	x2_it_spdvscr201	Aid	****	****
+147	****	x1_it_spdvscr704	FireStorm	x1_it_sparscr102	Amplify	****	****
+148	****	n2_it_spdvscr009	InflictCriticalWoundsMass	x1_it_spdvscr204	AuraOfGlory	****	****
+149	****	x2_it_spdvscr803	Sunbeam	x1_it_sparscr201	BalagarnsIronHorn	****	****
+150	****	n2_it_spdvscr001	CureCriticalWoundsMass	x1_it_spdvscr101	Bane	****	****
+151	****	x2_it_spdvscr901	ElementalSwarm	x2_it_spdvscr202	Barkskin	****	****
+152	****	x2_it_spdvscr902	Implosion	n2_it_sparscr002	BearsEndurance	****	****
+153	****	x2_it_spdvscr801	HealMass	nw_it_sparscr414	BestowCurse	****	****
+154	****	x2_it_spdvscr903	StormOfVengeance	x2_it_spdvscr103	Bless	****	****
+155	****	x1_it_spdvscr901	UndeathsEternalFoe	x2_it_spdvscr102	BlessWeapon	****	****
+156	****	nw_it_sparscr603	AcidFog	nw_it_sparscr211	BlindnessAndDeafness	****	****
+157	****	nw_it_sparscr509	AnimateDead	n2_it_sparscr003	Blindsight	****	****
+158	****	n2_it_sparscr001	AssayResistance	nw_it_spdvscr204	SoundBurst	****	****
+159	****	x1_it_spdvscr701	AuraOfVitality	nw_it_sparscr204	Web	****	****
+160	****	x2_it_spdvscr804	AuraVersusAlignment	nw_it_sparscr106	Identify	****	****
+161	****	x2_it_spdvscr508	Awaken	****	****	****	****
+162	****	x1_it_spdvscr601	Banishment	****	****	****	****
+163	****	x2_it_spdvscr501	Battletide	****	****	****	****
+164	****	x1_it_sparscr801	BigbysClenchedFist	****	****	****	****
+165	****	x1_it_sparscr901	BigbysCrushingHand	****	****	****	****
+166	****	x1_it_sparscr602	BigbysForcefulHand	****	****	****	****
+167	****	x1_it_sparscr701	BigbysGraspingHand	****	****	****	****
+168	****	x1_it_sparscr502	BigbysInterposingHand	****	****	****	****
+169	****	x2_it_sparscr801	Blackstaff	****	****	****	****
+170	REPEAT	x2_it_spdvscr603	BladeBarrier			****	****
+171	****	nw_it_sparscr807	BlindnesAndDeafnessMass			****	****
+172	****	****	****	****	****	****	****
+173	****	****	****	****	****	****	****
+174	****	****	****	****	****	****	****
+175	****	****	****	****	****	****	****
+176	****	****	****	****	****	****	****
+177	****	****	****	****	****	****	****
+178	****	****	****	****	****	****	****
+179	****	****	****	****	****	****	****
+180	****	****	****	****	****	****	****
+181	****	****	****	****	****	****	****
+182	****	****	****	****	****	****	****
+183	****	****	****	****	****	****	****
+184	****	****	****	****	****	****	****
+185	****	****	****	****	****	****	****
+186	****	****	****	****	****	****	****
+187	****	****	****	****	****	****	****
+188	****	****	****	****	****	****	****
+189	****	****	****	****	****	****	****
+190	****	****	****	****	****	****	****
+191	****	****	****	****	****	****	****
+192	****	****	****	****	****	****	****
+193	****	****	****	****	****	****	****
+194	****	****	****	****	****	****	****
+195	****	****	****	****	****	****	****
+196	****	****	****	****	****	****	****
+197	****	****	****	****	****	****	****
+198	****	****	****	****	****	****	****
+199	****	****	****	****	****	****	****
+200	****	****	****	****	****	****	****
+201	****	****	****	****	****	****	****
+202	****	****	****	****	****	****	****
+203	****	****	****	****	****	****	****
+204	****	****	****	****	****	****	****
+205	****	****	****	****	****	****	****
+206	****	****	****	****	****	****	****
+207	****	****	****	****	****	****	****
+208	****	****	****	****	****	****	****
+209	****	****	****	****	****	****	****
+210	****	****	****	****	****	****	****
+211	REPEAT	****	****	****	****	****	****
+212	****	****	****	****	****	****	****
+213	****	****	****	****	****	****	****
+214	****	****	****	****	****	****	****
+215	****	****	****	****	****	****	****
+216	****	****	****	****	****	****	****
+217	****	****	****	****	****	****	****
+218	****	****	****	****	****	****	****
+219	****	****	****	****	****	****	****
+220	****	****	****	****	****	****	****
+221	****	****	****	****	****	****	****
+222	****	****	****	****	****	****	****
+223	****	****	****	****	****	****	****
+224	****	****	****	****	****	****	****
+225	****	****	****	****	****	****	****
+226	****	****	****	****	****	****	****
+227	****	****	****	****	****	****	****
+228	****	****	****	****	****	****	****
+229	****	****	****	****	****	****	****
+230	****	****	****	****	****	****	****
+231	****	****	****	****	****	****	****
+232	****	****	****	****	****	****	****
+233	****	****	****	****	****	****	****
+234	****	****	****	****	****	****	****
+235	****	****	****	****	****	****	****
+236	****	****	****	****	****	****	****
+237	****	****	****	****	****	****	****
+238	****	****	****	****	****	****	****
+239	****	****	****	****	****	****	****
+240	****	****	****	****	****	****	****
+241	****	****	****	****	****	****	****
+242	****	****	****	****	****	****	****
+243	****	****	****	****	****	****	****
+244	****	****	****	****	****	****	****
+245	****	****	****	****	****	****	****
+246	****	****	****	****	****	****	****
+247	****	****	****	****	****	****	****
+248	****	****	****	****	****	****	****
+249	****	****	****	****	****	****	****
+250	****	****	****	****	****	****	****
+251	****	****	****	****	****	****	****
+252	****	****	****	****	****	****	****
+253	****	****	****	****	****	****	****
+254	****	****	****	****	****	****	****
+255	****	****	****	****	****	****	****
+256	****	****	****	****	****	****	****
+257	****	****	****	****	****	****	****
+258	****	****	****	****	****	****	****
+259	****	****	****	****	****	****	****
+260	****	****	****	****	****	****	****
+261	****	****	****	****	****	****	****
+262	****	****	****	****	****	****	****
+263	****	****	****	****	****	****	****
+264	****	****	****	****	****	****	****
+265	****	****	****	****	****	****	****
+266	****	****	****	****	****	****	****
+267	****	****	****	****	****	****	****
+268	****	****	****	****	****	****	****
+269	****	****	****	****	****	****	****
+270	****	****	****	****	****	****	****
+271	****	****	****	****	****	****	****
+272	****	****	****	****	****	****	****
+273	****	****	****	****	****	****	****
+274	****	****	****	****	****	****	****
+275	****	****	****	****	****	****	****
+276	****	****	****	****	****	****	****
+277	****	****	****	****	****	****	****
+278	****	****	****	****	****	****	****
+279	****	****	****	****	****	****	****
+280	****	****	****	****	****	****	****
+281	****	****	****	****	****	****	****
+282	****	****	****	****	****	****	****
+283	****	****	****	****	****	****	****
+284	****	****	****	****	****	****	****
+285	****	****	****	****	****	****	****
+286	****	****	****	****	****	****	****
+287	****	****	****	****	****	****	****
+288	****	****	****	****	****	****	****
+289	****	****	****	****	****	****	****
+290	****	****	****	****	****	****	****
+291	****	****	****	****	****	****	****
+292	****	****	****	****	****	****	****
+293	****	****	****	****	****	****	****
+294	****	****	****	****	****	****	****
+295	****	****	****	****	****	****	****
+296	****	****	****	****	****	****	****
+297	****	****	****	****	****	****	****
+298	****	****	****	****	****	****	****
+299	****	****	****	****	****	****	****
+300	****	****	****	****	****	****	****
+301	****	****	****	****	****	****	****
+302	****	****	****	****	****	****	****
+303	****	****	****	****	****	****	****
+304	****	****	****	****	****	****	****
+305	****	****	****	****	****	****	****
+306	****	****	****	****	****	****	****
+307	****	****	****	****	****	****	****
+308	****	****	****	****	****	****	****
+309	****	****	****	****	****	****	****
+310	****	****	****	****	****	****	****
+311	****	****	****	****	****	****	****
+312	****	****	****	****	****	****	****
+313	****	****	****	****	****	****	****
+314	****	****	****	****	****	****	****
+315	****	****	****	****	****	****	****
+316	****	****	****	****	****	****	****
+317	****	****	****	****	****	****	****
+318	****	****	****	****	****	****	****
+319	****	****	****	****	****	****	****
+320	****	****	****	****	****	****	****
+321	****	****	****	****	****	****	****
+322	****	****	****	****	****	****	****
+323	****	****	****	****	****	****	****
+324	****	****	****	****	****	****	****
+325	****	****	****	****	****	****	****
+326	****	****	****	****	****	****	****
+327	****	****	****	****	****	****	****
+328	****	****	****	****	****	****	****
+329	****	****	****	****	****	****	****
+330	****	****	****	****	****	****	****
+331	****	****	****	****	****	****	****
+332	****	****	****	****	****	****	****
+333	****	****	****	****	****	****	****
+334	****	****	****	****	****	****	****
+335	****	****	****	****	****	****	****
+336	****	****	****	****	****	****	****
+337	****	****	****	****	****	****	****
+338	****	****	****	****	****	****	****
+339	****	****	****	****	****	****	****
+340	****	****	****	****	****	****	****
+341	****	****	****	****	****	****	****
+342	****	****	****	****	****	****	****
+343	****	****	****	****	****	****	****
+344	****	****	****	****	****	****	****
+345	****	****	****	****	****	****	****
+346	****	****	****	****	****	****	****
+347	****	****	****	****	****	****	****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				#REF!		
+				#REF!		
+		#N/A		#REF!		#N/A
+		Freedom of Movement		#REF!		#N/A
+		Neutralize Poison		#REF!		#N/A
+		Polymorph Self		#REF!		#N/A
+		Stoneskin		#REF!		#N/A
+		Summon Creature IV		#REF!		#N/A
+		Cure Critical Wounds		#REF!		#N/A
+		Wall of Fire		#REF!		#N/A
+		Charm Monster		#REF!		#N/A
+		Confusion		#REF!		#N/A
+		Crushing Despair		#REF!		#N/A
+		Elemental Shield		#REF!		#N/A
+		Enervation		#REF!		#N/A
+		Evard's Black Tentacles		#REF!		#N/A
+		Fear		#REF!		#N/A
+		"Globe of Invulnerability, Lesser"		#REF!		#N/A
+		"Invisibility, Greater"		#REF!		#N/A
+		Isaac's Lesser Missile Storm		#REF!		#N/A
+		"Spell Breach, Lesser"		#REF!		#N/A
+		Phantasmal Killer		#REF!		#N/A
+		Shadow Conjuration		#REF!		#N/A
+		War Cry		#REF!		#N/A
+		Dismissal		#REF!		#N/A
+		Hold Monster		#REF!		#N/A
+		Summon Creature V		Animate Dead		#N/A
+		"Cure Light Wounds, Mass"		Assay Resistance		#N/A
+		Cloudkill		Aura of Glory		#N/A
+		Cone of Cold		Aura of Vitality		#N/A
+		Dominate Person		Aura versus Alignment		#N/A
+		Feeblemind		Awaken		#N/A
+		Firebrand		Balagarn's Iron Horn		#N/A
+		"Fireburst, Greater"		Bane		#N/A
+		"Mind Blank, Lesser"		Banishment		#N/A
+		"Planar Binding, Lesser"		Barkskin		#N/A
+		"Spell Mantle, Lesser"		Battletide		#N/A
+		Mind Fog		Bear's Endurance		#N/A
+		Shroud of Flame		Bestow Curse		#N/A
+		Song of Discord		Bigby's Clenched Fist		#N/A
+		Vitriolic Sphere		Bigby's Crushing Hand		#N/A
+		Ice Storm		Bigby's Forceful Hand		#N/A
+		Create Undead		Bigby's Grasping Hand		#N/A
+		"Dispel Magic, Greater"		Bigby's Interposing Hand		#N/A
+		"Stoneskin, Greater"		Blackstaff		#N/A
+		Stone Body		Blade Barrier		#N/A
+		Summon Creature VI		Bless		#N/A
+		Undeath to Death		Bless Weapon		#N/A
+		"Cure Moderate Wounds, Mass"		Blindness and Deafness		#N/A
+		Repulsion		Blindsight		#N/A
+		True Seeing		"Blindness and Deafness, Mass"		#N/A
+		Chain Lightning		#N/A		#N/A
+		Circle of Death		Sound Burst		#N/A
+		Dirge		Web		#N/A
+		Disintegrate		#N/A		#N/A
+		Ethereal Visage		#N/A		#N/A
+		Flesh to Stone		#N/A		#N/A
+		Globe of Invulnerability		#N/A		#N/A
+		"Spell Breach, Greater"		#N/A		#N/A
+		"Heroism, Greater"		#N/A		#N/A
+		Isaac's Greater Missile Storm		#N/A		#N/A
+		Legend Lore		#N/A		#N/A
+		Planar Binding		#N/A		#N/A
+		Stone to Flesh		#N/A		#N/A
+		Tenser's Transformation		#N/A		#N/A
+		Control Undead		#N/A		#N/A
+		Energy Immunity		#N/A		#N/A
+		Ethereal Jaunt		#N/A		#N/A
+		Summon Creature VII		#N/A		#N/A
+		Finger of Death		#N/A		#N/A
+		Delayed Blast Fireball		#N/A		#N/A
+		"Shadow Conjuration, Greater"		#N/A		#N/A
+		"Hold Person, Mass"		#N/A		#N/A
+		Mordenkainen's Sword		#N/A		#N/A
+		Prismatic Spray		#N/A		#N/A
+		Shadow Shield		#N/A		#N/A
+		Spell Mantle		#N/A		#N/A
+		Create Greater Undead		#N/A		#N/A
+		Premonition		#N/A		#N/A
+		Summon Creature VIII		#N/A		#N/A
+		Sunburst		#N/A		#N/A
+		"Charm Monster, Mass"		#N/A		#N/A
+		"Planar Binding, Greater"		#N/A		#N/A
+		Horrid Wilting		#N/A		#N/A
+		Incendiary Cloud		#N/A		#N/A
+		Iron Body		#N/A		#N/A
+		#N/A		#N/A		#N/A
+		Mind Blank		#N/A		#N/A
+		Polar Ray		#N/A		#N/A
+		Power Word Stun				#N/A
+		Protection from Spells				#N/A

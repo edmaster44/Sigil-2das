@@ -1,0 +1,31 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 Cleric CLASSOR 2 ****
+1 FavoredSoul CLASSOR 58 ****
+2 DivineSpellLevel DIVSPELL 6 ****
+3 Dwarf RACE 0 ****
+4 Elf RACE 1 ****
+5 Gnome RACE 2 ****
+6 Halfling RACE 3 ****
+7 HalfElf RACE 4 ****
+8 HalfOrc RACE 5 ****
+9 Human RACE 6 ****
+10 Goblinoid RACE 12 ****
+11 Monstrous RACE 13 ****
+12 Orc RACE 14 ****
+13 Reptilian RACE 15 ****
+14 Planetouched RACE 21 ****
+15 YuanTi RACE 31 ****
+16 Orc2 RACE 32 ****
+17 Outsider(native) RACE 33 ****
+18 Undead RACE 24 ****
+19 No_VampLup CLASSNOT 78 ****
+20 No_VampDra CLASSNOT 105 ****
+21 No_VampMal CLASSNOT 106 ****
+22 No_Deathknight CLASSNOT 79 ****
+23 No_Halfdragon CLASSNOT 49 ****
+24 No_Halfoutsider CLASSNOT 62 ****
+25 No_Lich CLASSNOT 93 ****
+26 No_Lich_W CLASSNOT 91 ****
+27 No_Lycan CLASSNOT 104 ****

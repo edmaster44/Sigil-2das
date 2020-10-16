@@ -1,0 +1,17 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 BAB BAB 4 ****
+1 Lore SKILL 7 8
+2 CombatCasting FEAT 7 ****
+3 ImpStrike FEAT 21 ****
+4 StunFist FEAT 39 ****
+5 ScriptVar VAR nw_AllowSacredFist 0
+6 Cleric CLASSOR 2 ****
+7 Druid CLASSOR 3 ****
+8 Ranger CLASSOR 7 ****
+9 Sorcerer CLASSOR 9 ****
+10 Wizard CLASSOR 10 ****
+11 Spirt_Shaman CLASSOR 55 ****
+12 Paladin CLASSOR 6 ****
+13 Favored_Soul CLASSOR 58 ****

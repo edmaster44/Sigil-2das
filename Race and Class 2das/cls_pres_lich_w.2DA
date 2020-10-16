@@ -1,0 +1,29 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 Warlock CLASSOR 39 ****
+1 6d6EldritchBlast FEAT 1416 ****
+2 Dwarf RACE 0 ****
+3 Elf RACE 1 ****
+4 Gnome RACE 2 ****
+5 Halfling RACE 3 ****
+6 HalfElf RACE 4 ****
+7 HalfOrc RACE 5 ****
+8 Human RACE 6 ****
+9 Goblinoid RACE 12 ****
+10 Monstrous RACE 13 ****
+11 Orc RACE 14 ****
+12 Reptilian RACE 15 ****
+13 Planetouched RACE 21 ****
+14 YuanTi RACE 31 ****
+15 Orc2 RACE 32 ****
+16 Outsider(native) RACE 33 ****
+17 Undead RACE 24 ****
+18 No_VampLup CLASSNOT 78 ****
+19 No_VampDra CLASSNOT 105 ****
+20 No_VampMal CLASSNOT 106 ****
+21 No_Deathknight CLASSNOT 79 ****
+22 No_Halfdragon CLASSNOT 49 ****
+23 No_Halfoutsider CLASSNOT 62 ****
+24 No_LichD CLASSNOT 92 ****
+25 No_Lich CLASSNOT 93 ****

@@ -1,0 +1,14 @@
+2DA	V2.0					
+
+	label	Model	ShotSound	ImpactSound	ProjSEF	RotationSpd
+0	arrow	w_arrow01	****	cb_ht_arrow1	fx_arrowtrail	0
+1	bolt	w_arrow01	****	cb_ht_arrow1	fx_arrowtrail	0
+2	bullet	w_trock01	****	cb_ht_bullet1	fx_arrowtrail	6
+3	dart	w_dart01	****	cb_ht_dart1	fx_arrowtrail	0
+4	shuriken	w_shurkn01	****	cb_ht_dart1	fx_arrowtrail	5
+5	throwingaxe	w_Taxe01	****	cb_ht_throwaxe1	fx_arrowtrail	3
+6	****	****	****	****	****	****
+7	****	****	****	****	****	****
+8	****	****	****	****	****	****
+9	****	****	****	****	****	****
+10	****	****	****	****	****	****

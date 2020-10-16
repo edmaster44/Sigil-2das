@@ -1,0 +1,16 @@
+2DA V2.0
+
+   FeatLabel                       FeatIndex List GrantedOnLevel OnMenu 
+0  FEAT_FIRRE_SPELLCASTING_BARD    2481      2    1              0      
+1  Natural_Armor_2                 2090      3    1              0      
+2  FEAT_FLAMING_SLAM               2482      3    1              1      
+3  FEAT_EPIC_GREAT_STRENGTH_1      814       3    1              0      
+4  FEAT_ELADRIN_PRC_ARMOR          2475      3    2              0      
+5  FEAT_EPIC_GREAT_CHARISMA_1      764       3    2              0      
+6  FEAT_ELADRIN_PRC_DR             2477      3    3              0      
+7  FEAT_EPIC_GREAT_INTELLIGENCE_1  794       3    3              0      
+8  FEAT_EPIC_GREAT_STRENGTH_2      815       3    6              0      
+9  FEAT_TRANSCENDENT_STRIKE        2480      3    7              1      
+10 FEAT_EPIC_GREAT_CHARISMA_2      765       3    7              0      
+11 FEAT_FIRRE_MAGIC_CIRCLE_VS_EVIL 2483      3    8              1      
+12 FEAT_EPIC_GREAT_INTELLIGENCE_2  795       3    8              0      

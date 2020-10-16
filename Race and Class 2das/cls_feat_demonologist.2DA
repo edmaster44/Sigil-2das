@@ -1,0 +1,19 @@
+2DA V2.0
+
+   FeatLabel                                 FeatIndex List GrantedOnLevel OnMenu 
+0  FEAT_DEMONOLOGIST_SPELLCASTING_BARD       2611      1    1              0      
+1  FEAT_DEMONOLOGIST_SPELLCASTING_SORCERER   2612      1    1              0      
+2  FEAT_DEMONOLOGIST_SPELLCASTING_WIZARD     2613      1    1              0      
+3  FEAT_DEMONOLOGIST_FORTIFICATION_VS_FIENDS 2614      3    2              1      
+4  FEAT_DEMOOLOGIST_SUMMONING_MASTERY        2615      3    3              0      
+5  FEAT_DEMONOLOGIST_BINDER_OF_FIENDS        2616      3    3              1      
+6  FEAT_DEMONOLOGIST_RELEASE_BINDING         2619      3    3              1      
+7  FEAT_DEMONOLOGIST_FIENDISH_MANTLE         2617      3    10             0      
+8  FEAT_EPIC_SPELL_EPIC_GATE                 1993      0    21             1      
+9  FEAT_EPIC_SPELL_HELLBALL                  876       0    21             1      
+10 FEAT_GREATER_SPELL_FOCUS_CONJURATION      394       0    -1             0      
+11 FEAT_EPIC_SPELL_FOCUS_CONJURATION         611       0    21             0      
+12 FEAT_ARCANE_DEFENSE_CONJURATION           416       0    -1             0      
+13 FEAT_COUNTERSPELL                         2666      0    -1             2      
+14 FEAT_EPIC_MAGE_ARMOR                      3501      0    21             2      
+15 FEAT_EPIC_SPELL_DAMNATION                 1991      0    21             2      

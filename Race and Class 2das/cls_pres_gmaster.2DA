@@ -1,0 +1,6 @@
+2DA V2.0
+
+        LABEL   ReqType ReqParam1       ReqParam2
+0       craftconstruct	FEAT	2801	****
+1       Craftalchemy	SKILL	27	8
+2       Lore    SKILL   7               10

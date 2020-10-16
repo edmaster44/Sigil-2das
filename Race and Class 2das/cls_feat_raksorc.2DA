@@ -1,0 +1,22 @@
+2DA V2.0
+
+   FeatLabel                      FeatIndex List GrantedOnLevel OnMenu 
+0  FEAT_SPELLCASTING_SORCERER     2788      3    1              0      
+1  FEAT_RAKTAVARNA_FAMILIAR       3208      3    1              1      
+2  SPELL_FOCUS_ENCHANTMENT        168       3    3              0      
+3  SPELL_FOCUS_NECROMANCY         171       3    3              0      
+3  GREATER_FOCUS_NECRO            3202      2    -1             1      
+3  GREATER_FOCUS_ENCH             3203      2    -1             1      
+3  REINCARNATION                  3204      3    10             1      
+4  SPELL_FOCUS_ABJURATION         35        0    -1             0      
+5  SPELL_FOCUS_CONJURATION        166       0    -1             0      
+6  SPELL_FOCUS_DIVINATION         167       0    -1             0      
+7  SPELL_FOCUS_EVOCATION          169       0    -1             0      
+8  SPELL_FOCUS_ILLUSION           170       0    -1             0      
+9  SPELL_FOCUS_TRANSMUTATION      172       0    -1             0      
+11 FEAT_EPIC_MAGE_ARMOR           3501      0    21             2      
+12 FEAT_EPIC_SPELL_HELLBALL       876       0    21             2      
+13 FEAT_EPIC_SPELL_ENTROPIC_HUSK  1992      0    21             2      
+14 FEAT_EPIC_SPELL_EPIC_GATE      1993      0    21             2      
+15 FEAT_EPIC_SPELL_VAMPIRIC_FEAST 1995      0    21             2      
+16 FEAT_EPIC_SPELL_DAMNATION      1991      0    21             2      

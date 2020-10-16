@@ -1,0 +1,13 @@
+2DA	V2.0						
+
+	Label	Letter	StringRef	Icon	Opposition	Description	SecondOpposition
+
+0	General	G	5632	isc_general	****	10320	****
+1	Abjuration	A	2276	isc_abjuration	2	10321	6
+2	Conjuration	C	2277	isc_conjuration	8	10322	6
+3	Divination	D	2278	isc_divination	6	10323	4
+4	Enchantment	E	2279	isc_enchantment	6	10324	1
+5	Evocation	V	2280	isc_evocation	2	10325	6
+6	Illusion	I	2281	isc_illusion	4	10326	1
+7	Necromancy	N	2282	isc_necromancy	3	10327	6
+8	Transmutation	T	2283	isc_transmutation	2	10328	6

@@ -1,0 +1,7 @@
+2DA V2.0
+
+     LABEL               ReqType  ReqParam1 ReqParam2 
+0    Race_Baatezu        SUBRACE  195       ****      
+1    Martial_Weapon_Prof FEAT     45        ****      
+2    Baatezu_Epithet     FEAT     2780      ****      
+3    No_Brachina         CLASSNOT 97        ****      

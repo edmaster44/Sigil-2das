@@ -1,0 +1,25 @@
+2DA	V2.0
+	
+	PropColName
+0	0_Melee
+1	1_Ranged
+2	2_Thrown
+3	3_Staves
+4	4_Rods
+5	5_Ammo
+6	6_Arm_Shld
+7	7_Helm
+8	8_Potions
+9	9_Scrolls
+10	10_Wands
+11	11_Thieves
+12	12_TrapKits
+13	13_Hide
+14	14_Claw
+15	15_Misc_Uneq
+16	16_Misc
+17	17_No_Props
+18	18_Containers
+19	19_HealerKit
+20	20_Torch
+21	21_Glove

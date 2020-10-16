@@ -1,0 +1,7 @@
+2DA V2.0
+
+  LABEL           ReqType  ReqParam1 ReqParam2 
+0 Race_Archon     SUBRACE  176       ****      
+1 Epithet_Archon  FEAT     484       ****      
+2 Divine_Level_2  DIVSPELL 2         ****      
+3 No_WordArchon   CLASSNOT 75        ****      

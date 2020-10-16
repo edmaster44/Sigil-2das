@@ -1,0 +1,10 @@
+2DA V2.0                                                            
+                                                                    
+           LABEL                        ReqType   ReqParam1        ReqParam2   
+0          Base_Attack                  BAB       8                ****        
+1          LoreSkill                    SKILL     7                4          
+2          RideSkill                    SKILL     28               6           
+3          FEAT_WEAPON_FOCUS_LANCE      FEAT      1612             ****        
+4          FEAT_MOUNTED_COMBAT          FEAT      1107             ****        
+5          FEAT_RIDE_BY_ATTACK          FEAT      1112             ****        
+6          ScriptVar                    VAR       nw_AllowCavaler  0           

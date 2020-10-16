@@ -1,0 +1,7 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 Race_Slaad SUBRACE 168 ****
+1 BAB+4 BAB 4 ****
+2 WeapFocusCreature FEAT 291 ****
+3 No_GraySlaad CLASSNOT 108 ****

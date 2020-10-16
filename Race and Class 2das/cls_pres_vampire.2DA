@@ -1,0 +1,26 @@
+2DA V2.0
+
+   LABEL            ReqType  ReqParam1 ReqParam2 
+0  Dwarf            RACE     0         ****      
+1  Elf              RACE     1         ****      
+2  Gnome            RACE     2         ****      
+3  Halfling         RACE     3         ****      
+4  HalfElf          RACE     4         ****      
+5  HalfOrc          RACE     5         ****      
+6  Human            RACE     6         ****      
+7  Goblinoid        RACE     12        ****      
+8  Monstrous        RACE     13        ****      
+9  Orc              RACE     14        ****      
+10 Reptilian        RACE     15        ****      
+11 Planetouched     RACE     21        ****      
+12 YuanTi           RACE     31        ****      
+13 Orc2             RACE     32        ****      
+14 Outsider(native) RACE     33        ****      
+15 Undead           RACE     24        ****      
+16 No_Lich          CLASSNOT 93        ****      
+17 No_Lich_D        CLASSNOT 92        ****      
+18 No_Lich_W        CLASSNOT 91        ****      
+19 No_Deathknight   CLASSNOT 79        ****      
+20 No_Halfdragon    CLASSNOT 49        ****      
+21 No_Halfoutsider  CLASSNOT 62        ****      
+22 BAB_+2           BAB      2         ****      

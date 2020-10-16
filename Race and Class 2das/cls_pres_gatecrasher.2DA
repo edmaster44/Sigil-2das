@@ -1,0 +1,7 @@
+2DA	V2.0			
+				
+	LABEL	ReqType	ReqParam1	ReqParam2
+0	LoreSkill	SKILL	7	4
+1	UMDSkill	SKILL	19	8
+2	OpenLockSkill	SKILL	9	8
+3	BaseAttackBonus	BAB	4	****

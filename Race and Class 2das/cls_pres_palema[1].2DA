@@ -1,0 +1,8 @@
+2DA V2.0
+
+  LABEL          ReqType  ReqParam1      ReqParam2 
+0 Sorcerer       CLASSOR  9              ****      
+1 Wizard         CLASSOR  10             ****      
+2 SpellWizard3   FEATOR   21442          ****      
+3 SpellSorcerer3 FEATOR   21458          ****      
+5 ScriptVar      VAR      X2_AllowPalema 0         

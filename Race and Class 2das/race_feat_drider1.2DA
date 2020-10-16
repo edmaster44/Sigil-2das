@@ -1,0 +1,15 @@
+2DA V2.0
+
+     FeatLabel           FeatIndex 
+0    darkvision          228       
+1    natural_armor+2     2090      
+2    SR                  1075      
+3    creatureprof        289       
+4    skillaffinity_h_ms  2459      
+5    clairvoyance        2460      
+6    darkness            1076      
+7    dispel_magic        2461      
+8    summon_swarm        2462      
+3    skillaffinitylisten 237       
+4    skillaffinitysearch 238       
+5    skillaffinityspot   239       

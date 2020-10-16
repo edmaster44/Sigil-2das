@@ -1,0 +1,11 @@
+2DA	V2.0				
+					
+	FeatLabel	FeatIndex	List	GrantedOnLevel	OnMenu
+0	FEAT_IMPROMPTU_SNEAK_ATTACK_1	1510	3	2	1
+1	FEAT_IMPROMPTU_SNEAK_ATTACK_2	1511	3	4	1
+2	SneakAttack1	1502	3	1	0
+3	SA2	1503	3	3	0
+4	SA3	1504	3	5	0
+5	Disgraced	2426	3	1	0
+6	BanzaiCharge	2427	3	2	1
+7	ImprovedBanzaiCharge	2428	3	5	1

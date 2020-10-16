@@ -1,0 +1,12 @@
+2DA V2.0
+
+  LABEL           ReqType  ReqParam1         ReqParam2 
+0 SpellCleric3    FEAT     21446             ****      
+1 GreatFort       FEAT     14                ****      
+2 Toughness       FEAT     40                ****      
+3 WeapFocDart     FEATOR   91                ****      
+4 WeapFocShur     FEATOR   120               ****      
+5 WeapFocTAxe     FEATOR   109               ****      
+6 WeapFocSpear    FEATOR   97                ****      
+7 MinBaseFortSave SAVE     1                 4         
+8 ScriptVar       VAR      nw_AllowStormlord 0         

@@ -1,0 +1,7 @@
+2DA V2.0
+
+  LABEL                BASE_RESREF     COST_TIER IP_DESCRIPTION_ID CRAFT_DC IP_MELEE_TYPE IP_MELEE_SUBTYPE IP_MELEE_PARAM DR_PIERC_MAT IP_ARMOR_TYPE IP_ARMOR_SUBTYPE IP_ARMOR_PARAM ARMOR_SUFFIX 
+0 None                 ****            0         ****              0        ****          ****             ****           ****         ****          ****             ****           ****         
+1 "Dragon Sinew"       ps_crft_drgsnw  2         35                18       ****          ****             ****           ****         ****          ****             ****           ****         
+2 "Neumannic Flywheel" ps_crft_neufly  2         36                18       ****          ****             ****           ****         ****          ****             ****           ****         
+3 "Regulan Gearspring" ps_crft_reggear 2         37                18       ****          ****             ****           ****         ****          ****             ****           ****         

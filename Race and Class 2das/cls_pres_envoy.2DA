@@ -1,0 +1,7 @@
+2DA V2.0
+
+  LABEL     ReqType  ReqParam1     ReqParam2 
+0 Divine    DIVSPELL 1             ****      
+1 Diplomacy SKILL    12            10        
+3 SacredVow FEAT     2627          ****      
+4 ScriptVar VAR      nw_AllowEnvoy 0         

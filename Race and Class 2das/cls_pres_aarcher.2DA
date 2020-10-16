@@ -1,0 +1,14 @@
+2DA V2.0
+
+                   LABEL     ReqType     ReqParam1     ReqParam2
+0              PBShot        FEAT            27          ****
+1      WeapFocLongBow      FEATOR           101          ****
+2     WeapFocShortBow      FEATOR           102          ****
+3        WeapFocHXBow      FEATOR            92          ****
+4       WeapFocLgXBow      FEATOR            93          ****
+5        WeapFocSling      FEATOR            99          ****
+6         Base_Attack         BAB             6          ****
+7                Bard     CLASSOR             1          ****
+8            Sorcerer     CLASSOR             9          ****
+9              Wizard     CLASSOR            10          ****
+10            Warlock     CLASSOR            39          ****

@@ -1,0 +1,31 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 DraconicBloodline FEATOR 2535 ****
+1 DraconicBloodline(Kobold) FEATOR 2536 ****
+2 BardiicMusic FEATOR 257 ****
+3 Human RACE 6 ****
+4 Dwarf RACE 0 ****
+5 Elf RACE 1 ****
+6 Gnome RACE 2 ****
+7 Halfling RACE 3 ****
+8 HalfElf RACE 4 ****
+9 HalfOrc RACE 5 ****
+10 Base_Attack BAB 1 ****
+11 Goblinoid RACE 12 ****
+12 Orc RACE 14 ****
+13 Reptilian RACE 15 ****
+14 Planetouched RACE 21 ****
+15 Humanoid_Other RACE 26 ****
+16 YuanTi RACE 31 ****
+17 Orc RACE 32 ****
+18 NativeOutsider RACE 33 ****
+19 No_Deathknight CLASSNOT 79 ****
+20 No_VampLup CLASSNOT 78 ****
+21 No_VampDra CLASSNOT 105 ****
+22 No_VampMal CLASSNOT 106 ****
+23 No_LichA CLASSNOT 93 ****
+24 No_LichD CLASSNOT 92 ****
+25 No_LichW CLASSNOT 91 ****
+26 No_Halfoutsider CLASSNOT 62 ****
+27 No_Lycan CLASSNOT 104 ****

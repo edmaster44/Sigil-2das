@@ -1,0 +1,8 @@
+2DA V2.0
+
+  LABEL           ReqType  ReqParam1 ReqParam2 
+0 Race_Eladrin    SUBRACE  193       ****      
+1 Epithet_Eladrin FEAT     2492      ****      
+2 Divine_Level_2  DIVSPELL 2         ****      
+3 No_Bralani      CLASSNOT 101       ****      
+4 No_Firre        CLASSNOT 102       ****      

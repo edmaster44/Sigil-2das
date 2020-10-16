@@ -1,0 +1,13 @@
+2DA V2.0
+
+      Label                     Name   Description   Critter             RideRanks    Speed    Heartiness     
+0     DraftHorse                269    344           c_horsepinto        0            2        0              
+1     RidingHorse               270    345           c_horsepinto        0            3        3              
+2     OldWarhorse               271    346           c_horse             4            1        8              
+3     RacingHorse               343    347           c_horse             6            4        5              
+4     VeteranWarhorse           273    349           c_horse             9            2        12             
+5     PaladinsWarhorse5         274    350           c_horsewhite        0            3        16             
+6     PrizedWarhorse            275    351           c_horse             13           3        20             
+7     WildStallion              276    352           c_horse             13           4        24             
+8     PaladinsWarhorse10        277    353           c_horsewhite        0            3        30             
+9     PaladinsWarhorse15        278    354           c_horsewhite        0            3        35             

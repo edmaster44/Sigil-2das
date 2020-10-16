@@ -1,0 +1,13 @@
+2DA	V2.0						
+
+	Level	SpellId	SpellName	OverlayIcon	AltSpellId	AltSpellName	AltOverlayIcon
+0	0	-1	INVALID_SPELL_ID	****	-1	INVALID_SPELL_ID	****
+1	1	174	Summon_Creature_I	isv_animal1	-1	INVALID_SPELL_ID	****
+2	2	175	Summon_Creature_II	isv_animal2	-1	INVALID_SPELL_ID	****
+3	3	176	Summon_Creature_III	isv_animal3	-1	INVALID_SPELL_ID	****
+4	4	177	Summon_Creature_IV	isv_animal4	-1	INVALID_SPELL_ID	****
+5	5	179	Summon_Creature_V	isv_animal5	-1	INVALID_SPELL_ID	****
+6	6	180	Summon_Creature_VI	isv_animal6	-1	INVALID_SPELL_ID	****
+7	7	181	Summon_Creature_VII	isv_animal7	-1	INVALID_SPELL_ID	****
+8	8	182	Summon_Creature_VIII	isv_animal8	-1	INVALID_SPELL_ID	****
+9	9	178	Summon_Creature_IX	isv_animal9	-1	INVALID_SPELL_ID	****

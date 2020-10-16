@@ -1,0 +1,9 @@
+2DA V2.0				
+
+	LABEL	NWN2_ModelName	RESREF	STRREF
+
+0	****	ts_waypoint1	****	****
+1	blue	ts_waypoint1	gi_waypoint01	67281
+2	red	ts_waypoint1	gi_waypoint02	67282
+3	green	ts_waypoint1	gi_waypoint03	67284
+4	yellow	ts_waypoint1	gi_waypoint04	67285

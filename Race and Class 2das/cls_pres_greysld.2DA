@@ -1,0 +1,8 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 Race_Slaad SUBRACE 168 ****
+1 Class_Warlock CLASSOR 39 ****
+2 Class_Sorcerer CLASSOR 9 ****
+3 Class_Wizard CLASSOR 10 ****
+4 No_Champion_of_Chaos CLASSNOT 107 ****

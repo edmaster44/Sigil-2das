@@ -1,0 +1,10 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 Race_Halfogre SUBRACE 196 ****
+1 Halfogre_NEW SUBRACE 204 ****
+2 Race_Ogre SUBRACE 197 ****
+3 Race_Troll SUBRACE 198 ****
+4 Race_Minotaur SUBRACE 147 ****
+5 Barbarian CLASSOR 0 ****
+6 Frezerker CLASSOR 43 ****

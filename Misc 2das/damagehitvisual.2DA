@@ -1,0 +1,15 @@
+2DA	V2.0		
+
+	Label	VisualEffectID	RangedEffectID
+0	Bludgeoning	****	****
+1	Piercing	****	****
+2	Slashing	****	****
+3	Magical	587	587
+4	Acid	580	580
+5	Cold	585	585
+6	Divine	584	584
+7	Electrical	586	586
+8	Fire	583	583
+9	Negative	582	582
+10	Positive	584	584
+11	Sonic	588	588

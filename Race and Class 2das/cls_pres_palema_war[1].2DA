@@ -1,0 +1,5 @@
+2DA V2.0
+
+  LABEL                 ReqType ReqParam1      ReqParam2 
+0 InvocationsWarlock2   FEAT    21461          ****      
+1 ScriptVar             VAR     X2_AllowPalema 0         

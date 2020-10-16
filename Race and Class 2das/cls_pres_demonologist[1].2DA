@@ -1,0 +1,8 @@
+2DA V2.0
+
+  LABEL            ReqType  ReqParam1       ReqParam2 
+0 LoreSkill        SKILL    7               8         
+1 AugmentSummoning FEAT     1091            ****      
+2 SpellSorcerer3   FEATOR   21458           ****      
+3 SpellWizard3     FEATOR   21442           ****      
+4 ScriptVar        VAR      nx1_AllowRedWiz 0         

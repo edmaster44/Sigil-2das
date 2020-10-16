@@ -1,0 +1,9 @@
+2DA V2.0
+
+  LABEL           ReqType  ReqParam1 ReqParam2 
+0 Race_Eladrin    SUBRACE  193       ****      
+1 Epithet_Eladrin FEAT     2492      ****      
+2 Class_Bard      CLASSOR  1         ****      
+3 Perform_4       SKILL    11        4         
+4 No_Bralani      CLASSNOT 101       ****      
+5 No_Ghaele       CLASSNOT 103       ****      

@@ -1,0 +1,13 @@
+2DA V2.0
+
+  LABEL                BASE_RESREF            COST_TIER IP_DESCRIPTION_ID CRAFT_DC IP_MELEE_TYPE IP_MELEE_SUBTYPE IP_MELEE_PARAM DR_PIERC_MAT IP_ARMOR_TYPE IP_ARMOR_SUBTYPE IP_ARMOR_PARAM ARMOR_SUFFIX 
+0 Leather              ****                   0         39                0        ****          ****             ****           ****         ****          ****             ****           ****         
+1 "Dragon Hide: Black" ps_crft_dragonhide_blk 2         22                18       ****          ****             ****           ****         23            6                4              ****         
+2 "Dragon Hide: Blue"  ps_crft_dragonhide_blu 2         23                18       ****          ****             ****           ****         23            9                4              ****         
+3 "Dragon Hide: Red"   ps_crft_dragonhide_red 2         24                18       ****          ****             ****           ****         23            10               4              ****         
+4 "Dragon Hide: White" ps_crft_dragonhide_wht 2         25                18       ****          ****             ****           ****         23            7                4              ****         
+5 "Dragon Hide: Green" ps_crft_dragonhide_grn 2         26                18       ****          ****             ****           ****         12            643              ****           ****         
+6 "Celestial Plumes"   ps_crft_celestplume    2         27                22       ****          ****             ****           ****         ****          ****             ****           _cp          
+7 Demonscale           ps_crft_demonscale     2         28                22       ****          ****             ****           ****         ****          ****             ****           _dem         
+8 Devilscale           ps_crft_devilscale     2         29                22       ****          ****             ****           ****         ****          ****             ****           _dev         
+9 "Ophidian Hide"      ps_crft_ophidian       2         30                17       ****          ****             ****           ****         12            142              ****           ****         

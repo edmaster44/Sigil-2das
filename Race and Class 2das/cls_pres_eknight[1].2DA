@@ -1,0 +1,9 @@
+2DA V2.0
+
+   LABEL                    ReqType  ReqParam1              ReqParam2 
+1  MartialWeaponProficiency FEAT     45                     ****      
+2  Wizard                   CLASSOR  10                     ****      
+3  Sorcerer                 CLASSOR  9                      ****      
+4  SpellSorcerer3           FEATOR   21458                  ****      
+5  SpellWizard3             FEATOR   21442                  ****      
+6  ScriptVar                VAR      nw_AllowEldritchKnight 0         

@@ -1,0 +1,9 @@
+2DA V2.0
+
+     LABEL               ReqType  ReqParam1 ReqParam2 
+0    Race_Aasimon        SUBRACE  203       ****      
+1    Martial_Weapon_Prof FEAT     45        ****      
+2    Aasimon_Epithet     FEAT     2679      ****      
+3    No_Monadic          CLASSNOT 88        ****      
+4    No_Astral           CLASSNOT 87        ****      
+5    BAB_+2              BAB      2         ****      

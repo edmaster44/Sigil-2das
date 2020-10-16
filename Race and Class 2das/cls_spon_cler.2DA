@@ -1,0 +1,13 @@
+2DA	V2.0						
+
+	Level	SpellId	SpellName	OverlayIcon	AltSpellId	AltSpellName	AltOverlayIcon
+0	0	33	Cure_Minor_Wounds	isv_cureminor	431	Inflict_Minor_Wounds	isv_inflictminor
+1	1	32	Cure_Light_Wounds	isv_curelight	432	Inflict_Light_Wounds	isv_inflictlight
+2	2	34	Cure_Moderate_Wounds	isv_curemoderate	433	Inflict_Moderate_Wounds	isv_inflictmoderate
+3	3	35	Cure_Serious_Wounds	isv_cureserious	434	Inflict_Serious_Wounds	isv_inflictserious
+4	4	31	Cure_Critical_Wounds	isv_curecrit	435	Inflict_Critical_Wounds	isv_inflictcrit
+5	5	80	Mass_Cure_Light_Wounds	isv_curelightmass	19	Mass_Inflict_Light_Wounds	isv_inflictlightmass
+6	6	891	Mass_Cure_Moderate_Wounds	isv_curemoderatemass	892	Mass_Inflict_Moderate_Wounds	isv_inflictmoderatemass
+7	7	894	Mass_Cure_Serious_Wounds	isv_cureseriousmass	895	Mass_Inflict_Serious_Wounds	isv_inflictseriousmass
+8	8	897	Mass_Cure_Critical_Wounds	isv_curecritmass	898	Mass_Inflict_Critical_Wounds	isv_inflictcritmass
+9	9	-1	INVALID_SPELL_ID	****	-1	INVALID_SPELL_ID	****

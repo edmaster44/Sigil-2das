@@ -1,0 +1,6 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 Race_Dragon RACE 11 ****
+1 BASE_ATTACK BAB 1 ****
+2 FEAT_DRACONIC_SCALES FEAT 3623 ****

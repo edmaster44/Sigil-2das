@@ -1,0 +1,9 @@
+2DA	V2.0			
+				
+	LABEL	ReqType	ReqParam1	ReqParam2
+0	WeapProfMar	FEAT	45	****
+1	Base_Attack	BAB	5	****
+2	Curse_of_Despair	SPELLOR	822	****
+3	   Dread_Seizure	SPELLOR	1060	****
+4	    Baleful_Geas	SPELLOR	1374	****
+5      Baleful_Polymorph	SPELLOR	1680	****

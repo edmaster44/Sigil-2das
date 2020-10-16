@@ -1,0 +1,10 @@
+2DA V2.0
+
+    LABEL                      NAME       
+0   DR_TYPE_NONE               7842       
+1   DR_TYPE_DMGTYPE            7108       
+2   DR_TYPE_MAGICBONUS         113808     
+3   DR_TYPE_EPIC               113809     
+4   DR_TYPE_GMATERIAL          980        
+5   DR_TYPE_ALIGNMENT          142        
+6   DR_TYPE_NON_RANGED         113807     

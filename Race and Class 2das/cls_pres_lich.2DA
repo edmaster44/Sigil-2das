@@ -1,0 +1,32 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 ArcaneSpellLevel ARCSPELL 6 ****
+1 Bard CLASSOR 1 ****
+2 Sorcerer CLASSOR 9 ****
+3 Wizard CLASSOR 10 ****
+4 Dwarf RACE 0 ****
+5 Elf RACE 1 ****
+6 Gnome RACE 2 ****
+7 Halfling RACE 3 ****
+8 HalfElf RACE 4 ****
+9 HalfOrc RACE 5 ****
+10 Human RACE 6 ****
+11 Goblinoid RACE 12 ****
+12 Monstrous RACE 13 ****
+13 Orc RACE 14 ****
+14 Reptilian RACE 15 ****
+15 Planetouched RACE 21 ****
+16 YuanTi RACE 31 ****
+17 Orc2 RACE 32 ****
+18 Outsider(native) RACE 33 ****
+19 Undead RACE 24 ****
+20 No_VampLup CLASSNOT 78 ****
+21 No_VampDra CLASSNOT 105 ****
+22 No_VampMal CLASSNOT 106 ****
+23 No_Deathknight CLASSNOT 79 ****
+24 No_Halfdragon CLASSNOT 49 ****
+25 No_Halfoutsider CLASSNOT 62 ****
+26 No_LichD CLASSNOT 92 ****
+27 No_LichW CLASSNOT 91 ****
+28 No_Lycan CLASSNOT 104 ****

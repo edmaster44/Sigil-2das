@@ -1,0 +1,12 @@
+2DA V2.0                                                                                                             				
+                                                                                                                     				
+	LTE_MINOR	LTE_MEDIUM	LTE_MAJOR	ITEM			SUBTABLE
+0	4			10			10			armor_shield	itm_rand_armor
+1	9			20			20			weapon			itm_rand_armor
+2	44			30			25			potion			itm_rand_armor
+3	46			40			35			ring			itm_rand_armor
+4	0			50			45			rod				itm_rand_armor
+5	81			65			55			scroll			itm_rand_armor
+6	0			68			75			staff			itm_rand_armor
+7	91			83			80			wand			itm_rand_armor
+8	100			100			100			wondrous		itm_rand_armor

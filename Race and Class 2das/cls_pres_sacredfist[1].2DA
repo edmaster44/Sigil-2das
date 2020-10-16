@@ -1,0 +1,10 @@
+2DA V2.0
+
+  LABEL         ReqType  ReqParam1          ReqParam2 
+0 BAB           BAB      4                  ****      
+1 SpellCleric1  FEAT     21444              ****      
+2 Lore          SKILL    7                  8         
+3 CombatCasting FEAT     7                  ****      
+4 ImpStrike     FEAT     21                 ****      
+5 StunFist      FEAT     39                 ****      
+6 ScriptVar     VAR      nw_AllowSacredFist 0         

@@ -1,0 +1,14 @@
+2DA V2.0		
+
+	STATENAME	SCRIPTNAME
+0	Normal	****
+1	Charmed	nw_g0_charm
+2	Confused	NW_G0_confuse
+3	Frightened	NW_G0_fear
+4	Turned	NW_G0_rebuked
+5	Dazed	x2_sig_state
+6	Stunned	x2_sig_state
+7	NPCDominate	NW_G0_dominate
+8	Held	x2_sig_state
+9	Sleep	NW_G0_sleep
+10	Insane	nw_g0_insane

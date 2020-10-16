@@ -1,0 +1,10 @@
+2DA V2.0
+
+    LABEL               NameStrRef DescStrRef	Selectable    Script		
+0   NoAI                112963     112964	1             gb_comp_percep             	
+1   Behavior_Default	****       ****		1             gb_comp_percep  	
+2   unused		****       ****		0             ****             	
+3   Behavior_Melee      ****       ****		1             gb_comp_percep  	
+4   Behavior_Ranged     ****       ****		1             gb_comp_percep  	
+5   Behavior_Healer     ****       ****		1             gb_comp_percep  	
+6   unused		****       ****		0             ****             	   	

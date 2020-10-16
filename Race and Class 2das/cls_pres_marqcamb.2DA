@@ -1,0 +1,7 @@
+2DA V2.0
+
+     LABEL           ReqType  ReqParam1 ReqParam2 
+0    Race_Tanarri    SUBRACE  194       ****      
+2    Tanarri_Epithet FEAT     2800      ****      
+3    No_Succubus     CLASSNOT 98        ****      
+3    Hide_1          SKILL    5         1         

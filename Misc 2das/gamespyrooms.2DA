@@ -1,0 +1,16 @@
+2DA V2.0
+
+    REFERENCE   STR_REF GROUP_ID 
+0   Action      10713   1868     
+1   Story       68644   1869     
+2   StoryLite   68645   1870     
+3   RolePlay    10714   1871     
+4   TeamNvsN    10715   1872     
+5   Melee1vsN   68646   1873     
+6   Arena1vsN   68647   1874     
+7   Social      10716   1875     
+8   Alternative 10718   1876     
+9   PWAction    10717   1878     
+10  PWStory     68648   1877     
+11  Solo        68649   1879     
+12  TechSupport 68723   1880     

@@ -1,0 +1,34 @@
+2DA V2.0
+
+   LABEL          ReqType  ReqParam1 ReqParam2 
+0  Lore8          SKILL    7         8         
+1  Spellcraft8    SKILL    16        8         
+2  SkillFocusLore FEAT     180       ****      
+3  PPPool         FEAT     20998     ****      
+4  SpellWizard3   ARCSPELL 3         ****      
+5  PowerLevel3    FEATOR   21101     ****      
+6  PowerLevel3    FEATOR   21102     ****      
+7  PowerLevel3    FEATOR   21103     ****      
+8  PowerLevel3    FEATOR   21104     ****      
+9  PowerLevel3    FEATOR   21105     ****      
+10 PowerLevel3    FEATOR   21106     ****      
+11 PowerLevel3    FEATOR   21107     ****      
+12 PowerLevel3    FEATOR   21108     ****      
+13 PowerLevel3    FEATOR   21109     ****      
+14 PowerLevel3    FEATOR   21110     ****      
+15 PowerLevel3    FEATOR   21111     ****      
+16 PowerLevel3    FEATOR   21112     ****      
+17 PowerLevel3    FEATOR   21113     ****      
+18 PowerLevel3    FEATOR   21114     ****      
+19 PowerLevel3    FEATOR   21115     ****      
+20 PowerLevel3    FEATOR   21116     ****      
+21 PowerLevel3    FEATOR   21117     ****      
+22 PowerLevel3    FEATOR   21118     ****      
+23 PowerLevel3    FEATOR   21119     ****      
+24 PowerLevel3    FEATOR   21120     ****      
+26 PowerLevel3    FEATOR   21121     ****      
+27 PowerLevel3    FEATOR   21122     ****      
+28 PowerLevel3    FEATOR   21123     ****      
+29 PowerLevel3    FEATOR   21124     ****      
+30 PowerLevel3    FEATOR   21125     ****      
+31 PowerLevel3    FEATOR   21126     ****      

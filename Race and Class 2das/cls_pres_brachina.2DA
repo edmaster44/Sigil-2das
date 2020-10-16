@@ -1,0 +1,9 @@
+2DA V2.0
+
+     LABEL           ReqType  ReqParam1 ReqParam2 
+0    Race_Baatezu    SUBRACE  195       ****      
+1    Class_Warlock   CLASSOR  39        ****      
+2    Class_Sorcerer  CLASSOR  9         ****      
+3    Class_Bard      CLASSOR  1         ****      
+4    Baatezu_epithet FEAT     2780      ****      
+5    No_Erinyes      CLASSNOT 96        ****      

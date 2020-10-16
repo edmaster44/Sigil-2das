@@ -1,0 +1,16 @@
+2DA V2.0
+
+     FeatLabel                   FeatIndex 
+0    Darkvision                  228       
+1    Scent                       2178      
+2    NaturalArmor                2112      
+3    TUMBLE                      406       
+4    FEAT_BLINK                  5000      
+5    FEAT_DIMENSION_DOOR         5001      
+7    CreWeapProf                 289       
+8    Multiattack                 1784      
+9    ImpUnarmedStrike            21        
+10   NoManualDex                 2340      
+11   Tracking                    1116      
+11   BLINKDOGTYPE                5002      
+12   Dodge                       10        

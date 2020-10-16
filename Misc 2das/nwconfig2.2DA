@@ -1,0 +1,9 @@
+2DA V2.0
+
+      PROGRAM      LOCATION             TYPE     BLOCK                         
+0     Main         nwn2.exe             1        PrivateBuild      
+1     Server       nwn2server.exe       1        PrivateBuild      
+2     Toolset      nwn2toolset.exe      2        FileVersion       
+3     Updater      nwupdate.exe         1        ProductVersion    
+4     Config       nwconfig.exe         2        FileVersion       
+5     Launcher     nwn2launcher.exe     2        FileVersion       

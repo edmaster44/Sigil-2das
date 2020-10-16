@@ -1,0 +1,11 @@
+2DA V2.0
+
+     LABEL            ReqType  ReqParam1       ReqParam2 
+0    NightHag         SUBRACE  53              ****      
+1    Spellcraft_8     SKILL    16              8         
+2    CraftAlchemy_5   SKILL    27              5         
+3    Cleric           CLASSOR  2               ****      
+4    Sorcerer         CLASSOR  9               ****      
+5    Wizard           CLASSOR  10              ****      
+6    Warlock          CLASSOR  39              ****      
+7    SpiritShaman     CLASSOR  55              ****      

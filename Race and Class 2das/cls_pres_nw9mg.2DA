@@ -1,0 +1,7 @@
+2DA V2.0                                                            
+                                                                    
+           LABEL                          ReqType     ReqParam1        ReqParam2   
+0          SpellcraftSkill                SKILL       16               10           
+1          Arcane                         ARCSPELLOR  3                ****           
+2          Divine                         DIVSPELLOR  3                ****           
+3          ScriptVar                      VAR         nw_AllowNW9Magu  0           
