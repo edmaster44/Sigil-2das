@@ -47,9 +47,9 @@
 43 **** **** 24 655 po_heurolich **** **** **** x2_it_emptyskin **** 10 10 10 10 **** **** **** **** **** **** **** **** ****
 44 **** **** 18 216 po_GntFrost NW_IT_CREWPB017 **** **** x1_it_frostghide NW_WSWMGS011 29 21 9 13 150 **** **** **** **** **** **** **** ****
 45 **** **** 18 647 po_uppsala NW_IT_CREWPB017 **** **** x1_it_frostghide NW_WSWMGS011 29 21 9 13 150 **** **** **** **** **** **** **** ****
-46 POLYMORPH_TYPE_CELESTIAL_LEOPARD c_celestial_leopard 19 560 po_leopard crwmwsclbite crwmwsclclaw crwmwsclclaw crwmwsclhide **** 13 15 19 9 **** 19 **** **** **** 1 1 1 ****
-47 POLYMORPH_TYPE_WINTER_WOLF c_dogwolfwin 19 320 po_winwolf crwmwswwbite **** **** crwmwswwhide **** 13 15 19 10 **** 105 **** **** **** 1 1 1 ****
-48 POLYMORPH_TYPE_PHASE_SPIDER c_spidphase 19 301 po_phase crwmwspsbite **** **** crwmwspshide **** 13 15 19 10 **** 87 **** **** **** 1 1 1 ****
+46 POLYMORPH_TYPE_CELESTIAL_LEOPARD c_celestial_leopard 19 560 po_leopard crwmwsclbite crwmwsclclaw crwmwsclclaw crwmwsclhide **** 18 19 27 5 **** 19 **** **** **** 1 1 1 ****
+47 POLYMORPH_TYPE_WINTER_WOLF c_dogwolfwin 19 320 po_winwolf crwmwswwbite **** **** crwmwswwhide **** 20 20 21 9 **** 105 **** **** **** 1 1 1 ****
+48 POLYMORPH_TYPE_PHASE_SPIDER c_spidphase 19 301 po_phase crwmwspsbite **** **** crwmwspshide **** 19 20 25 7 **** 87 **** **** **** 1 1 1 ****
 49 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 50 POLYMORPH_TYPE_HA_HOUND c_doberman 20 **** **** s3_w_harchpolybite **** **** ps_i_ha_canhide **** **** **** **** 2 **** 27 **** **** **** **** 1 1 ****
 51 POLYMORPH_TYPE_HA_HOUNDF c_shepard 20 **** **** nw_it_crewps012 **** **** ps_i_ha_canhide **** **** **** **** 2 **** 27 **** **** **** **** 1 1 ****
