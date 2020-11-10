@@ -377,11 +377,11 @@
 373 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 374 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 375 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
-376 POLYMORPH_BLUE_DRAGON_VERY_OLD c_bluedragon_shape 11 192 po_DrgBlue nx1_claw_dragonshape nx1_claw_dragonshape nx1_claw_dragonshape nx1_hide_bluedragon_shape **** 36 26 10 29 375 521 796 **** **** 1 1 1 ****
-377 POLYMORPH_BLACK_DRAGON_VERY_OLD c_blackdragon_shape 11 198 po_DrgRed nx1_claw_dragonshape nx1_claw_dragonshape nx1_claw_dragonshape nx1_hide_blackdragon_shape **** 36 26 10 30 387 29 236 **** **** 1 1 1 ****
-378 POLYMORPH_BRONZE_DRAGON_VERY_OLD c_bronzedragon_shape 11 198 po_DrgRed nx1_claw_dragonshape nx1_claw_dragonshape nx1_claw_dragonshape nx1_hide_bronzedragon_shape **** 36 26 10 29 375 29 798 **** **** 1 1 1 ****
+376 POLYMORPH_BLUE_DRAGON_VERY_OLD c_bluedragon_shape 11 192 po_DrgBlue nx1_claw_dragonshape **** **** nx1_hide_bluedragon_shape **** 36 26 10 29 375 521 796 **** **** 1 1 1 ****
+377 POLYMORPH_BLACK_DRAGON_VERY_OLD c_blackdragon_shape 11 198 po_DrgRed nx1_claw_dragonshape **** **** nx1_hide_blackdragon_shape **** 36 26 10 30 387 29 236 **** **** 1 1 1 ****
+378 POLYMORPH_BRONZE_DRAGON_VERY_OLD c_bronzedragon_shape 11 198 po_DrgRed nx1_claw_dragonshape **** **** nx1_hide_bronzedragon_shape **** 36 26 10 29 375 29 798 **** **** 1 1 1 ****
 379 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
-380 POLYMORPH_RED_DRAGON_VERY_OLD c_reddragon_shape 11 198 po_DrgRed nx1_claw_dragonshape nx1_claw_dragonshape nx1_claw_dragonshape nx1_hide_reddragon_shape **** 36 26 10 24 312 29 **** **** **** 1 1 1 ****
+380 POLYMORPH_RED_DRAGON_VERY_OLD c_reddragon_shape 11 198 po_DrgRed nx1_claw_dragonshape **** **** nx1_hide_reddragon_shape **** 36 26 10 24 312 29 **** **** **** 1 1 1 ****
 381 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 382 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 383 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
