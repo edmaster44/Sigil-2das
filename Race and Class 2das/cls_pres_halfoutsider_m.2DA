@@ -1,0 +1,31 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 FiendishBloodline FEATOR 81 ****
+1 CelestialBloodline FEATOR 86 ****
+2 Human RACE 6 ****
+3 Dwarf RACE 0 ****
+4 Elf RACE 1 ****
+5 Gnome RACE 2 ****
+6 Halfling RACE 3 ****
+7 HalfElf RACE 4 ****
+8 HalfOrc RACE 5 ****
+9 Goblinoid RACE 12 ****
+10 Orc RACE 14 ****
+11 Reptilian RACE 15 ****
+12 Planetouched RACE 21 ****
+13 Humanoid_Other RACE 26 ****
+14 YuanTi RACE 31 ****
+15 Orc RACE 32 ****
+16 NativeOutsider RACE 33 ****
+17 Half-Orc_NEW RACE 74 ****
+18 No_Deathknight CLASSNOT 79 ****
+19 No_VampLup CLASSNOT 78 ****
+20 No_VampDra CLASSNOT 105 ****
+21 No_VampMal CLASSNOT 106 ****
+22 No_LichA CLASSNOT 93 ****
+23 No_LichD CLASSNOT 92 ****
+24 No_LichW CLASSNOT 91 ****
+25 No_Halfdragon CLASSNOT 49 ****
+26 No_Lycan CLASSNOT 104 ****
+27 No_HalfOut CLASSNOT 62 ****
