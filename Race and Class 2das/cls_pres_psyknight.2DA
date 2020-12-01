@@ -1,0 +1,6 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 MartialWeaponProficiency FEAT 45 ****
+1 PPPool FEAT 20998 0
+2 PsionClass CLASSOR 90 3
