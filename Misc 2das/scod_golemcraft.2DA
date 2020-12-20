@@ -10,8 +10,8 @@
 6 HELMED_HORROR ps_gcd_hhorror 2079 5 11 17 23 29 99 26 15 5 5 0 7 ps_area_s_lo_laboratory ps_area_s_lw_armory 18750 2000 cft_ess_power4 ps_crft_egkit N2_CRFT_DIST027 2801 99 99
 7 CLOCKWORK_HORROR ps_gcd_clockwork 16779847 8 16 24 99 99 99 25 8 8 8 0 1 ps_area_demiplane-chessboard ps_area_mechanus 1500 500 cft_ess_air3 cft_ess_power3 ps_crft_lsgkit 2801 99 99
 8 GOLEM_LONGBOW ps_gcd_longbow 16779848 10 15 20 25 30 99 26 5 10 5 0 3 ps_area_s_lo_greatfoundry ps_area_ladysward_armory 3750 1000 cft_ess_earth3 ps_crft_plk_tb ps_crft_grgkit 2801 99 99
-9 GOLEM_HELLFIRE ps_gcd_hellfire 16779849 20 24 28 32 99 99 27 0 0 20 0 8 ps_area_s_lo_greatfoundry ps_area_maldomini_temple 31250 2500 cft_ess_fire4 ps_crft_egkit N2_CRFT_DIST011 2801 3 4
-10 VALORHAMMER ps_gcd_valor 16779850 18 23 28 33 99 99 26 18 18 0 0 8 ps_area_s_lo_greatfoundry ps_area_mercuriashrine 20000 1800 cft_ess_power4 ps_crft_egkit ps_cfrt_ing_st 2801 3 5
+9 GOLEM_HELLFIRE ps_gcd_hellfire 16779849 20 24 28 32 99 99 27 0 0 20 0 8 ps_area_maldomini_temple ps_area_s_lo_greatfoundry 31250 2500 cft_ess_fire4 ps_crft_egkit N2_CRFT_DIST011 2801 3 4
+10 VALORHAMMER ps_gcd_valor 16779850 18 23 28 33 99 99 26 18 18 0 0 8 ps_area_mercuriashrine ps_area_s_lo_greatfoundry 20000 1800 cft_ess_power4 ps_crft_egkit ps_cfrt_ing_st 2801 3 5
 11 GOLEM_BRASS ps_gcd_brass 16783000 16 21 26 31 99 99 25 16 10 0 13 0 ps_area_s_lo_greatfoundry ps_area_ladysward_armory 12500 3400 ps_golem_brass ps_crft_grgkit cft_ess_power2 2801 99 99
 12 GOLEM_MITHRAL ps_gcd_mithral 16783001 22 25 28 31 99 99 25 22 20 0 0 8 ps_area_s_lo_greatfoundry ps_area_ladysward_armory 35000 7000 ps_golem_mithral ps_crft_egkit cft_ess_earth4 2801 99 99
 13 GOLEM_DEMONFLESH ps_gcd_demonflesh 16783002 22 25 28 31 99 99 26 10 22 10 0 8 ps_area_s_lo_greatfoundry ps_area_abyssbrokenreach 35000 4000 ps_crft_demonscale ps_crft_egkit n2_crft_dist010 2801 2 4
