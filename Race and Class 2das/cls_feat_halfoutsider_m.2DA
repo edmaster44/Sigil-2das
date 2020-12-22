@@ -15,9 +15,9 @@
 11 FEAT_HALFOUTSIDER_SPELLCASTING_WARLOCK 3025 2 1 0 -1
 12 FEAT_HALFOUTSIDER_SPELLCASTING_FAVOREDSOUL 3029 2 1 0 -1
 13 FEAT_HALFOUTSIDER_SPELLCASTING_SHAMAN 3031 2 1 0 -1
-14 pathofenlightment 3038 2 -1 0 -1
-15 pathofindulgence 3039 2 -1 0 -1
-16 pathofexperience 3040 2 -1 0 -1
+14 pathofenlightment 3038 2 3 0 -1
+15 pathofindulgence 3039 2 3 0 -1
+16 pathofexperience 3040 2 3 0 -1
 17 Darkvision 228 3 1 0 -1
 18 NatAC+1Stack 2112 3 1 0 -1
 19 HalfOutsiderDR 2541 3 2 0 -1
