@@ -1,5 +1,6 @@
 2DA V2.0
 
-  LABEL              ReqType ReqParam1 ReqParam2 
-0 Race_Hill_Giant    SUBRACE 200       ****      
-1 Hill_giant_epithet FEAT    2682      ****      
+ LABEL ReqType ReqParam1 ReqParam2
+0 Race_Hill_Giant SUBRACE 200 ****
+1 Hill_giant_epithet FEAT 2682 ****
+2 Base_Attack BAB 2 ****

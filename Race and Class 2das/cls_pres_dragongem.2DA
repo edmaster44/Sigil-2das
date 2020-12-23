@@ -1,7 +1,8 @@
 2DA V2.0
 
-   LABEL          ReqType  ReqParam1 ReqParam2 
-0  AmethysDragon  SUBRACE  237       ****      
-0  EmeraldDragon  SUBRACE  238       ****      
-0  TopazDragon    SUBRACE  239       ****      
-3  PPPool         FEAT     20998     ****      
+ LABEL ReqType ReqParam1 ReqParam2
+0 AmethysDragon SUBRACE 237 ****
+1 EmeraldDragon SUBRACE 238 ****
+2 TopazDragon SUBRACE 239 ****
+3 PPPool FEAT 20998 ****
+4 Base_attack BAB 2 ****
