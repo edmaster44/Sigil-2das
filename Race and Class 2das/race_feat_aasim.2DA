@@ -1,11 +1,12 @@
-2DA	V2.0	
+2DA V2.0
 
-	FeatLabel	FeatIndex
-0	darkvision	228
-1	skillaffinitylisten	237
-2	skillaffinityspot	239
-3	FEAT_AASIMAR_RESISTANCE	1085
-4	FEAT_AASIMAR_LIGHT	1086
-5	ResistEnergyCold	427
-6	ResistEnergyElectrical	430
-7	ResistEnergyAcid	428
+ FeatLabel FeatIndex
+0 darkvision 228
+1 skillaffinitylisten 237
+2 skillaffinityspot 239
+3 FEAT_AASIMAR_RESISTANCE 1085
+4 FEAT_AASIMAR_LIGHT 1086
+5 ResistEnergyCold 427
+6 ResistEnergyElectrical 430
+7 ResistEnergyAcid 428
+8 CelestialBlood 86
