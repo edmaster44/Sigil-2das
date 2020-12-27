@@ -321,7 +321,7 @@
 317 POLYMORPH_TYPE_BASIC_DRUID_WSPEC c_badger 8 144 po_Badger NW_IT_CREWPSP002 NW_IT_CREWPSP002 ps_ws_cw_wbadgerbite x2_it_emptyskin **** 13 15 19 2 14 4 **** **** **** 1 1 1 ****
 318 POLYMORPH_TYPE_BASIC_DRUID_SSTR c_beardire 8 181 po_BearDire NW_IT_CREWPSP006 NW_IT_CREWPSP006 NW_IT_CREWPS017 x2_it_emptyskin **** 31 19 13 18 20 8 **** **** **** 1 1 1 ****
 319 POLYMORPH_TYPE_BASIC_DRUID_SDEX c_dogwolfdire 8 184 po_DireWolf NW_IT_CREWPSP010 **** **** x2_it_emptyskin **** 19 13 31 13 12 104 **** **** **** 1 1 1 ****
-320 POLYMORPH_TYPE_BASIC_DRUID_SCON c_boardire 8 182 po_DireBoar NW_IT_CREWPP010 **** **** x2_it_emptyskin **** 19 31 13 23 36 11 **** **** **** 1 1 1 ****
+320 POLYMORPH_TYPE_BASIC_DRUID_SCON c_boardire 8 182 po_DireBoar NW_IT_CREWPP010 **** **** x2_it_emptyskin **** 19 31 19 23 36 11 **** **** **** 1 1 1 ****
 321 POLYMORPH_TYPE_BASIC_DRUID_SSPEC c_badgerdire 8 180 po_DireBadger NW_IT_CREWPSP026 NW_IT_CREWPSP026 NW_IT_CREWPS005 x2_it_emptyskin **** 17 21 25 12 28 5 **** **** **** 1 1 1 ****
 322 POLYMORPH_TYPE_WOODLAND_DRUID_WSTR c_bearblack 8 148 po_BearBrwn NW_IT_CREWPSP026 NW_IT_CREWPSP026 NW_IT_CREWPS005 x2_it_emptyskin **** 21 15 11 2 10 7 **** **** **** 1 1 1 ****
 323 POLYMORPH_TYPE_WOODLAND_DRUID_WDEX c_dogwolf 8 319 po_Wolf NW_IT_CREWPS005 **** **** x2_it_emptyskin **** 15 11 21 1 6 27 **** **** **** 1 1 1 ****
@@ -329,7 +329,7 @@
 325 POLYMORPH_TYPE_WOODLAND_DRUID_WSPEC c_badger 8 144 po_Badger NW_IT_CREWPSP002 NW_IT_CREWPSP002 ps_ws_cw_wbadgerbite x2_it_emptyskin **** 13 15 19 2 14 4 **** **** **** 1 1 1 ****
 326 POLYMORPH_TYPE_WOODLAND_DRUID_SSTR c_bearblack 8 181 po_BearDire NW_IT_CREWPSP006 NW_IT_CREWPSP006 NW_IT_CREWPS017 x2_it_emptyskin **** 31 19 13 18 20 7 **** **** **** 1 1 1 ****
 327 POLYMORPH_TYPE_WOODLAND_DRUID_SDEX c_dogwolf 8 184 po_DireWolf NW_IT_CREWPSP010 **** **** x2_it_emptyskin **** 19 13 31 13 12 27 **** **** **** 1 1 1 ****
-328 POLYMORPH_TYPE_WOODLAND_DRUID_SCON c_boar 8 182 po_DireBoar NW_IT_CREWPP010 **** **** x2_it_emptyskin **** 19 31 13 23 36 10 **** **** **** 1 1 1 ****
+328 POLYMORPH_TYPE_WOODLAND_DRUID_SCON c_boar 8 182 po_DireBoar NW_IT_CREWPP010 **** **** x2_it_emptyskin **** 19 31 19 23 36 10 **** **** **** 1 1 1 ****
 329 POLYMORPH_TYPE_WOODLAND_DRUID_SSPEC c_badger 8 180 po_DireBadger NW_IT_CREWPSP026 NW_IT_CREWPSP026 NW_IT_CREWPS005 x2_it_emptyskin **** 17 21 25 12 28 4 **** **** **** 1 1 1 ****
 330 POLYMORPH_TYPE_ELEMENTAL_DRUID_WSTR ps_ws_wstr_elemental 16 **** **** ps_ws_cw_bash_d6 ps_ws_cw_bash_d6 **** ps_ws_hide_earthele **** 21 15 11 2 10 33 **** **** **** 1 1 1 fx_earth_elemental
 331 POLYMORPH_TYPE_ELEMENTAL_DRUID_WDEX ps_ws_wdex_elemental 16 **** **** ps_ws_cw_bash_d4elec **** **** ps_ws_hide_airele **** 15 11 21 1 6 32 **** **** **** 1 1 1 fx_air_elemental
@@ -337,7 +337,7 @@
 333 POLYMORPH_TYPE_ELEMENTAL_DRUID_WSPEC ps_ws_wspec_elemental 16 **** **** ps_ws_cw_bash_d6fire **** **** ps_ws_hide_fireele **** 13 15 19 2 14 34 **** **** **** 1 1 1 fx_fire_elemental
 334 POLYMORPH_TYPE_ELEMENTAL_DRUID_SSTR ps_ws_sstr_elemental 16 **** **** ps_ws_cw_bash_2d6 ps_ws_cw_bash_2d6 **** ps_ws_hide_earthele **** 31 19 13 18 20 33 **** **** **** 1 1 1 ****
 335 POLYMORPH_TYPE_ELEMENTAL_DRUID_SDEX ps_ws_sdex_elemental 16 **** **** ps_ws_cw_bash_2d4elec **** **** ps_ws_hide_airele **** 19 13 31 13 12 32 **** **** **** 1 1 1 ****
-336 POLYMORPH_TYPE_ELEMENTAL_DRUID_SCON ps_ws_scon_elemental 16 **** **** ps_ws_cw_bash_d6cold **** **** ps_ws_hide_waterele **** 19 31 13 23 36 35 **** **** **** 1 1 1 ****
+336 POLYMORPH_TYPE_ELEMENTAL_DRUID_SCON ps_ws_scon_elemental 16 **** **** ps_ws_cw_bash_d6cold **** **** ps_ws_hide_waterele **** 19 31 19 23 36 35 **** **** **** 1 1 1 ****
 337 POLYMORPH_TYPE_ELEMENTAL_DRUID_SSPEC ps_ws_sspec_elemental 16 **** **** ps_ws_cw_bash_d10fire **** **** ps_ws_hide_fireele **** 17 21 25 12 28 34 **** **** **** 1 1 1 ****
 338 POLYMORPH_TYPE_JUNGLE_DRUID_WSTR ps_ws_wstr_jungle 8 **** **** NW_IT_CREWPSP026 NW_IT_CREWPSP026 NW_IT_CREWPS005 x2_it_emptyskin **** 21 15 11 2 10 563 **** **** **** 1 1 1 ****
 339 POLYMORPH_TYPE_JUNGLE_DRUID_WDEX ps_ws_wdex_jungle 25 **** **** ps_ws_cw_wsnakebite **** **** x2_it_emptyskin **** 15 11 21 1 6 565 **** **** **** 1 1 1 ****
@@ -345,7 +345,7 @@
 341 POLYMORPH_TYPE_JUNGLE_DRUID_WSPEC ps_ws_wspec_jungle 8 **** **** NW_IT_CREWPSP002 NW_IT_CREWPSP002 NW_IT_CREWPS010 ps_ws_hide_wpanther **** 13 15 19 2 14 510 **** **** **** 1 1 1 ****
 342 POLYMORPH_TYPE_JUNGLE_DRUID_SSTR ps_ws_sstr_jungle 8 **** **** NW_IT_CREWPSP006 NW_IT_CREWPSP006 NW_IT_CREWPS017 x2_it_emptyskin **** 31 19 13 18 20 564 **** **** **** 1 1 1 ****
 343 POLYMORPH_TYPE_JUNGLE_DRUID_SDEX ps_ws_sdex_jungle 25 **** **** ps_ws_cw_ssnakebite **** **** x2_it_emptyskin **** 19 13 31 13 12 565 **** **** **** 1 1 1 ****
-344 POLYMORPH_TYPE_JUNGLE_DRUID_SCON ps_ws_scon_jungle 25 **** **** NW_IT_CREWPP010 **** **** x2_it_emptyskin **** 19 31 13 23 36 498 **** **** **** 1 1 1 ****
+344 POLYMORPH_TYPE_JUNGLE_DRUID_SCON ps_ws_scon_jungle 25 **** **** NW_IT_CREWPP010 **** **** x2_it_emptyskin **** 19 31 19 23 36 498 **** **** **** 1 1 1 ****
 345 POLYMORPH_TYPE_JUNGLE_DRUID_SSPEC ps_ws_sspec_jungle 8 **** **** NW_IT_CREWPSP026 NW_IT_CREWPSP026 NW_IT_CREWPS005 ps_ws_hide_spanther **** 17 21 25 12 28 510 **** **** **** 1 1 1 ****
 346 POLYMORPH_TYPE_DESERT_DRUID_WSTR ps_ws_wstr_desert 25 **** **** NW_IT_CREWPSP026 NW_IT_CREWPSP026 ps_ws_cw_wscorpsting x2_it_emptyskin **** 21 15 11 2 10 85 **** **** **** 1 1 1 ****
 347 POLYMORPH_TYPE_DESERT_DRUID_WDEX ps_ws_wdex_desert 8 **** **** NW_IT_CREWPS005 **** **** x2_it_emptyskin **** 15 11 21 1 6 510 **** **** **** 1 1 1 ****
@@ -353,7 +353,7 @@
 349 POLYMORPH_TYPE_DESERT_DRUID_WSPEC ps_ws_wspec_desert 19 **** **** NW_IT_CREWPSP001 NW_IT_CREWPSP001 ps_ws_cw_wbasilisk x2_it_emptyskin **** 13 15 19 2 14 325 **** **** **** 1 1 1 ****
 350 POLYMORPH_TYPE_DESERT_DRUID_SSTR ps_ws_sstr_desert 25 **** **** NW_IT_CREWPSP006 NW_IT_CREWPSP006 ps_ws_cw_sscorpsting x2_it_emptyskin **** 31 19 13 18 20 85 **** **** **** 1 1 1 ****
 351 POLYMORPH_TYPE_DESERT_DRUID_SDEX ps_ws_sdex_desert 8 **** **** NW_IT_CREWPSP010 **** **** x2_it_emptyskin **** 19 13 31 13 12 510 **** **** **** 1 1 1 ****
-352 POLYMORPH_TYPE_DESERT_DRUID_SCON ps_ws_scon_desert 25 **** **** ps_ws_cw_bash_d10fire **** **** x2_it_emptyskin **** 19 31 13 23 36 499 **** **** **** 1 1 1 ****
+352 POLYMORPH_TYPE_DESERT_DRUID_SCON ps_ws_scon_desert 25 **** **** ps_ws_cw_bash_d10fire **** **** x2_it_emptyskin **** 19 31 19 23 36 499 **** **** **** 1 1 1 ****
 353 POLYMORPH_TYPE_DESERT_DRUID_SSPEC ps_ws_sspec_desert 19 **** **** NW_IT_CREWPSP026 NW_IT_CREWPSP026 ps_ws_cw_sbasilisk x2_it_emptyskin **** 17 21 25 12 28 325 **** **** **** 1 1 1 ****
 354 POLYMORPH_TYPE_UDARK_DRUID_WSTR ps_ws_wstr_udark 7 **** **** NW_IT_CREWPSP026 NW_IT_CREWPSP026 ps_ws_cw_wuhulk x2_it_emptyskin **** 21 15 11 2 10 95 **** **** **** 1 1 1 ****
 355 POLYMORPH_TYPE_UDARK_DRUID_WDEX ps_ws_wdex_udark 25 **** **** ps_ws_cw_wsnakebite **** **** x2_it_emptyskin **** 15 11 21 1 6 85 **** **** **** 1 1 1 ****
@@ -361,7 +361,7 @@
 357 POLYMORPH_TYPE_UDARK_DRUID_WSPEC ps_ws_wspec_udark 25 **** **** ps_ws_cw_wratbite **** **** x2_it_emptyskin **** 13 15 19 2 14 249 **** **** **** 1 1 1 ****
 358 POLYMORPH_TYPE_UDARK_DRUID_SSTR ps_ws_sstr_udark 7 **** **** NW_IT_CREWPSP006 NW_IT_CREWPSP006 ps_ws_cw_suhulk x2_it_emptyskin **** 31 19 13 18 20 95 **** **** **** 1 1 1 ****
 359 POLYMORPH_TYPE_UDARK_DRUID_SDEX ps_ws_sdex_udark 25 **** **** ps_ws_cw_ssnakebite **** **** x2_it_emptyskin **** 19 13 31 13 12 85 **** **** **** 1 1 1 ****
-360 POLYMORPH_TYPE_UDARK_DRUID_SCON ps_ws_scon_udark 7 **** **** NW_IT_CREWPP010 **** **** x2_it_emptyskin **** 19 31 13 23 36 85 **** **** **** 1 1 1 ****
+360 POLYMORPH_TYPE_UDARK_DRUID_SCON ps_ws_scon_udark 7 **** **** NW_IT_CREWPP010 **** **** x2_it_emptyskin **** 19 31 19 23 36 85 **** **** **** 1 1 1 ****
 361 POLYMORPH_TYPE_UDARK_DRUID_SSPEC ps_ws_sspec_udark 25 **** **** ps_ws_cw_sratbite **** **** x2_it_emptyskin **** 17 21 25 12 28 250 **** **** **** 1 1 1 ****
 362 POLYMORPH_TYPE_COLD_DRUID_WSTR ps_ws_wstr_cold 8 **** **** NW_IT_CREWPSP026 NW_IT_CREWPSP026 NW_IT_CREWPS005 x2_it_emptyskin **** 21 15 11 2 10 510 **** **** **** 1 1 1 ****
 363 POLYMORPH_TYPE_COLD_DRUID_WDEX ps_ws_wdex_cold 8 **** **** NW_IT_CREWPS005 **** **** x2_it_emptyskin **** 15 11 21 1 6 510 **** **** **** 1 1 1 ****
@@ -369,7 +369,7 @@
 365 POLYMORPH_TYPE_COLD_DRUID_WSPEC ps_ws_wspec_cold 8 **** **** NW_IT_CREWPSP001 NW_IT_CREWPSP001 ps_ws_cw_wbadgerbite x2_it_emptyskin **** 13 15 19 2 14 522 **** **** **** 1 1 1 ****
 366 POLYMORPH_TYPE_COLD_DRUID_SSTR ps_ws_sstr_cold 8 **** **** NW_IT_CREWPSP006 NW_IT_CREWPSP006 NW_IT_CREWPS017 x2_it_emptyskin **** 31 19 13 18 20 510 **** **** **** 1 1 1 ****
 367 POLYMORPH_TYPE_COLD_DRUID_SDEX ps_ws_sdex_cold 8 **** **** NW_IT_CREWPSP010 **** **** x2_it_emptyskin **** 19 13 31 13 12 510 **** **** **** 1 1 1 ****
-368 POLYMORPH_TYPE_COLD_DRUID_SCON ps_ws_scon_cold 8 **** **** NW_IT_CREWPS010 **** **** x2_it_emptyskin **** 19 31 13 23 36 105 **** **** **** 1 1 1 ****
+368 POLYMORPH_TYPE_COLD_DRUID_SCON ps_ws_scon_cold 8 **** **** NW_IT_CREWPS010 **** **** x2_it_emptyskin **** 19 31 19 23 36 105 **** **** **** 1 1 1 ****
 369 POLYMORPH_TYPE_COLD_DRUID_SSPEC ps_ws_sspec_cold 8 **** **** NW_IT_CREWPSP026 NW_IT_CREWPSP026 NW_IT_CREWPS005 x2_it_emptyskin **** 17 21 25 12 28 522 **** **** **** 1 1 1 ****
 370 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 371 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
@@ -377,11 +377,11 @@
 373 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 374 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 375 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
-376 POLYMORPH_BLUE_DRAGON_VERY_OLD c_bluedragon_shape 11 192 po_DrgBlue nx1_claw_dragonshape **** **** nx1_hide_bluedragon_shape **** 36 26 10 36 375 521 796 **** **** 1 1 1 ****
-377 POLYMORPH_BLACK_DRAGON_VERY_OLD c_blackdragon_shape 11 198 po_DrgRed nx1_claw_dragonshape **** **** nx1_hide_blackdragon_shape **** 36 26 10 37 387 29 236 **** **** 1 1 1 ****
-378 POLYMORPH_BRONZE_DRAGON_VERY_OLD c_bronzedragon_shape 11 198 po_DrgRed nx1_claw_dragonshape **** **** nx1_hide_bronzedragon_shape **** 36 26 10 36 375 29 798 **** **** 1 1 1 ****
+376 POLYMORPH_BLUE_DRAGON_VERY_OLD c_bluedragon_shape 11 192 po_DrgBlue nx1_claw_dragonshape **** **** nx1_hide_bluedragon_shape **** 36 26 18 36 375 521 796 **** **** 1 1 1 ****
+377 POLYMORPH_BLACK_DRAGON_VERY_OLD c_blackdragon_shape 11 198 po_DrgRed nx1_claw_dragonshape **** **** nx1_hide_blackdragon_shape **** 36 26 18 37 387 29 236 **** **** 1 1 1 ****
+378 POLYMORPH_BRONZE_DRAGON_VERY_OLD c_bronzedragon_shape 11 198 po_DrgRed nx1_claw_dragonshape **** **** nx1_hide_bronzedragon_shape **** 36 26 18 36 375 29 798 **** **** 1 1 1 ****
 379 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
-380 POLYMORPH_RED_DRAGON_VERY_OLD c_reddragon_shape 11 198 po_DrgRed nx1_claw_dragonshape **** **** nx1_hide_reddragon_shape **** 36 26 10 31 312 29 **** **** **** 1 1 1 ****
+380 POLYMORPH_RED_DRAGON_VERY_OLD c_reddragon_shape 11 198 po_DrgRed nx1_claw_dragonshape **** **** nx1_hide_reddragon_shape **** 36 26 18 31 312 29 **** **** **** 1 1 1 ****
 381 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 382 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 383 RESERVED_FOR_WILDSHAPES **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
