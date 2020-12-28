@@ -3,11 +3,11 @@
  LABEL StringRef NWN2_ModelName NWN2_Skeleton_File NWN2_BaseAnims MODEL
 0 None 112753 **** **** **** ****
 1 **** **** **** **** **** ****
-2 **** **** **** **** **** ****
+2 f_mezzoloth 16777600 P_MEZ_Wings P_HHFcapewing_skel P_HHF P_MEZ_Wings
 3 new_celestialwings_M 16781487 angel_wings01 P_HHMcapewing_skel P_HHM angel_wings01
 4 new_celestialwings_F 16781487 angel_wings01 P_HHFcapewing_skel P_HHF angel_wings01
-5 new_demonwings_M 16781488 demon_Wings01_n P_HHMcapewing_skel P_HHM demon_Wings01_n
-6 new_demonwings_F 16781488 demon_Wings01_n P_HHFcapewing_skel P_HHF demon_Wings01_n
+5 new_demonwings_M 16781488 demon_Wings01 P_HHMcapewing_skel P_HHM demon_Wings01
+6 new_demonwings_F 16781488 demon_Wings01 P_HHFcapewing_skel P_HHF demon_Wings01
 7 GargoyleWings 111453 c_gargoyle_wings c_winglegwing_skel c_wingleg c_gargoyle_wings
 8 PitFiendWings 111906 c_fiend_wings c_devilwing_skel c_devil c_fiend_wings
 9 BalorWings 111907 c_balor_wings c_devilwing_skel c_devil c_balor_wings
@@ -93,3 +93,9 @@
 89 new_demonwings_gnomeF 16781488 demon_wings01 P_GGFcapewing_skel P_GGF demon_Wings01_n
 90 new_demonwings_OrcsM 16781488 demon_wings01 P_OOMcapewing_skel P_OOM demon_Wings01_n
 91 new_demonwings_OrcsF 16781488 demon_wings01 P_OOFcapewing_skel P_OOF demon_Wings01_n
+92 OrcM_Mezzoloth 16777600 P_MEZ_Wings P_OOMcapewing_skel P_OOM P_MEZ_Wings
+93 OrcF_Mezzoloth 16777600 P_MEZ_Wings P_OOFcapewing_skel P_OOF P_MEZ_Wings
+94 GnomeM_Mezzoloth 16777600 P_MEZ_Wings P_GGMcapewing_skel P_GGM P_MEZ_Wings
+95 GnomeF_Mezzoloth 16777600 P_MEZ_Wings P_GGFcapewing_skel P_GGF P_MEZ_Wings
+96 DwarfM_Mezzoloth 16777600 P_MEZ_Wings P_DDMcapewing_skel P_DDM P_MEZ_Wings
+97 DwarfF_Mezzoloth 16777600 P_MEZ_Wings P_DDFcapewing_skel P_DDF P_MEZ_Wings
