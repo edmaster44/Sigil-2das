@@ -275,4 +275,6 @@
 271 **** carceri_cellar **** **** **** MIL-CarceriCellar
 272 **** carceri_prison **** **** **** MIL-CarceriPrison
 273 **** carceri_prison_depths **** **** **** MIL-CarceriCellarDepths
-274 **** mus_Monks **** **** **** mus_Monks
+274 **** mus_monks **** **** **** mus_monks
+275 **** mus_magicalbox **** **** **** mus_magicalbox
+276 **** mus_ominoustunes **** **** **** mus_ominoustunes
