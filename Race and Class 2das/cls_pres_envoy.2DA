@@ -1,7 +1,9 @@
 2DA V2.0
 
-  LABEL     ReqType  ReqParam1     ReqParam2 
-0 Divine    DIVSPELL 1             ****      
-1 Diplomacy SKILL    12            10        
-3 SacredVow FEAT     2627          ****      
-4 ScriptVar VAR      nw_AllowEnvoy 0         
+ LABEL ReqType ReqParam1 ReqParam2
+0 Diplomacy SKILL 12 10
+1 FEAT_SPELL_CLERDRU_I FEATOR 21444 ****
+2 FEAT_SPELL_PALRANG_I FEATOR 21452 ****
+3 FEAT_SPELL_SORCFAVSHAMAN_I FEATOR 21456 ****
+4 SacredVow FEAT 2627 ****
+5 ScriptVar VAR nw_AllowEnvoy 0

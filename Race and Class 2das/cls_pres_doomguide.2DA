@@ -1,9 +1,11 @@
-2DA	V2.0			
-				
-	LABEL	ReqType	ReqParam1	ReqParam2
-0	SAVE	SAVE	3	4
-1	Divine	DIVSPELL	3	****
-2	Diplomacy	SKILL	12	5
-3	ExtTurn	FEAT	13	****
-4	GreatFort	FEAT	14	****
-5	ScriptVar	VAR	nw_AllowDoomguide	0
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 SAVE SAVE 3 4
+1 FEAT_SPELL_CLERDRU_III FEATOR 21446 ****
+2 FEAT_SPELL_PALRANG_III FEATOR 21454 ****
+3 FEAT_SPELL_SORCFAVSHAMAN_III FEATOR 21458 ****
+4 Diplomacy SKILL 12 5
+5 ExtTurn FEAT 13 ****
+6 GreatFort FEAT 14 ****
+7 ScriptVar VAR nw_AllowDoomguide 0

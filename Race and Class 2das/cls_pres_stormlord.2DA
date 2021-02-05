@@ -1,12 +1,14 @@
-2DA	V2.0			
+2DA V2.0
 
-	LABEL	ReqType	ReqParam1	ReqParam2
-0	Divine	DIVSPELL	3	****
-1	GreatFort	FEAT	14	****
-2	Toughness	FEAT	40	****
-3	WeapFocDart	FEATOR	91	****
-4	WeapFocShur	FEATOR	120	****
-5	WeapFocTAxe	FEATOR	109	****
-6	WeapFocSpear	FEATOR	97	****
-7	MinBaseFortSave	SAVE	1	4
-8	ScriptVar	VAR	nw_AllowStormlord	0
+ LABEL ReqType ReqParam1 ReqParam2
+0 GreatFort FEAT 14 ****
+1 Toughness FEAT 40 ****
+2 WeapFocDart FEATOR 91 ****
+3 WeapFocShur FEATOR 120 ****
+4 WeapFocTAxe FEATOR 109 ****
+5 WeapFocSpear FEATOR 97 ****
+6 FEAT_SPELL_CLERDRU_III FEATOR 21446 ****
+7 FEAT_SPELL_SORCFAVSHAMAN_III FEATOR 21458 ****
+8 FEAT_SPELL_PALRANG_III FEATOR 21454 ****
+9 MinBaseFortSave SAVE 1 4
+10 ScriptVar VAR nw_AllowStormlord 0
