@@ -1,38 +1,78 @@
 2DA V2.0
 
- Name Icon Description
-0 **** **** ****
-1 "Welcome to the Cage" *** "Maybe you fell through a portal by accident. Maybe you came to the City of Doors willingly. Either way, your first sight of the city was a filthy alleyway. . ."
-2 "Philosopher with a Club" **** "You joined one of the fifteen factions of the City of Doors."
-3 "Styxed It" **** "You drank water from the River Styx. Who knows what you have forgotten?"
-4 "Twin Cages Campaign" **** "One of the brave planeswalkers who served in the war of 136Ha. You have been to Sigil's red mirror city. Maybe you even met your doppleganger. . ."
-5 "Wayward Soul" **** "You left your faction. Maybe it just was not the right fit. Maybe you were exiled. Regardless, many factioneers now view you with a peery eye."
-6 "Under the Table" **** "You found the Night Market - a corner of the Hive where you can find goods and services which are not quite on the up and up."
-7 "Jumped out the Window" **** "You found your first portal!"
-8 Bloodcrow **** "The Blood War never stops. . . and you have taken full advantage. You fought and looted in the fields of the Blood War in the Abyss, slaying over a thousand fiends in the course of your career."
-9 "Counting Worms" **** "You have counted a few worms, but you are not in the Dead Book yet! The Dustmen brought you back from the brink of death."
-10 "Dragon Slayer" **** "You faced the great Red Wyrm in the Astral. . and emerged victorious! You killed the Astral Red Dragon."
-11 "No Shelf too High!" **** "Neither chasms nor walls can stop you. You will jump every obstacle to get the loot you deserve."
-12 "Secret of the Kings Eye" **** "Not only did you jump across the chasm, but you discovered the secret of the Kings Eye. The loot of that tomb is yours."
-13 "A Game of Chess" **** "You found a strange and violent game of chess located in a demiplane. . . and emerged victorious."
-14 "Smells like Cinnamon" **** "They say you should run at the smell of cinnamon. . . now you know why. You encountered the Kadyx in the Slags, and barely escaped with your life."
-15 "Charity Drive" **** "A charitable soul. . . you have given over one hundred jink to the beggar in the Bazaar. He should really be ready to retire now."
-16 Factotum **** "You have reached the rank of Factotum in your faction."
-17 Factor **** "You have reached the rank of Factor in your faction."
-18 "Voices in the Wind" **** "Few brave the tunnels of Pandemonium - you are one of those who went, and then perhaps stayed too long. You heard the voices in the wind."
-19 "The Deadliest Plants" **** "You dared to touch the forbidden fruit of Colothys. . . and emerged victorious! You killed Ebolakhan."
-20 "Porphatys Boss" **** ****
-21 "Niflehiem Boss" **** ****
-22 "Fit to Print" **** "SIGIS is the disreputable newsrag of the Cage, and you have contributed at least one article."
-23 "Practically a Tout" **** "You have traversed all the wards of the City of Doors. You are practically a tout! Maybe you can charge for this. . ."
-24 "Helped a Berk" **** "The city is full of Clueless Berks. . and you have helped at least one find his or her place in the city."
-25 "Peeled a Berk" **** "The city is full of Clueless Berks. . . and you have cheated or pealed at least one. A true Cager, you are."
-26 "The Back Room" **** "You gained entry to the back room of the Bottle and Jug, and watched one of their infamous gladiatorial shows."
-27 Soul-broker **** "You work for the fiends, making contracts with poor sods for their souls. Hey, it makes you rich."
-28 "Bet your Life!" **** "The card game of the Cage! You have played Bet your Life at least once."
-29 "Reach Max Level" **** ****
-30 "Traverse all Elemental Planes" **** ****
-31 "Traverse all Outer Planes" **** ****
-32 "Go to all Faction Headquarters" **** ****
-33 "Anti-Magic Zone" **** "You got all the way through the anti-magic tower."
-34 **** **** ****
+ Name Icon Description Implemented
+0 **** **** **** ****
+1 "Welcome to the Cage" *** "Maybe you fell through a portal by accident. Maybe you came to the City of Doors willingly. Either way, your first sight of the city was a filthy alleyway. . ." 1
+2 "Philosopher with a Club" **** "You joined one of the fifteen factions of the City of Doors." 1
+3 "Styxed It" **** "You drank water from the River Styx. Who knows what you have forgotten?" 1
+4 "Twin Cages Campaign" **** "One of the brave planeswalkers who served in the war of 136Ha. You have been to Sigil's red mirror city. Maybe you even met your doppleganger. . ." 1
+5 "Wayward Soul" **** "You left your faction. Maybe it just was not the right fit. Maybe you were exiled. Regardless, many factioneers now view you with a peery eye." 1
+6 "Under the Table" **** "You found the Night Market - a corner of the Hive where you can find goods and services which are not quite on the up and up." 1
+7 "Jumped out the Window" **** "You found your first portal!" 1
+8 Bloodcrow **** "The Blood War never stops. . . and you have taken full advantage. You fought and looted in the fields of the Blood War in the Abyss, slaying over a thousand fiends in the course of your career." 1
+9 "Counting Worms" **** "You have counted a few worms, but you are not in the Dead Book yet! The Dustmen brought you back from the brink of death." 1
+10 "Dragon Slayer" **** "You faced the great Red Wyrm in the Astral. . and emerged victorious! You killed the Astral Red Dragon." 1
+11 "No Shelf too High!" **** "Neither chasms nor walls can stop you. You will jump every obstacle to get the loot you deserve." 1
+12 "Secret of the Kings Eye" **** "Not only did you jump across the chasm, but you discovered the secret of the Kings Eye. The loot of that tomb is yours." 1
+13 "A Game of Chess" **** "You found a strange and violent game of chess located in a demiplane. . . and emerged victorious." 1
+14 "Smells like Cinnamon" **** "They say you should run at the smell of cinnamon. . . now you know why. You encountered the Kadyx in the Slags, and barely escaped with your life." 1
+15 "Charity Drive" **** "A charitable soul. . . you have given over one hundred jink to the beggar in the Bazaar. He should really be ready to retire now. Cancels Hard-hearted." 1
+16 Factotum **** "You have reached the rank of Factotum in your faction." 1
+17 Factor **** "You have reached the rank of Factor in your faction." 1
+18 "Voices in the Wind" **** "Few brave the tunnels of Pandemonium - you are one of those who went, and then perhaps stayed too long. You heard the voices in the wind." 1
+19 "The Deadliest Plants" **** "You dared to touch the forbidden fruit of Colothys. . . and emerged victorious! You killed Ebolakhan." 1
+20 "Porphatys Boss" **** **** 0
+21 "Niflehiem Boss" **** **** 0
+22 "Fit to Print" **** "SIGIS is the disreputable newsrag of the Cage, and you have contributed at least one article." 1
+23 "Practically a Tout" **** "You have traversed all the wards of the City of Doors. You are practically a tout! Maybe you can charge for this. . ." 0
+24 "Helped a Berk" **** "The city is full of Clueless Berks. . and you have helped at least one find his or her place in the city." 0
+25 "Peeled a Berk" **** "The city is full of Clueless Berks. . . and you have cheated or pealed at least one. A true Cager, you are." 0
+26 "The Back Room" **** "You gained entry to the back room of the Bottle and Jug, and watched one of their infamous gladiatorial shows." 1
+27 Soul-broker **** "You work for the fiends, making contracts with poor sods for their souls. Hey, it makes you rich." 0
+28 "Bet your Life!" **** "The card game of the Cage! You have played Bet your Life at least once." 0
+29 "Reach Max Level" **** **** 0
+30 "Traverse all Elemental Planes" **** **** 0
+31 "Traverse all Outer Planes" **** **** 0
+32 "Go to all Faction Headquarters" **** **** 0
+33 "Anti-Magic Zone" **** "You got all the way through the anti-magic tower." 0
+34 "Gambled an Item" **** **** 0
+35 "Hard hitter" **** "Did over 100 damage in a single strike" 0
+36 "Sailed the Astral" **** "Took a trip on the Astral ship" 0
+37 "Stayed at the Bird of Paradise" **** "Bought key to expensive room in the bird of paradise" 0
+38 "Stayed at Chirpers" **** "Bought key to Chirpers Apartment" 0
+39 "Fortune Told" **** "Your fortune has been told by one of the planes many soothsayers (Fire weird, Spirit hunter, black Marian)" 0
+40 "A Real Journalist" **** "You have written 50 articles for SIGIS." 0
+41 "A Contributer" **** "You have written 10 articles for SIGIS." 0
+42 "Against the Gods" **** "You have done all 3 Athar quests." 0
+43 Hard-hearted **** "You have kicked the beggar 50 times. Cancels Charity Drive." 0
+44 "Lemon and Lime" **** "Messing with Time. You completed the Niflehiem time quest." 0
+45 "Sands of the Arena" **** "Fought in the Gymnasium" 0
+46 "All the Spells" **** "You collected enough spells that the spell-script had to fire. Good job." 0
+47 Gladiator **** "Fought 50 times in the Gymnasium." 0
+48 "The Shifting Islands of Limbo" **** "You made it all the way to the Githzerai Monastery in Limbo." 0
+49 Miner **** "You mined 50 gems." 0
+50 Gem-cutter **** "You successfully cut 50 gems." 0
+51 Enchanter **** "You have enchanted at least 10 items." 0
+52 Crafter **** "You have crafted at least 10 items of worth (with special metals)." 0
+53 "So many Lives. . ." **** "You have rebuilt this character least 10 times." 0
+54 "Viewed an Execution" **** "You have viewed the execution scene." 0
+55 "Sensate Lectures" **** "You have attended at least one lecture at the Festhall." 0
+56 "Sensate Lectures - 2" **** "You have attended all the lectures at the Festhall." 0
+57 "Mercykiller Pardon" **** "You have come into possession of one (1) Mercykiller pardon. Is it real?" 0
+58 "Pre-paid Taxes" **** "You have pre-paid your taxes at least once, and have the receipt to prove it!" 0
+59 "Carnival Season" **** "You have experienced the Cage Carnivals at least once." 0
+60 "Xanta Claws" **** "You have been given at least one present by Xanta." 0
+61 "Animal Cruelty" **** "You have killed 1000 animals in the Beastlands." 0
+62 Trapper **** "You have trapped at least 10 animals." 0
+63 "Bet Your Life - Victor" **** "You have won at least one game of Bet Your Life." 0
+64 "Card Shark" **** "You have won at least 10 games of Bet Your Life." 0
+65 **** **** **** ****
+66 **** **** **** ****
+67 **** **** **** ****
+68 **** **** **** ****
+69 **** **** **** ****
+70 **** **** **** ****
+71 **** **** **** ****
+72 **** **** **** ****
+73 **** **** **** ****
+74 **** **** **** ****
