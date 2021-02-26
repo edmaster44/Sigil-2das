@@ -16,7 +16,7 @@
 12 "Secret of the Kings Eye" **** "Not only did you jump across the chasm, but you discovered the secret of the Kings Eye. The loot of that tomb is yours." 1
 13 "A Game of Chess" **** "You found a strange and violent game of chess located in a demiplane. . . and emerged victorious." 1
 14 "Smells like Cinnamon" **** "They say you should run at the smell of cinnamon. . . now you know why. You encountered the Kadyx in the Slags, and barely escaped with your life." 1
-15 "Charity Drive" **** "A charitable soul. . . you have given over one hundred jink to the beggar in the Bazaar. He should really be ready to retire now. Cancels Hard-hearted." 1
+15 "Charity Drive" **** "A charitable soul. . . you have given jink, or otherwise donated to the beggar in the Bazaar 50 times. He should really be ready to retire now. Cancels Hard-hearted." 1
 16 Factotum **** "You have reached the rank of Factotum in your faction." 1
 17 Factor **** "You have reached the rank of Factor in your faction." 1
 18 "Voices in the Wind" **** "Few brave the tunnels of Pandemonium - you are one of those who went, and then perhaps stayed too long. You heard the voices in the wind." 1
@@ -25,8 +25,8 @@
 21 "Niflehiem Boss" **** **** 0
 22 "Fit to Print" **** "SIGIS is the disreputable newsrag of the Cage, and you have contributed at least one article." 1
 23 "Practically a Tout" **** "You have traversed all the wards of the City of Doors. You are practically a tout! Maybe you can charge for this. . ." 0
-24 "Helped a Berk" **** "The city is full of Clueless Berks. . and you have helped at least one find his or her place in the city." 0
-25 "Peeled a Berk" **** "The city is full of Clueless Berks. . . and you have cheated or pealed at least one. A true Cager, you are." 0
+24 "Helped a Berk" **** "The city is full of clueless berks. . and you have helped at least one find his or her place in the city." 0
+25 "Peeled a Berk" **** "The city is full of clueless berks. . . and you have cheated or pealed at least one. A true Cager, you are." 0
 26 "The Back Room" **** "You gained entry to the back room of the Bottle and Jug, and watched one of their infamous gladiatorial shows." 1
 27 Soul-broker **** "You work for the fiends, making contracts with poor sods for their souls. Hey, it makes you rich." 0
 28 "Bet your Life!" **** "The card game of the Cage! You have played Bet your Life at least once." 0
@@ -66,13 +66,23 @@
 62 Trapper **** "You have trapped at least 10 animals." 0
 63 "Bet Your Life - Victor" **** "You have won at least one game of Bet Your Life." 0
 64 "Card Shark" **** "You have won at least 10 games of Bet Your Life." 0
-65 **** **** **** ****
-66 **** **** **** ****
-67 **** **** **** ****
-68 **** **** **** ****
-69 **** **** **** ****
-70 **** **** **** ****
-71 **** **** **** ****
-72 **** **** **** ****
-73 **** **** **** ****
-74 **** **** **** ****
+65 Arrested **** "You have been arrested by a member of the Harmonium. DM grant only." 0
+66 Pickpocket **** "You have pickpocketed at least 10 clueless berks." 0
+67 "Scragged by a Hardhead" **** "You have been caught pickpocketing by a Harmonium at least once." 0
+68 "A Day in Court" **** "You have participated in or watched a court case in the City of Doors. DM grant only." 0
+69 "Drank a Love Potion" **** "You have taken a love potion - knowingly or not - at least once." 0
+70 Mazerunner **** "You have killed 1000 minotaurs in the Endless Maze." 0
+71 "Defeat Maze Boss" **** **** 0
+72 "Wielder of Greater Magics" **** "You have cast an epic spell at least once." 0
+73 "They were Reduced to a Fine Mist" **** "You have done at least 300 damage in a single hit." 0
+74 "The Iron War" **** "You have killed at least 1000 things in Clangor." 0
+75 "Resident of the Cage" **** "For some reason, you purchased property in the Planes. You're a real planar now. DM grant only." 0
+76 "A Cutter of Many Words" **** "You earned 1000 RP exp in a single day." 0
+77 "A Day at the Hall" **** "You have attended the Hall of Speakers at least once. DM grant only." 0
+78 "An Encounter with the Far Realm" **** "At some point in your adventures, you brushed up against something from the Far Realm. It has probably taken a toll on your sanity. DM grant only." 0
+79 "Practically a Golden Lord" **** "Your net worth is over 100 million jink." 0
+80 "Tournament Winner" **** "You won the yearly tournament hosted by the Transcendent Order. DM grant only." ****
+81 **** **** **** ****
+82 **** **** **** ****
+83 **** **** **** ****
+84 **** **** **** ****
