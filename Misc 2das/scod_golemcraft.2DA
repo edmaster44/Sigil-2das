@@ -15,7 +15,7 @@
 11 GOLEM_BRASS ps_gcd_brass 16783000 16 21 26 31 99 99 25 16 10 0 13 0 ps_area_s_lo_greatfoundry ps_area_ladysward_armory 12500 3400 ps_golem_brass ps_crft_grgkit cft_ess_power2 2801 99 99
 12 GOLEM_MITHRAL ps_gcd_mithral 16783001 22 25 28 31 99 99 25 22 20 0 0 8 ps_area_s_lo_greatfoundry ps_area_ladysward_armory 35000 7000 ps_golem_mithral ps_crft_egkit cft_ess_earth4 2801 99 99
 13 GOLEM_DEMONFLESH ps_gcd_demonflesh 16783002 22 25 28 31 99 99 26 10 22 10 0 8 ps_area_s_lo_greatfoundry ps_area_abyssbrokenreach 35000 4000 ps_crft_demonscale ps_crft_egkit n2_crft_dist010 2801 2 4
-14 GOLEM_WOODWRAITH ps_gcd_woodwraith 16783003 22 25 28 31 99 99 25 22 16 0 0 8 ps_area_beastlandsgrove ps_area_beastlands-forest 35000 4000 ps_crft_plk_ao ps_crft_egkit ps_crft_plk_tb 2801 99 5
+14 GOLEM_WOODWRAITH ps_gcd_woodwraith 16783003 22 25 28 31 99 99 25 22 16 0 0 8 ps_area_beastlandsgrove ps_area_beastlandbruxforest 35000 4000 ps_crft_plk_ao ps_crft_egkit ps_crft_plk_tb 2801 99 5
 15 GOLEM_BONE ps_gcd_bone 16783004 22 25 28 31 99 99 25 22 10 0 0 8 ps_area_s_hw_mortuary ps_area_s_hw_mortuary 30000 4000 ps_golem_bone ps_crft_grgkit cft_ess_earth4 3616 99 99
 16 GOLEM_CRYSTAL ps_gcd_crystal 16783005 21 24 27 31 99 99 25 21 10 0 0 0 ps_area_s_hw_mortuary ps_area_ladysward_armory 17500 1800 ps_golem_quartz cft_ess_power3 ps_crft_grgkit 20998 99 99
 17 GOLEM_BRAIN ps_gcd_brain 16783006 18 22 26 30 99 99 27 0 0 18 0 0 ps_area_undersigil-hive ps_area_undersigil-hive 11000 2000 ps_golem_brain cft_ess_power3 ps_crft_grgkit 2337 99 99

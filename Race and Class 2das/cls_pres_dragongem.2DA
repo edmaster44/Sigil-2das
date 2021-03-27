@@ -4,5 +4,6 @@
 0 AmethysDragon SUBRACE 237 ****
 1 EmeraldDragon SUBRACE 238 ****
 2 TopazDragon SUBRACE 239 ****
-3 PPPool FEAT 20998 ****
-4 Base_attack BAB 2 ****
+3 PPPool FEATOR 20998 ****
+4 PPYPOOL FEATOR 20996 ****
+5 Base_attack BAB 2 ****
