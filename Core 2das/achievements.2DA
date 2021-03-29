@@ -21,51 +21,51 @@
 17 Factor **** "You have reached the rank of Factor in your faction." 1
 18 "Voices in the Wind" **** "Few brave the tunnels of Pandemonium - you are one of those who went, and then perhaps stayed too long. You heard the voices in the wind." 1
 19 "The Deadliest Plants" **** "You dared to touch the forbidden fruit of Colothys. . . and emerged victorious! You killed Ebolakhan." 1
-20 "Porphatys Boss" **** **** 0
-21 "Niflehiem Boss" **** **** 0
+20 "Painbringer No More" **** "You dealt the killing blow to the entity known as Painbringer, on the lowest level of the Porphatys Prison." 1
+21 "Ascended Descending" **** "You dealt the killing blow to the Ascended - the spirit that rules over the castle outside of Death of Innocence." 1
 22 "Fit to Print" **** "SIGIS is the disreputable newsrag of the Cage, and you have contributed at least one article." 1
-23 "Practically a Tout" **** "You have traversed all the wards of the City of Doors. You are practically a tout! Maybe you can charge for this. . ." 0
-24 "Helped a Berk" **** "The city is full of clueless berks. . and you have helped at least one find his or her place in the city." 0
-25 "Peeled a Berk" **** "The city is full of clueless berks. . . and you have cheated or pealed at least one. A true Cager, you are." 0
+23 "Practically a Tout" **** "You have traversed all the wards of the City of Doors. You are practically a tout! Maybe you can charge for this. . ." 1
+24 "Helped a Berk" **** "The city is full of clueless berks. . and you have helped at least one find his or her place in the city." 1
+25 "Peeled a Berk" **** "The city is full of clueless berks. . . and you have cheated or pealed at least one. A true Cager, you are. Cancels Helped a Berk." 1
 26 "The Back Room" **** "You gained entry to the back room of the Bottle and Jug, and watched one of their infamous gladiatorial shows." 1
-27 Soul-broker **** "You work for the fiends, making contracts with poor sods for their souls. Hey, it makes you rich." 0
-28 "Bet your Life!" **** "The card game of the Cage! You have played Bet your Life at least once." 0
-29 "Reach Max Level" **** **** 0
+27 Soul-broker **** "You work for the fiends, making contracts with poor sods for their souls. Hey, it makes you rich." 1
+28 "Bet your Life!" **** "The card game of the Cage! You have played Bet your Life at least once." 1
+29 "Reach Max Level" **** "You have reached the pinnacle of your power. . ." 1
 30 "Traverse all Elemental Planes" **** **** 0
 31 "Traverse all Outer Planes" **** **** 0
 32 "Go to all Faction Headquarters" **** **** 0
-33 "Anti-Magic Zone" **** "You got all the way through the anti-magic tower." 0
-34 "Gambled an Item" **** **** 0
-35 "Hard hitter" **** "Did over 100 damage in a single strike" 0
-36 "Sailed the Astral" **** "Took a trip on the Astral ship" 0
-37 "Stayed at the Bird of Paradise" **** "Bought key to expensive room in the bird of paradise" 0
-38 "Stayed at Chirpers" **** "Bought key to Chirpers Apartment" 0
-39 "Fortune Told" **** "Your fortune has been told by one of the planes many soothsayers (Fire weird, Spirit hunter, black Marian)" 0
-40 "A Real Journalist" **** "You have written 50 articles for SIGIS." 0
-41 "A Contributer" **** "You have written 10 articles for SIGIS." 0
-42 "Against the Gods" **** "You have done all 3 Athar quests." 0
-43 Hard-hearted **** "You have kicked the beggar 50 times. Cancels Charity Drive." 0
-44 "Lemon and Lime" **** "Messing with Time. You completed the Niflehiem time quest." 0
-45 "Sands of the Arena" **** "Fought in the Gymnasium" 0
-46 "All the Spells" **** "You collected enough spells that the spell-script had to fire. Good job." 0
-47 Gladiator **** "Fought 50 times in the Gymnasium." 0
+33 "Anti-Magic Zone" **** "In the Slags, there is a mysterious tower - one that dampens any magical effect within its walls. You made your way through this tower, and emerged from the other side." 1
+34 "Gambled an Item" **** "You tried your luck with gambling items. . . did it pay off? Maybe you need to do it a few more times." 1
+35 "Hard hitter" **** "Did over 100 damage in a single strike" 1
+36 "Sailed the Astral" **** "Took a trip on the Astral ship" 1
+37 "Stayed at the Bird of Paradise" **** "You decided to treat yourself, and rented one of the fine rooms in the Bird of Paradise." 1
+38 "Rented a Chirpers Appartment" **** "Maybe you needed an appartment in the city. Maybe you just wanted a room for the night. Either way, you can say that you've stayed at Chirpers - the best inn in the Market Ward." 1
+39 "Fortune Told" **** "Your fortune has been told by one of the planes many soothsayers (Fire Weird or Black Marian)" 1
+40 "A Real Journalist" **** "You have written 50 articles for SIGIS." 1
+41 "A Contributer" **** "You have written 10 articles for SIGIS." 1
+42 "Against the Gods" **** "You have done all 3 Athar quests." 1
+43 Hard-hearted **** "You have kicked the beggar 50 times. Cancels Charity Drive." 1
+44 "Lemon and Lime" **** "Messing with Time. You completed the Niflehiem time quest." 1
+45 "Sands of the Arena" **** "You fought a duel in the Gymnasium arena. Did you win?" 1
+46 "All the Spells" **** "You have collected, scribed, or otherwise learned over 250 spells. Your spellbook is full. Good job!" 1
+47 Gladiator **** "You have fought 10 or more duels in the Gymnasium arena." 1
 48 "The Shifting Islands of Limbo" **** "You made it all the way to the Githzerai Monastery in Limbo." 0
 49 Miner **** "You mined 50 gems." 0
 50 Gem-cutter **** "You successfully cut 50 gems." 0
 51 Enchanter **** "You have enchanted at least 10 items." 0
 52 Crafter **** "You have crafted at least 10 items of worth (with special metals)." 0
 53 "So many Lives. . ." **** "You have rebuilt this character least 10 times." 0
-54 "Viewed an Execution" **** "You have viewed the execution scene." 0
-55 "Sensate Lectures" **** "You have attended at least one lecture at the Festhall." 0
-56 "Sensate Lectures - 2" **** "You have attended all the lectures at the Festhall." 0
+54 "Viewed an Execution" **** "Cagers are nothing if not morbid. One of the many sources of entertainment in the city is watching criminals get their comeuppance. . on the execution block. You took part in this Cage tradition at least once." 1
+55 "Sensate Lectures" **** "The Civic Festhall is the art and culture center of the City of Doors, and offers performances, educational lectures, and experiences through their collection of sensory stones. You have attended at least one lecture at the Festhall." 1
+56 "The Experience of Learning" **** "You have attended all the lectures on offer at the Civic Festhall." 1
 57 "Mercykiller Pardon" **** "You have come into possession of one (1) Mercykiller pardon. Is it real?" 0
 58 "Pre-paid Taxes" **** "You have pre-paid your taxes at least once, and have the receipt to prove it!" 0
 59 "Carnival Season" **** "You have experienced the Cage Carnivals at least once." 0
 60 "Xanta Claws" **** "You have been given at least one present by Xanta." 0
 61 "Animal Cruelty" **** "You have killed 1000 animals in the Beastlands." 0
 62 Trapper **** "You have trapped at least 10 animals." 0
-63 "Bet Your Life - Victor" **** "You have won at least one game of Bet Your Life." 0
-64 "Card Shark" **** "You have won at least 10 games of Bet Your Life." 0
+63 "Bet Your Life - Victor" **** "You have won at least one game of Bet Your Life." 1
+64 "Card Shark" **** "You have won at least 10 games of Bet Your Life." 1
 65 Arrested **** "You have been arrested by a member of the Harmonium. DM grant only." 0
 66 Pickpocket **** "You have pickpocketed at least 10 clueless berks." 0
 67 "Scragged by a Hardhead" **** "You have been caught pickpocketing by a Harmonium at least once." 0
@@ -74,15 +74,15 @@
 70 Mazerunner **** "You have killed 1000 minotaurs in the Endless Maze." 0
 71 "Defeat Maze Boss" **** **** 0
 72 "Wielder of Greater Magics" **** "You have cast an epic spell at least once." 0
-73 "They were Reduced to a Fine Mist" **** "You have done at least 300 damage in a single hit." 0
+73 "They were Reduced to a Fine Mist" **** "You have done at least 300 damage in a single hit." 1
 74 "The Iron War" **** "You have killed at least 1000 things in Clangor." 0
 75 "Resident of the Cage" **** "For some reason, you purchased property in the Planes. You're a real planar now. DM grant only." 0
 76 "A Cutter of Many Words" **** "You earned 1000 RP exp in a single day." 0
 77 "A Day at the Hall" **** "You have attended the Hall of Speakers at least once. DM grant only." 0
 78 "An Encounter with the Far Realm" **** "At some point in your adventures, you brushed up against something from the Far Realm. It has probably taken a toll on your sanity. DM grant only." 0
 79 "Practically a Golden Lord" **** "Your net worth is over 100 million jink." 0
-80 "Tournament Winner" **** "You won the yearly tournament hosted by the Transcendent Order. DM grant only." ****
-81 **** **** **** ****
-82 **** **** **** ****
-83 **** **** **** ****
+80 "Tournament Winner" **** "You won the yearly tournament hosted by the Transcendent Order. DM grant only." 0
+81 "A Matter of Luck" **** "You have gambled for 10 items. . is it still worth it?" 1
+82 "You Might Be an Addict. . ." **** "You have gambled for 50 items. Hopefully you have found something worth your money at this point. If not. . . you might have a problem." 1
+83 "Are You Not Entertained?!" **** "You have fought 50 or more duels in the Gymnasium arena." 1
 84 **** **** **** ****
