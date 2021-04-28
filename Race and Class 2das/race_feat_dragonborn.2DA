@@ -1,10 +1,8 @@
 2DA V2.0
 
-  FeatLabel              FeatIndex 
-0 darkvision             228       
-1 natac2                 2263      
-2 immsleep               235       
-3 immpara                1753      
-4 breath                 2353      
-5 FEAT_DRACONIC_HERITAGE 2495      
-6 FEAT_DRACONIC_BLOODLINE 2535      
+ FeatLabel FeatIndex
+0 darkvision 228
+1 natac2 2263
+2 immsleep 235
+3 immpara 1753
+4 FEAT_DRACONIC_BLOODLINE 2535
