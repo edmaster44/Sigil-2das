@@ -1,19 +1,19 @@
-2DA V2.0				
-					
-   FeatLabel                               FeatIndex List GrantedOnLevel OnMenu 
-0  FEAT_BATTLE_CASTER			   1766	     3	  1		 1
-1  FEAT_HELLFIRE_WARLOCK_INVOKING	   2164      3	  1		 0
-2  HEXER_1				   2908	     3	  2	 	 1		
-3  HEXER_2				   2900	     3	  5   		 1		
-4  HEXER_3				   2901	     3	  8		 1	
-5  FELLBLADE_CURSE_6			   2907	     3	  10		 1
-6  FELLBLADE_CURSE_1			   2902	     2	  -1		 0
-7  FELLBLADE_CURSE_2			   2903      2	  -1		 0
-8  FELLBLADE_CURSE_3			   2904	     2	  -1		 0
-9  FELLBLADE_CURSE_4			   2905	     2	  -1		 0
-10 FELLBLADE_CURSE_5			   2906	     2	  -1		 0
-11 WeapProfSim				   46	     3	  1		 0
-12 WeapProfMar				   45	     3	  1		 0
-13 ArmProfLgt				   3	     3	  1		 0
-14 ArmProfMed				   4	     3	  1		 0
-15 ELDRITCH_ADEPT	                   3621      3    10             1 
+2DA V2.0
+
+ FeatLabel FeatIndex List GrantedOnLevel OnMenu
+0 FEAT_BATTLE_CASTER 1766 3 1 1
+1 FEAT_HELLFIRE_WARLOCK_INVOKING 2164 3 1 0
+2 FELLBLADE_BIND_WEAPON_1 2930 3 2 1
+3 FELLBLADE_BIND_WEAPON_2 2931 3 5 1
+4 FELLBLADE_BIND_WEAPON_3 2932 3 8 1
+5 FEAT_SHIELD_PROFICIENCY 32 3 1 1
+6 FELLBLADE_LIFE_DRINKER 2906 3 3 1
+7 FELLBLADE_ARMOR_OF_SHADOWS 2933 3 6 1
+8 FELLBLADE_THIRSTING_BLADE 2934 3 10 1
+9 **** **** **** **** 0
+10 **** **** **** **** 0
+11 WeapProfSim 46 3 1 0
+12 WeapProfMar 45 3 1 0
+13 ArmProfLgt 3 3 1 0
+14 ArmProfMed 4 3 1 0
+15 ELDRITCH_ADEPT 3621 3 10 1
