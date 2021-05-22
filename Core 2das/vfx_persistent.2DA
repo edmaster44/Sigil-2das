@@ -80,7 +80,7 @@
 76 VFX_PER_OBSCURINGMIST C 6 **** **** nx_s2_obscuringmista nx_s2_obscuringmistb **** **** 1 984 **** **** **** **** 1
 77 VFX_PER_KINETICSTORM C 5 **** **** psi_kin_kineticstorma **** psi_kin_kineticstormc 0 0 1051 **** **** **** **** 1
 78 VFX_PSI_WORMHOLE C 3 **** **** psi_psyport_wormholea **** **** **** **** **** **** **** **** **** ****
-79 VFX_CROWN_OF_FLAME C 3.3 **** **** scod_crownofflamec **** **** **** 0 **** **** **** **** scod_halofire.sef 1
+79 VFX_CROWN_OF_FLAME C 3.3 **** **** **** **** scod_crownofflamec **** 0 **** **** **** **** scod_halofire.sef 1
 80 VFX_SCINTILLATING_PATTERN C 6 **** **** **** **** scod_scintpatternc **** 0 **** **** **** **** **** 1
 81 padding **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 82 padding **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
