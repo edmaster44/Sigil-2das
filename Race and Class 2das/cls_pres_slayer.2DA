@@ -1,8 +1,8 @@
 2DA V2.0
 
-  LABEL        ReqType ReqParam1      ReqParam2 
-0 MoveSilently SKILL   8              8         
-1 Hide         SKILL   5              8         
-2 Evasion      FEAT    206            ****      
-2 SacredVow    FEAT    2627           ****      
-3 ScriptVar    VAR     X1_AllowSlayer 0         
+ LABEL ReqType ReqParam1 ReqParam2
+0 MoveSilently SKILL 8 8
+1 Hide SKILL 5 8
+2 Evasion FEAT 206 ****
+3 SacredVow FEAT 2627 ****
+4 ScriptVar VAR X1_AllowSlayer 0
