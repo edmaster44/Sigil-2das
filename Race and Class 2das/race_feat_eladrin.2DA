@@ -1,11 +1,11 @@
 2DA V2.0
 
-  FeatLabel        FeatIndex 
-0 darkvision       228       
-1 arboreal_immune  2693      
-2 enres10_fire     2327      
-3 enres10_cold     2328      
-4 natural_armor_+1 2112      
-5 spell_resistance 1075      
-6 alternate_form   2256      
-7 eladrin_epithet  2492      
+ FeatLabel FeatIndex
+0 darkvision 228
+1 arboreal_immune 2693
+2 enres10_fire 2327
+3 enres10_cold 2328
+4 natural_armor_+1 2112
+5 spell_resistance 1075
+6 alternate_form 2256
+7 eladrin_epithet 2492

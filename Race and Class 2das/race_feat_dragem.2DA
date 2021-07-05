@@ -1,14 +1,13 @@
 2DA V2.0
 
-   FeatLabel                    FeatIndex 
-0  FEAT_DRAGON_BREATH_EMERALD   3661      
-2  FEAT_DRACONIC_SCALES         3623      
-3  FEAT_DRACONIC_IMMUNITY_SONIC 3658      
-4  FEAT_EPITHET_DRAGON_SIZE     3625      
-5  darkvision                   228       
-6  creatureprof                 289       
-7  FEAT_WINGS                   2120      
-8  FEAT_MARQCAMB_ALTERNATE_FORM 2828      
-9  spell_resistance             1075      
-9  DRAGON_PSI_FOCUS             3663      
-10 PSI_HER                      2862      
+ FeatLabel FeatIndex
+0 FEAT_DRAGON_BREATH_EMERALD 3661
+1 FEAT_DRACONIC_IMMUNITY_SONIC 3658
+2 FEAT_EPITHET_DRAGON_SIZE 3625
+3 darkvision 228
+4 creatureprof 289
+5 FEAT_WINGS 2120
+6 FEAT_MARQCAMB_ALTERNATE_FORM 2828
+7 spell_resistance 1075
+8 DRAGON_PSI_FOCUS 3663
+9 PSI_HER 2862

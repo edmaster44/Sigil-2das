@@ -1,11 +1,8 @@
 2DA V2.0
 
-     FeatLabel                   FeatIndex 
-0    darkvision                  228       
-1    FEAT_MONKEY_GRIP            1105      
-2    WeapProfSim                 46        
-3    FEAT_HAGSPAWN_NATURAL_ARMOR 2090      
-4    FEAT_RACIAL_NATURAL_ARMOR_1 2112      
-5    ArmProfLgt                  3         
-6    ArmProfMed                  4         
-7    Shield                      32        
+ FeatLabel FeatIndex
+0 darkvision 228
+1 WeapProfSim 46
+2 FEAT_RACIAL_NATURAL_ARMOR_1 2112
+3 ArmProfLgt 3
+4 Shield 32

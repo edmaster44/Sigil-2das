@@ -1,9 +1,9 @@
 2DA V2.0
 
-  FeatLabel                   FeatIndex 
-0 darkvision                  228       
-1 FEAT_GSA_MOVE_SILENTLY      1748      
-2 FEAT_HAGSPAWN_NATURAL_ARMOR 2090      
-4 ArmProfLgt                  3         
-5 WeapProfSim                 46        
-6 Shield                      32        
+ FeatLabel FeatIndex
+0 darkvision 228
+1 FEAT_GSA_MOVE_SILENTLY 1748
+2 FEAT_HAGSPAWN_NATURAL_ARMOR 2112
+3 ArmProfLgt 3
+4 WeapProfSim 46
+5 Shield 32

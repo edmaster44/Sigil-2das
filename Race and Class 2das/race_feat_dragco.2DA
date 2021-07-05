@@ -1,15 +1,14 @@
 2DA V2.0
 
-   FeatLabel                     FeatIndex 
-0  FEAT_DRAGON_BREATH_COPPER     3651      
-1  FEAT_DRAGON_BREATH_COPPER_GAS 3652      
-2  FEAT_DRACONIC_SCALES          3623      
-3  FEAT_DRACONIC_IMMUNITY_COPPER 3653      
-4  FEAT_EPITHET_DRAGON_SIZE      3625      
-5  darkvision                    228       
-6  creatureprof                  289       
-7  FEAT_WINGS                    2120      
-8  FEAT_MARQCAMB_ALTERNATE_FORM  2828      
-9  FEAT_DRAGON_STONE_MUD         3654      
-10 spell_resistance              1075      
-11 Arcane_Blood                  3641      
+ FeatLabel FeatIndex
+0 FEAT_DRAGON_BREATH_COPPER 3651
+1 FEAT_DRAGON_BREATH_COPPER_GAS 3652
+2 FEAT_DRACONIC_IMMUNITY_COPPER 3653
+3 FEAT_EPITHET_DRAGON_SIZE 3625
+4 darkvision 228
+5 creatureprof 289
+6 FEAT_WINGS 2120
+7 FEAT_MARQCAMB_ALTERNATE_FORM 2828
+8 FEAT_DRAGON_STONE_MUD 3654
+9 spell_resistance 1075
+10 Arcane_Blood 3641

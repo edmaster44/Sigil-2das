@@ -1,9 +1,9 @@
 2DA V2.0
 
-  FeatLabel           FeatIndex 
-0 darkvision          228       
-1 NaturalArmor        2112      
-2 spores              2341      
-3 impunastroke        21        
-4 nomanualdex         2340      
-5 CreatureProficiency 289       
+ FeatLabel FeatIndex
+0 darkvision 228
+1 NaturalArmor 2112
+2 spores 2341
+3 impunastroke 21
+4 nomanualdex 2340
+5 CreatureProficiency 289

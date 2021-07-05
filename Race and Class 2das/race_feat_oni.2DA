@@ -1,8 +1,7 @@
 2DA V2.0
 
-  FeatLabel          FeatIndex 
-0 darkvision         228       
-1 natural_armor_2    2090      
-2 long_gait          2248      
-3 regeneration       2772      
-5 oni_epithet        2771      
+ FeatLabel FeatIndex
+0 darkvision 228
+1 natural_armor_1 2112
+2 long_gait 2248
+3 oni_epithet 2771

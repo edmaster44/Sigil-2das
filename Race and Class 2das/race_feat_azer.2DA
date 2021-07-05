@@ -1,10 +1,10 @@
 2DA V2.0
 
-      FeatLabel           FeatIndex   
-0     Darkvision          228         
-1     +2NaturalArmor      2090        
-2     SpellResistance     1075        
-3     FireImmunity        2260        
-4     ColdVulnerability   2257        
-5     Heat                2259        
-6     ProficiencyDwarf    1770        
+ FeatLabel FeatIndex
+0 Darkvision 228
+1 +1NaturalArmor 2112
+2 SpellResistance 1075
+3 FireImmunity 2260
+4 ColdVulnerability 2257
+5 Heat 2259
+6 ProficiencyDwarf 1770

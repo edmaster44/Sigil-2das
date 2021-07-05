@@ -1,14 +1,13 @@
 2DA V2.0
 
-   FeatLabel                    FeatIndex 
-0  FEAT_DRAGON_BREATH_COLD      3664      
-1  FEAT_DRACONIC_SCALES         3623      
-2  FEAT_DRACONIC_IMMUNITY_COLD  3663      
-3  FEAT_EPITHET_DRAGON_SIZE     3625      
-4  darkvision                   228       
-5  creatureprof                 289       
-6  FEAT_WINGS                   2120      
-7  FEAT_MARQCAMB_ALTERNATE_FORM 2828      
-8  spell_resistance             1075      
-9  FREEZING_FOG                 3665      
-10 Arcane_Blood                 3641      
+ FeatLabel FeatIndex
+0 FEAT_DRAGON_BREATH_COLD 3664
+1 FEAT_DRACONIC_IMMUNITY_COLD 3663
+2 FEAT_EPITHET_DRAGON_SIZE 3625
+3 darkvision 228
+4 creatureprof 289
+5 FEAT_WINGS 2120
+6 FEAT_MARQCAMB_ALTERNATE_FORM 2828
+7 spell_resistance 1075
+8 FREEZING_FOG 3665
+9 Arcane_Blood 3641

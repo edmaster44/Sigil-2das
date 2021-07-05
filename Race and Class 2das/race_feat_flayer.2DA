@@ -1,10 +1,10 @@
-2DA	V2.0	
-		
-	FeatLabel	FeatIndex
-0	darkvision	228
-1	RACEAC3	2264
-2	psiblast	2336
-3	psibarrier	2356
-4	exbrain	2337
-5	spellres	1075
-6	creatureprof	289
+2DA V2.0
+
+ FeatLabel FeatIndex
+0 darkvision 228
+1 RACEAC1 2112
+2 psiblast 2336
+3 psibarrier 2356
+4 exbrain 2337
+5 spellres 1075
+6 creatureprof 289

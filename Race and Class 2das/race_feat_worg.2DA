@@ -1,18 +1,18 @@
 2DA V2.0
 
-     FeatLabel                   FeatIndex 
-0    Darkvision                  228       
-1    Scent                       2178      
-2    Tracking                    1116      
-3    NaturalArmor                2112      
-4    MS_Affinity                 247       
-5    Spot_Affinity               239       
-6    List_Affinity               237       
-7    Th_hide                     1087      
-9    CreWeapProf                 289       
-10   Multiattack                 1784      
-11   ImpUnarmedStrike            21        
-12   NoManualDex                 2340      
-13   FEAT_TEARING_BITE           5015      
-13   WORGTYPE                    5003      
-14   Knockdown                   23        
+ FeatLabel FeatIndex
+0 Darkvision 228
+1 Scent 2178
+2 Tracking 1116
+3 NaturalArmor 2112
+4 MS_Affinity 247
+5 Spot_Affinity 239
+6 List_Affinity 237
+7 Th_hide 1087
+8 CreWeapProf 289
+9 Multiattack 1784
+10 ImpUnarmedStrike 21
+11 NoManualDex 2340
+12 FEAT_TEARING_BITE 5015
+13 WORGTYPE 5003
+14 Knockdown 23

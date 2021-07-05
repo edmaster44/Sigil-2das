@@ -1,10 +1,11 @@
 2DA V2.0
 
-  FeatLabel          FeatIndex 
-0 darkvision         228       
-1 natural_armor_2    2090      
-2 track              1116      
-3 scent              2178      
-3 regeneration       2772      
-4 weap_prof_creature 289       
-5 troll_epithet      2770      
+ FeatLabel FeatIndex
+0 darkvision 228
+1 natural_armor_1 2112
+2 track 1116
+3 scent 2178
+4 regeneration 2772
+5 weap_prof_creature 289
+6 troll_epithet 2770
+7 WeapProfSim 46

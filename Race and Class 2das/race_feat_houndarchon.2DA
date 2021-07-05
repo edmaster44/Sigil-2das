@@ -1,16 +1,16 @@
 2DA V2.0
 
-   FeatLabel    FeatIndex 
-0  darkvision   228       
-1  IMMELEC      2283      
-2  IMMPARA      1753      
-3  NATAC9       2270      
-4  AURACOUR     300       
-5  DR10AS       2297      
-6  SPELLRES     1075      
-7  martial      45        
-8  wfgs         107       
-9  wsgs         145       
-10 hardvspoison 229       
-11 scent        2178      
-12 track        1116      
+ FeatLabel FeatIndex
+0 darkvision 228
+1 IMMELEC 2283
+2 IMMPARA 1753
+3 NATAC9 2270
+4 AURACOUR 300
+5 DR10AS 2297
+6 SPELLRES 1075
+7 martial 45
+8 wfgs 107
+9 wsgs 145
+10 hardvspoison 229
+11 scent 2178
+12 track 1116

@@ -1,11 +1,10 @@
 2DA V2.0
 
-  FeatLabel           FeatIndex 
-0 lowlight            354       
-1 natural_armor_2     2090      
-2 aaa_giant_immune    2659      
-3 simple_weapon_prof  46        
-4 martial_weapon_prof 45        
-5 light_armor_prof    3         
-6 shield_prof         32        
-7 frost_giant_epithet 2681      
+ FeatLabel FeatIndex
+0 lowlight 354
+1 natural_armor_1 2112
+2 aaa_giant_immune 2659
+3 simple_weapon_prof 46
+4 light_armor_prof 3
+5 shield_prof 32
+6 frost_giant_epithet 2681

@@ -1,16 +1,16 @@
 2DA V2.0
 
-     FeatLabel          FeatIndex 
-0    darkvision         228       
-1    drci10             2290      
-2    immelec            2283      
-3    immposon           1751      
-4    resacid            2329      
-5    rescold            2328      
-6    resfire            2327      
-7    spellres           1075      
-8    skillaffinitybluff 1097      
-9    succykiss          2355      
-10   natac9             2270      
-11   changeself         2377      
-12   wings              2120      
+ FeatLabel FeatIndex
+0 darkvision 228
+1 drci10 2290
+2 immelec 2283
+3 immposon 1751
+4 resacid 2329
+5 rescold 2328
+6 resfire 2327
+7 spellres 1075
+8 skillaffinitybluff 1097
+9 succykiss 2355
+10 natac9 2270
+11 changeself 2377
+12 wings 2120

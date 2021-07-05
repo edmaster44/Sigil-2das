@@ -1,10 +1,10 @@
 2DA V2.0
 
-     FeatLabel        FeatIndex 
-0    darkvision       228       
-1    baatezu_immune   2779      
-2    dr_acid_10       2329      
-3    dr_cold_10       2328      
-4    spell_resistance 1075      
-5    blindsight       2778      
-6    Baatezu_epithet  2780      
+ FeatLabel FeatIndex
+0 darkvision 228
+1 baatezu_immune 2779
+2 dr_acid_10 2329
+3 dr_cold_10 2328
+4 spell_resistance 1075
+5 blindsight 2778
+6 Baatezu_epithet 2780

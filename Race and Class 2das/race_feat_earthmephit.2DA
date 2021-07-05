@@ -1,9 +1,9 @@
 2DA V2.0
 
-     FeatLabel   FeatIndex 
-0    darkvision  228       
-1    RACEAC6     2267      
-6    Regen+1     2322      
-6    EarthBreath 2898      
-7    DR5+1       2899      
-5    Enlarge     2374      
+ FeatLabel FeatIndex
+0 darkvision 228
+1 RACEAC6 2267
+2 Regen+1 2322
+3 EarthBreath 2898
+4 DR5+1 2899
+5 Enlarge 2374
