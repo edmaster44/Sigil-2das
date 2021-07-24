@@ -3,3 +3,4 @@
  LABEL ReqType ReqParam1 ReqParam2
 0 Race_Dragon RACE 11 ****
 1 BASE_ATTACK BAB 2 ****
+2 FEAT_DRACONIC_SCALES FEAT 3623 ****
