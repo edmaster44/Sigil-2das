@@ -4954,6 +4954,7 @@
 4950 Op_floor Op_floor ITK XXXX 4
 4951 Dr Dr ITK DDXX 6
 4952 2w 2w ITK WWWX 12
+4952 2w_1cr 2w_1cr ITK WWWC 9
 4953 End_hall End_hall ITK SPU6 6
 4954 Stairs_up Stairs_up ITK STU2 3
 4955 Stairs_up_hall_end Stairs_up_hall_end ITK STU2 3
@@ -4982,7 +4983,7 @@
 4978 1dr_hall_end 1dr_hall_end ITK SPU8 3
 4979 1dr_hall_end 1dr_hall_end ITK SPU7 3
 4980 2dr_hall_end 2dr_hall_end ITK SPU5 3
-4981 2w_1cr 2w_1cr ITK WWWC 9
+4981 **** **** **** **** ****
 4982 **** **** **** **** ****
 4983 **** **** **** **** ****
 4984 **** **** **** **** ****
@@ -5392,4 +5393,4 @@
 5388 Stair_Up_Wall **** CL STU3 1
 5389 Stair_Down_Room **** CL STD1 1
 5390 Stair_Down_Hall_End **** CL STD2 1
-5391 Stair_Down_Wall **** CL STD3 1
+5392 Stair_Down_Wall **** CL STD3 1
