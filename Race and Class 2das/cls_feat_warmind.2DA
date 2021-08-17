@@ -2,13 +2,13 @@
 
  FeatLabel FeatIndex List GrantedOnLevel OnMenu
 0 WeapSpeClub 47 1 -1 0
-1 DR_1 196 3 3 0
-2 DR_2 332 3 6 0
-3 DR_3 333 3 9 0
+1 DR_1 196 3 1 0
+2 DR_2 332 3 3 0
+3 DR_3 333 3 5 0
 4 ChainOfPersonalSuperioty 21473 3 1 0
 5 ChainOfDefensivePosture 21474 3 2 0
-6 SweepingStrike 21475 3 5 0
-7 ChainOfOverwhelmingForce 21476 3 10 0
+6 SweepingStrike 21475 3 4 0
+7 ChainOfOverwhelmingForce 21476 3 5 0
 8 PSI_PP_EXP_I 21417 0 -1 ****
 9 PSI_PP_EXP_II 21418 0 -1 ****
 10 POWER_POINT_POOL_PSYWAR 20996 3 1 1
