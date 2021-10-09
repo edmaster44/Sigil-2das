@@ -82,8 +82,8 @@
 78 VFX_PSI_WORMHOLE C 3 **** **** psi_psyport_wormholea **** **** **** **** **** **** **** **** **** ****
 79 VFX_CROWN_OF_FLAME C 3.3 **** **** **** **** scod_crownofflamec **** 0 **** **** **** **** scod_halofire.sef 1
 80 VFX_SCINTILLATING_PATTERN C 6 **** **** **** **** scod_scintpatternc **** 0 **** **** **** **** **** 1
-81 SCOD_VFX_PER_SPIKETRAP C 2.5 **** **** **** **** **** 0 1 **** **** **** **** **** ****
-82 padding **** **** **** **** **** **** **** **** **** **** sfx_hitarea_conjuration **** sfx_hit_conjuration scod_trap_spike.sef 3
+81 SCOD_VFX_PER_TRAPVIS C 2.5 **** **** **** **** **** 0 1 **** sfx_hitarea_conjuration **** sfx_hit_conjuration scod_trap_spike.sef 3
+82 SCOD_VFX_PER_TRAPINVIS C 2.5 **** **** **** **** **** 0 1 **** **** **** **** **** 3
 83 VFX_MOB_DRAGON_FEAR_PC C 15 **** **** ps_dragfeara **** **** 0 0 291 **** **** **** **** 1
 84 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 85 VFX_MOB_ARCHON_MENACE C 7 **** **** scod_archon_menace **** **** 0 0 271 **** **** **** **** 1
