@@ -1,9 +1,10 @@
-2DA	V2.0	
-		
-	FeatLabel	FeatIndex
-0	constructp	2345
-1	natac20	2281
-2	creweapprof	289
-3	nomanual	2340
-4	dr15bludg	2294
-5	impunastrike	21
+2DA V2.0
+
+ FeatLabel FeatIndex
+0 constructp 2345
+1 natac20 2281
+2 creweapprof 289
+3 nomanual 2340
+4 dr15bludg 2294
+5 impunastrike 21
+6 Multiattack 1784
