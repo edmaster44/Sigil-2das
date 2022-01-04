@@ -1,77 +1,77 @@
 2DA V2.0
 
-   Label                ScriptingName BMPResRef               TileSet StrRef 
-0  Random               ****          ****                    ****    63402  
-1  UserDefined          ****          ****                    ****    ****   
-2  Aasimar_Paladin      ****          scod_aasimar_paladin    ****    ****   
-3  Arcanaloths          ****          scod_arcanaloths        ****    ****   
-4  Armanites            ****          scod_armanites          ****    ****   
-5  Astral_Deva          ****          scod_astral_deva        ****    ****   
-6  Asura_Elysium        ****          scod_asura_elysium      ****    ****   
-7  Avariel_Elf          ****          scod_avariel_elf        ****    ****   
-8  Baatezu              ****          scod_baatezu            ****    ****   
-9  Bad_Summon           ****          scod_badsummon          ****    ****   
-10 Bazaar               ****          scod_bazaar             ****    ****   
-11 Bazaar_Hag           ****          scod_bazaar_hag         ****    ****   
-12 Beastlands_Cat_Lord  ****          scod_beastlands_catlord ****    ****   
-13 Blackguard           ****          scod_blackguard         ****    ****   
-14 Brux_Hunt            ****          scod_brux_hunt          ****    ****   
-15 Carceri              ****          scod_carceri            ****    ****   
-16 Ceremorphosis        ****          scod_ceremorphosis      ****    ****   
-17 Cityscape            ****          scod_cityscape          ****    ****   
-18 Clangor_Hobgoblins   ****          scod_clangor_hobgoblins ****    ****   
-19 Clerics              ****          scod_clerics            ****    ****   
-20 Clueless             ****          scod_clueless           ****    ****   
-21 Conjurer_Lab         ****          scod_conjurer_lab       ****    ****   
-22 Cranium_Rats         ****          scod_cranium_rats       ****    ****   
-23 Dabus                ****          scod_dabus              ****    ****   
-24 Dao_Mines            ****          scod_dao_mines          ****    ****   
-25 Doomguard            ****          scod_doomguard          ****    ****   
-26 Drow_Elf             ****          scod_drowelf            ****    ****   
-27 Dwarves_Ysgard       ****          scod_dwarves_ysgard     ****    ****   
-28 Erinyes              ****          scod_erinyes            ****    ****   
-29 Fiend_Fight          ****          scod_fiend_vs_marilith  ****    ****   
-30 Gith_Monk            ****          scod_gith_monk          ****    ****   
-31 Gnolls               ****          scod_gnolls             ****    ****   
-32 Goblins              ****          scod_goblins            ****    ****   
-33 Good_vs_Evil         ****          scod_good_vs_evil       ****    ****   
-34 Grazzt_Iggwilv       ****          scod_grazzt_iggwilv     ****    ****   
-35 Hamatula             ****          scod_hamatula           ****    ****   
-36 Harmonium            ****          scod_harmonium          ****    ****   
-37 Hive_Ward            ****          scod_hive_ward          ****    ****   
-38 Ice_Plane            ****          scod_iceplane           ****    ****   
-39 Lady_of_Pain         ****          scod_lady_of_pain       ****    ****   
-40 Ladys_Ward           ****          scod_ladys_ward         ****    ****   
-41 Lillend              ****          scod_lillend            ****    ****   
-42 Malcanthet           ****          scod_malcanthet         ****    ****   
-43 Marilith             ****          scod_marilith           ****    ****   
-44 Mercykiller_Justicar ****          scod_mercykiller_just   ****    ****   
-45 Mercykillers         ****          scod_mercykillers       ****    ****   
-46 Mimir                ****          scod_mimir              ****    ****   
-47 Modron_March         ****          scod_modron_march       ****    ****   
-48 Mortuary             ****          scod_mortuary           ****    ****   
-49 Niflheim             ****          scod_niflheim           ****    ****   
-50 Otyugh               ****          scod_otyugh             ****    ****   
-51 Outlands_Khaasta     ****          scod_outlands_khaasta   ****    ****   
-52 Planewalkers         ****          scod_planewalkers       ****    ****   
-53 Portal_Map           ****          scod_portal_map         ****    ****   
-54 Razorvine            ****          scod_razorvine          ****    ****   
-55 Red_Shroud           ****          scod_red_shroud         ****    ****   
-56 Sensate              ****          scod_sensate            ****    ****   
-57 Slaad                ****          scod_slaad              ****    ****   
-58 Succubus             ****          scod_succubus           ****    ****   
-59 Tanar'ri             ****          scod_tanarri            ****    ****   
-60 The_Arch             ****          scod_the_arch           ****    ****   
-61 The_Cage             ****          scod_the_cage           ****    ****   
-62 Yeenoghu             ****          scod_yeenoghu           ****    ****   
-63 Tiefling_Rogue       ****          scod_tiefling_rogue     ****    ****   
-64 Genasi               ****          scod_genasi             ****    ****   
-65 Asura                ****          scod_asura              ****    ****   
-66 Cervidal             ****          scod_cervidal           ****    ****   
-67 Dabus2               ****          scod_dabus02            ****    ****   
-68 Dryads               ****          scod_dryads             ****    ****   
-69 Elysium              ****          scod_elysium            ****    ****   
-70 Mount_Celestia       ****          scod_mountcelestia      ****    ****   
-71 Otyugh02             ****          scod_otyugh02           ****    ****   
-72 Plane_of_Air         ****          socd_planeofair         ****    ****   
-73 River_Styx           ****          scod_styx               ****    ****   
+                            Label     ScriptingName                      BMPResRef     TileSet     StrRef
+  0                       Random              ****                           ****        ****      63402
+  1                  UserDefined              ****                           ****        ****       ****
+  2                        Slags              ****                     scod_slags        ****       ****
+  3               Civic_Festhall              ****            scod_civic_festhall        ****       ****
+  4                   Karasuthra              ****                scod_karasuthra        ****       ****
+  5                        Limbo              ****                     scod_limbo        ****       ****
+  6                   Maladomini              ****                scod_maladomini        ****       ****
+  7              Campaign_Battle              ****           scod_campaign_battle        ****       ****
+  8              Elysium_Banquet              ****                   scod_banquet        ****       ****
+  9                      Krigala              ****                   scod_krigala        ****       ****
+ 10                  Pandemonium              ****               scod_pandemonium        ****       ****
+ 11                        Magma              ****                     scod_magma        ****       ****
+ 12             Shattered_Temple              ****          scod_shattered_temple        ****       ****
+ 13               Old_Undersigil              ****            scod_old_undersigil        ****       ****
+ 14                Great_Foundry              ****             scod_great_foundry        ****       ****
+ 15                      Carceri              ****                   scod_carceri        ****       ****
+ 16                      Gehenna              ****                   scod_gehenna        ****       ****
+ 17            Summoning_Brazier              ****         scod_summoning_brazier        ****       ****
+ 18             Hall_of_Speakers              ****          scod_hall_of_speakers        ****       ****
+ 19             Civic_Festhall_2              ****          scod_civic_festhall_2        ****       ****
+ 20            Campaign_Battle_2              ****         scod_campaign_battle_2        ****       ****
+ 21              Dead_God_Aoskar              ****                  scod_dead_god        ****       ****
+ 22               Carceri_Garden              ****            scod_carceri_garden        ****       ****
+ 23                 Plane_of_Air              ****              scod_plane_of_air        ****       ****
+ 24               Plane_of_Earth              ****            scod_plane_of_earth        ****       ****
+ 25           Plane_of_Earth_Dao              ****        scod_plane_of_earth_dao        ****       ****
+ 26                Elysian_Beach              ****             scod_elysian_beach        ****       ****
+ 27                      Elysium              ****                   scod_elysium        ****       ****
+ 28                Plane_of_Ooze              ****             scod_plane_of_ooze        ****       ****
+ 29           Infinite_Staircase              ****        scod_infinite_staircase        ****       ****
+ 30                      Limbo_2              ****                   scod_limbo_2        ****       ****
+ 31                Plane_of_Fire              ****             scod_plane_of_fire        ****       ****
+ 32                   Mechanus_1              ****                scod_mechanus_1        ****       ****
+ 33                     Minauros              ****                  scod_minauros        ****       ****
+ 34                   Mechanus_2              ****                scod_mechanus_2        ****       ****
+ 35                     Outlands              ****                  scod_outlands        ****       ****
+ 36                     Astral_1              ****                  scod_astral_1        ****       ****
+ 37                     Astral_2              ****                  scod_astral_2        ****       ****
+ 38                        Abyss              ****                     scod_abyss        ****       ****
+ 39              Sigil_Greengage              ****                 scod_greengage        ****       ****
+ 40              Great_Gymnasium              ****           scod_great_gymnasium        ****       ****
+ 41         Great_Gymnasium_Pool              ****      scod_great_gymnasium_pool        ****       ****
+ 42                    Gatehouse              ****                 scod_gatehouse        ****       ****
+ 43                    Hive_Ward              ****                 scod_hive_ward        ****       ****
+ 44                     Mortuary              ****                  scod_mortuary        ****       ****
+ 45               Sigil_Chirpers              ****                  scod_chirpers        ****       ****
+ 46      Undersigil_Cranium_Rats              ****              scod_cranium_rats        ****       ****
+ 47             Sigil_Greenhouse              ****                scod_greenhouse        ****       ****
+ 48           Undersigil_Haunted              ****        scod_undersigil_haunted        ****       ****
+ 49               Plane_of_Water              ****            scod_plane_of_water        ****       ****
+ 50                     Pyramids              ****                  scod_pyramids        ****       ****
+ 51         Sigil_Twelve_Factols              ****            scod_twelve_factols        ****       ****
+ 52       Undersigil_Giants_Tomb              ****    scod_undersigil_giants_tomb        ****       ****
+ 53            Undersigil_Otyugh              ****         scod_undersigil_otyugh        ****       ****
+ 54    Undersigil_Weeping_Statue              **** scod_undersigil_weeping_statue        ****       ****
+ 55         Sigil_Chirpers_Party              ****                     scod_party        ****       ****
+ 56            Undersigil_Temple              ****         scod_undersigil_temple        ****       ****
+ 57                 Broken_Reach              ****              scod_broken_reach        ****       ****
+ 58                 Troll_at_Bar              ****              scod_troll_at_bar        ****       ****
+ 59      Harmonium_Investigation              ****   scod_harmonium_investigation        ****       ****
+ 60               Fortunes_Wheel              ****            scod_fortunes_wheel        ****       ****
+ 61                    Doomguard              ****                 scod_doomguard        ****       ****
+ 62                  Mercykiller              ****               scod_mercykiller        ****       ****
+ 63                 Dragon_Fight              ****              scod_dragon_fight        ****       ****
+ 64                  Dragon_Cave              ****               scod_dragon_cave        ****       ****
+ 65                 Magical_Rain              ****              scod_magical_rain        ****       ****
+ 66                 Yuanti_Magic              ****              scod_yuanti_magic        ****       ****
+ 67                 Great_Bazaar              ****            scod_sigil_bazaar_1        ****       ****
+ 68           Grey_Wastes_Yuanti              ****        scod_grey_wastes_yuanti        ****       ****
+ 69                    Krigala_2              ****                 scod_krigala_2        ****       ****
+ 70                    Night_Sky              ****                 scod_night_sky        ****       ****
+ 71                Ladysward_Old              ****             scod_ladysward_old        ****       ****
+ 72                Bazaar_Treant              ****             scod_bazaar_treant        ****       ****
+ 73                 Fashion_Show              ****              scod_fashion_show        ****       ****
