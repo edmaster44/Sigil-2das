@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	This xml file is used to display all of the MEMORIZED spells that
+	the selected character currently has available. 
+-->
+
+<UIScene name="SCREEN_SPELLS_MEMORIZED" x=425 y=20 width=354 height=460 draggable=true fadeout="0.3" fadein="0.3" priority="SCENE_INGAME" scriptloadable="true" />
+
+	<!-- Scene Title -->
+	<UIText strref="181417" x=90 y=8 width=260 height=28 align=left valign=middle fontfamily="Title_Font" style="2" />
+	<UIIcon name="SPELL_KNOWN_DETAIL" img="mem_icon.tga" x=0 y=0 width=78 height=71 ignoreevents=true />
+
+	<!-- *** MEMORIZED SPELL LIST COLLAPSABLE *** -->
+	<UIIcon name="HZ_BAR" img="grid_pixel.tga" x=10 y=67 width=330 height=1 />
+	<UIListbox name="SpellList" x=14 y=68 width=330 height=378 yPadding=1  
+	showpartialchild=true scrollbaronright=true unequalcontrols=true scrollsegmentsize=64 
+	update=true OnUpdate=UIListBox_OnUpdate_MemorizedSpellGrid("SPELL_GRID") >
+
+		<UICollapsable name="PROTO_COL" x=0 y=0 height=PARENT_HEIGHT width=315 yPadding=1 xPadding=5 indent=10 isexpanded=true prototype=true >		
+			<UIButton name="PROTO_HEADER" x=0 y=0 width=300 height=22 header=true >
+				<UIText indent=20 align=left valign=middle fontfamily="Title_Font" style=1  />
+				<UIFrame state=up			fill="b_feat_hover_pressed.tga" />
+				<UIFrame state=down			fill="b_feat_hover_pressed.tga" />
+				<UIFrame state=hilited		fill="b_feat_hover_pressed.tga" />
+				<UIFrame state=focused		fill="b_feat_hover_pressed.tga" />
+				<UIFrame state=hifocus		fill="b_feat_hover_pressed.tga" />
+				<UIFrame state=disabled		fill="b_feat_hover_pressed.tga" />
+				<UIFrame state=header		fill="b_feat_normal.tga" />
+				<UIFrame state=hiheader		fill="b_feat_normal.tga" />
+				<UIFrame state=downheader	fill="b_feat_normal.tga" />
+			</UIButton>
+		
+			<UIGrid name="SPELL_GRID" rows=2 columns=7 x=0 y=0 xPadding=1 yPadding=1 prototype=true >
+				<UIButton name="PrototypeButton" height=40 width=40 draggable=true prototype=true update=true hotbartype="HOTBAR_SPELL"
+				MouseDownSFX="gui_spell_erase" MouseUpSFX="gui_spell_erase"
+				OnToolTip=UIObject_Tooltip_DisplaySpell(OBJECT_X,OBJECT_Y,SCREEN_TOOLTIP_2,ALIGN_NONE,ALIGN_NONE,0,0,ALIGN_LEFT) >
+					<UIFrame state=base		fill="mem_spell_slot.tga" />
+					<UIFrame state=up		fill="b_empty.tga" />
+					<UIFrame state=down		fill="b_overlay.tga" />
+					<UIFrame state=focused	fill="b_empty.tga" />
+					<UIFrame state=hilited	fill="b_overlay.tga" />
+					<UIFrame state=hifocus	fill="b_overlay.tga" />
+					<UIFrame state=disabled fill="b_empty.tga" />
+				</UIButton>
+			</UIGrid>
+		</UICollapsable>
+	
+		<UIScrollBar name="SB" style="STYLE_SB_THIN"></UIScrollBar>	
+	</UIListbox>
+	
+	<!-- Background Image -->
+	<UIIcon name="SPELL_KNOWN_BG" img="mem_bg.tga" x=9 y=8 width=336 height=443 />
+	<UIFrame x=0 y=0 width=PARENT_WIDTH height=PARENT_HEIGHT topleft="frame1_tl.tga" topright="frame1_tr.tga" bottomleft="frame1_bl.tga"
+		bottomright="frame1_BR.tga" top="frame1_t.tga" bottom="frame1_b.tga"
+		left="frame1_l.tga" right="frame1_r.tga" border=32 />	
