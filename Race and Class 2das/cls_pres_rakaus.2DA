@@ -1,7 +1,7 @@
 2DA V2.0
 
-     LABEL          ReqType  ReqParam1 ReqParam2 
-0    Race_Rakshasa  SUBRACE  241       ****      
-2    Class_Sorcerer CLASS    5         ****      
-2    RAK            FEAT     3200      ****      
-3    No_Rak_Sorc    CLASSNOT 213       ****      
+ LABEL ReqType ReqParam1 ReqParam2
+0 Race_Rakshasa SUBRACE 241 ****
+1 Class_Sorcerer CLASS 5 ****
+2 RAK FEAT 3200 ****
+3 No_Rak_Sorc CLASSNOT 213 ****
