@@ -31,5 +31,13 @@
 27 Huldre_Tail_Male **** C_Huldre_Tail P_HHMtail_skel P_HHM C_Huldre_Tail
 28 Kobold **** C_Kobold_Tail c_dogleg_skel c_dogleg C_Kobold_Tail
 29 Arcanaloth_Tail_Male **** P_ARM_tail01 P_HHMtail_skel P_HHM P_ARM_tail01
-30 Arcanaloth_Tail_Female **** P_ARM_tail01 P_HHFtail_skel P_HHF P_ARM_tail01
-31 **** **** **** **** **** ****
+30 Arcanaloth_Tail_Female **** P_ARF_tail01 P_HHFtail_skel P_HHF P_ARF_tail01
+31 Reptilian_Tail_Male_1 **** p_GOM_Tail01 P_HHMtail_skel P_HHM p_GOM_Tail01
+32 Reptilian_Tail_Female_1 **** p_GOF_Tail01 P_HHFtail_skel P_HHF p_GOF_Tail01
+33 Reptilian_Tail_Male_2 **** P_GOM_tail02 P_HHMtail_skel P_HHM P_GOM_tail02
+34 Reptilian_Tail_Female_2 **** p_GOF_tail02 P_HHFtail_skel P_HHF p_GOF_tail02
+35 Eve_tail **** P_HTF_tail02 P_HHFtail_skel P_HHF P_HTF_tail02
+36 Pheasant_Tail_Male **** P_HTM_tail03 P_HHMtail_skel P_HHM P_HTM_tail03
+37 Pheasant_Tail_Female **** P_HTF_tail03 P_HHFtail_skel P_HHF P_HTF_tail03
+38 Condor_tail_Male **** P_HTM_tail04 P_HHMtail_skel P_HHM P_HTM_tail04
+39 Condor_tail_Female **** P_HTF_tail04 P_HHFtail_skel P_HHF P_HTF_tail04
