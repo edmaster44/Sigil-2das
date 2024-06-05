@@ -66,7 +66,7 @@
 62 Freedom_of_Movement 118 0 0 0 4 0
 63 Gate 119 0 0 0 9 0
 64 Ghoul_Touch 120 1 0 0 2 0
-65 Globe_of_Invulnerability 121 0 1 0 6 0
+65 Globe_of_Invulnerability 121 0 0 0 6 0
 66 Grease 122 1 0 0 1 0
 67 Greater_Dispelling 124 0 0 0 5 0
 68 Greater_Magic_Weapon 125 0 0 0 3 0
@@ -78,7 +78,7 @@
 74 Greater_Stoneskin 131 0 1 0 6 0
 75 Gust_of_Wind 410 1 0 0 3 0
 76 Hammer_of_the_Gods 135 1 0 0 4 0
-77 Harm 136 1 0 0 6 0
+77 Harm 136 0 0 0 6 0
 78 Haste 138 0 0 0 3 0
 79 Heal 139 0 0 0 6 0
 80 Healing_Circle 141 0 0 0 5 0
@@ -436,7 +436,7 @@
 432 Inflict_Light_Wounds 363 0 0 0 1 0
 433 Inflict_Moderate_Wounds 364 0 0 0 2 0
 434 Inflict_Serious_Wounds 365 0 0 0 3 0
-435 Inflict_Critical_Wounds 366 1 0 0 4 0
+435 Inflict_Critical_Wounds 366 0 0 0 4 0
 436 BalagarnsIronHorn 367 0 0 0 2 0
 437 Drown 368 1 0 0 6 0
 438 Owls_Insight 369 0 0 0 5 0
