@@ -1001,7 +1001,7 @@
 997 Shard_Attack **** 1 1 1 **** 0
 998 Silver_Sword_Stop_Ability **** 1 1 1 **** 0
 999 Silver_Sword_Recharge **** 1 1 1 **** 0
-1000 Foundation_of_Stone 501 0 0 0 1 0
+1000 Foundation_of_Stone 501 0 1 1 1 0
 1001 Body_of_the_Sun 502 0 1 0 2 0
 1002 Jagged_Tooth 503 1 0 0 2 0
 1003 Moon_Bolt 504 1 0 0 4 0
