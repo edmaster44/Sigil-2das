@@ -32,7 +32,7 @@
 28 Control_Undead 56 1 0 0 7 0
 29 Create_Greater_Undead 59 1 0 0 8 0
 30 Create_Undead 62 1 0 0 6 0
-31 Cure_Critical_Wounds 429 0 0 0 4 0
+31 Cure_Critical_Wounds 63 0 0 0 4 0
 32 Cure_Light_Wounds 67 0 0 0 1 0
 33 Cure_Minor_Wounds 68 0 0 0 0 0
 34 Cure_Moderate_Wounds 71 0 0 0 2 0
