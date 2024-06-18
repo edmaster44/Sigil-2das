@@ -1,7 +1,7 @@
 2DA V2.0
 
-     LABEL              ReqType ReqParam1      ReqParam2 
-0    BAB                BAB     6              ****      
-1    LIGHTNING_REFLEXES FEAT    24             ****      
-2    GREAT_FORTITUDE    FEAT    14             ****      
-3    IRON_WILL          FEAT    22             ****      
+ LABEL ReqType ReqParam1 ReqParam2
+0 BAB BAB 6 ****
+1 FEAT_DODGE FEAT 10 ****
+2 FEAT_MOBILITY FEAT 26 ****
+3 IRON_WILL FEAT 22 ****
