@@ -60,26 +60,27 @@
 56 "Shield, Light" 14 A nw_ashsw001 9 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_as_
 57 "Shield, Tower" 57 A nw_ashto001 100 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_as_
 58 Shortbow 11 W nw_wbwsh001 60 SCOD_CRAFT_WOOD SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_wr_short
-59 "Short Sword" 0 W nw_wswss001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_
-60 Shuriken 59 W ps_utility_returningshuriken 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wt_shur
-61 Sickle 60 W nw_wspsc001 12 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_we_sick
-62 Sling 61 W nw_wbwsl001 2 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wr_sling
-63 Spear 119 W nw_wplss001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_spear
-64 "Studded Leather Armor" 16 A nw_aarcl002 25 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_al_
-65 "Throwing Axes" 63 W ps_utility_returningaxe 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wt_taxe
-66 Whip 202 W ps_whip 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_WOOD it_wp_whip
-67 Horn 132 M ps_music_horn 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u_
-68 Bagpipe 132 M ps_music_bagpipe 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u_
-69 Lyre 128 M ps_music_lyre 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u
-70 Container 131 M ps_crft_basecontainer 5 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC bag
-71 Boots 26 M ps_crft_baseboots 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_bo_
-72 Club 28 W nw_wblcl001 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wu_club
-73 "Creature Claw Sheath - Tiny" 181 W creatureclaweld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
-74 "Creature Claw Sheath - Small" 176 W creatureclaweld 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
-75 "Creature Claw Sheath - Large" 179 W creatureclaweld_lrg 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
-76 "Creature Fang Veneers- Tiny" 184 W creaturebiteeld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
-77 "Creature Fang Veneers- Medium" 177 W creaturebiteeld 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
-78 "Creature Fang Veneers - Large" 185 **** creaturebiteeld_large 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
-79 "Creature 'Knuckles' - Tiny" 182 **** creatureslameld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
-80 "Creature 'Knuckles' - Medium" 183 **** creatureslameld_med 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
-81 "Creature 'Knuckles' - Large" 178 W creatureslameld 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+59 "Short Staff" 45 W ps_shortstaff 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wd_
+60 "Short Sword" 0 W nw_wswss001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_
+61 Shuriken 59 W ps_utility_returningshuriken 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wt_shur
+62 Sickle 60 W nw_wspsc001 12 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_we_sick
+63 Sling 61 W nw_wbwsl001 2 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wr_sling
+64 Spear 119 W nw_wplss001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_spear
+65 "Studded Leather Armor" 16 A nw_aarcl002 25 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_al_
+66 "Throwing Axes" 63 W ps_utility_returningaxe 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wt_taxe
+67 Whip 202 W ps_whip 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_WOOD it_wp_whip
+68 Horn 132 M ps_music_horn 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u_
+69 Bagpipe 132 M ps_music_bagpipe 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u_
+70 Lyre 128 M ps_music_lyre 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u
+71 Container 131 M ps_crft_basecontainer 5 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC bag
+72 Boots 26 M ps_crft_baseboots 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_bo_
+73 Club 28 W nw_wblcl001 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wu_club
+74 "Creature Claw Sheath - Tiny" 181 W creatureclaweld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+75 "Creature Claw Sheath - Small" 176 W creatureclaweld 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+76 "Creature Claw Sheath - Large" 179 W creatureclaweld_lrg 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+77 "Creature Fang Veneers- Tiny" 184 W creaturebiteeld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+78 "Creature Fang Veneers- Medium" 177 W creaturebiteeld 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+79 "Creature Fang Veneers - Large" 185 W creaturebiteeld_large 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+80 "Creature 'Knuckles' - Tiny" 182 W creatureslameld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+81 "Creature 'Knuckles' - Medium" 183 W creatureslameld_med 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+82 "Creature 'Knuckles' - Large" 178 W creatureslameld 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
