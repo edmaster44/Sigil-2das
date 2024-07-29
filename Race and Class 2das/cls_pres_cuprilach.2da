@@ -1,0 +1,7 @@
+2DA V2.0
+
+  LABEL           ReqType  ReqParam1 ReqParam2 
+0 Race_Rilmani    SUBRACE  190       ****      
+1 Hide            SKILL    5         4         
+2 MS              SKILL    8         4         
+5 No_Ferrumach    CLASSNOT 117       ****      
