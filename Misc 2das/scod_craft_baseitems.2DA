@@ -75,12 +75,12 @@
 71 Container 131 M ps_crft_basecontainer 5 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC bag
 72 Boots 26 M ps_crft_baseboots 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_bo_
 73 Club 28 W nw_wblcl001 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wu_club
-74 "Creature Claw Sheath - Tiny" 181 W creatureclaweld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+74 "Creature Claw Sheath - Tiny" 181 **** creatureclaweld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
 75 "Creature Claw Sheath - Small" 176 W creatureclaweld 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
 76 "Creature Claw Sheath - Large" 179 W creatureclaweld_lrg 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
-77 "Creature Fang Veneers- Tiny" 184 W creaturebiteeld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+77 "Creature Fang Veneers- Tiny" 184 **** creaturebiteeld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
 78 "Creature Fang Veneers- Medium" 177 W creaturebiteeld 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
-79 "Creature Fang Veneers - Large" 185 W creaturebiteeld_large 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
-80 "Creature 'Knuckles' - Tiny" 182 W creatureslameld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
-81 "Creature 'Knuckles' - Medium" 183 W creatureslameld_med 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+79 "Creature Fang Veneers - Large" 185 **** creaturebiteeld_large 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+80 "Creature 'Knuckles' - Tiny" 182 **** creatureslameld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
+81 "Creature 'Knuckles' - Medium" 183 **** creatureslameld_med 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
 82 "Creature 'Knuckles' - Large" 178 W creatureslameld 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_
