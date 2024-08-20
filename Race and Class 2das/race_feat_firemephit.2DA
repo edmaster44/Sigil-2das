@@ -1,11 +1,11 @@
 2DA V2.0
 
-  FeatLabel  FeatIndex 
-0 darkvision 228       
-1 RACEAC4    2265      
-2 ColdVuln   2257      
-5 FireImm    2260      
-6 Regen+1    2322      
-5 Heat       2259      
-6 FireBreath 2896      
-7 DR5+1      2899      
+ FeatLabel FeatIndex
+0 darkvision 228
+1 RACEAC4 2265
+2 ColdVuln 2257
+3 FireImm 2260
+4 Regen+1 2322
+5 Heat 2259
+6 FireBreath 2896
+7 DR5+1 2899
