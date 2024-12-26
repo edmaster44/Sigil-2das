@@ -2,10 +2,11 @@
 
  FeatLabel FeatIndex
 0 Darkvision 228
-1 SpellResistance 2171
-2 AnimalTrance 2172
-3 CauseFear 2173
-4 CharmPerson 2174
-5 Darkness 2175
-6 Entangle 2176
-7 Alertness 0
+1 FEAT_RACIAL_NATURAL_ARMOR_1 2112
+2 SpellResistance 2171
+3 AnimalTrance 2172
+4 CauseFear 2173
+5 CharmPerson 2174
+6 Darkness 2175
+7 Entangle 2176
+8 Alertness 0

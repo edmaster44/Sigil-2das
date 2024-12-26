@@ -1,7 +1,18 @@
 2DA V2.0
 
-  LABEL                BASE_RESREF     COST_TIER IP_DESCRIPTION_ID CRAFT_DC IP_MELEE_TYPE IP_MELEE_SUBTYPE IP_MELEE_PARAM DR_PIERC_MAT IP_ARMOR_TYPE IP_ARMOR_SUBTYPE IP_ARMOR_PARAM ARMOR_SUFFIX 
-0 None                 ****            0         ****              0        ****          ****             ****           ****         ****          ****             ****           ****         
-1 "Dragon Sinew"       ps_crft_drgsnw  2         35                18       ****          ****             ****           ****         ****          ****             ****           ****         
-2 "Neumannic Flywheel" ps_crft_neufly  2         36                18       ****          ****             ****           ****         ****          ****             ****           ****         
-3 "Regulan Gearspring" ps_crft_reggear 2         37                18       ****          ****             ****           ****         ****          ****             ****           ****         
+ LABEL BASE_RESREF COST_TIER IP_DESCRIPTION_ID CRAFT_DC IP_MELEE_TYPE IP_MELEE_SUBTYPE IP_MELEE_PARAM DR_PIERC_MAT IP_ARMOR_TYPE IP_ARMOR_SUBTYPE IP_ARMOR_PARAM ARMOR_SUFFIX_1 DECORATIVE_METAL XBOW_ONLY
+0 None **** 0 **** 0 **** **** **** **** **** **** **** **** 0 0
+1 "Crossbow Sight" ps_crft_xbowsight 2 65 18 **** **** **** **** **** **** **** **** 0 1
+2 Brass ps_golem_brass 2 49 17 **** **** **** **** **** **** **** **** 1 0
+3 "Dragon Sinew" ps_crft_drgsnw 2 35 18 **** **** **** **** **** **** **** **** 0 0
+4 Electrum ps_crft_pm_electrum 2 17 17 **** **** **** **** **** **** **** **** 1 0
+5 "Fiendish Ivory" ps_crft_fiendtooth 2 50 18 **** **** **** **** **** **** **** **** 0 0
+6 Gold ps_crft_pm_gold 2 18 17 **** **** **** **** **** **** **** **** 1 0
+7 "Mercurian Rosepetal" ps_crft_mercrose 2 56 18 **** **** **** **** **** **** **** **** 0 0
+8 "Moon Pearl" ps_crft_moonpearl 2 59 17 **** **** **** **** **** **** **** **** 0 0
+9 "Neumannic Flywheel" ps_crft_neufly 2 36 18 **** **** **** **** **** **** **** **** 0 0
+10 Platinum ps_crft_pm_platinum 2 19 17 **** **** **** **** **** **** **** **** 1 0
+11 Pyrite ps_crft_pyrite 2 62 17 **** **** **** **** **** **** **** **** 0 0
+12 "Regulan Gearspring" ps_crft_reggear 2 37 18 **** **** **** **** **** **** **** **** 0 0
+13 Silver ps_crft_pm_silver 0 63 17 **** **** **** **** **** **** **** **** 1 0
+14 "White Gold" ps_crft_pm_wgold 2 21 17 **** **** **** **** **** **** **** **** 1 0

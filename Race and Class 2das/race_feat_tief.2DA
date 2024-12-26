@@ -6,7 +6,8 @@
 2 FEAT_TIEFLING_RESISTANCE 1088
 3 FEAT_TIEFLING_DARKNESS 1089
 4 FEAT_SKILL_AFFINITY_BLUFF 1097
-5 ResistEnergyFire 429
-6 ResistEnergyCold 427
-7 ResistEnergyElectrical 430
-8 FiendishBlood 81
+5 FEAT_SKILL_AFFINITY_MS 247
+6 ResistEnergyFire 429
+7 ResistEnergyCold 427
+8 ResistEnergyElectrical 430
+9 FiendishBlood 81

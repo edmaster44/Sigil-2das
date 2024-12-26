@@ -3,10 +3,11 @@
  FeatLabel FeatIndex
 0 darkvision 228
 1 skillaffinitylisten 237
-2 skillaffinityspot 239
-3 FEAT_AASIMAR_RESISTANCE 1085
-4 FEAT_AASIMAR_LIGHT 1086
-5 ResistEnergyCold 427
-6 ResistEnergyElectrical 430
-7 ResistEnergyAcid 428
-8 CelestialBlood 86
+2 skillaffinitysearch 238
+3 skillaffinityspot 239
+4 FEAT_AASIMAR_RESISTANCE 1085
+5 FEAT_AASIMAR_LIGHT 1086
+6 ResistEnergyCold 427
+7 ResistEnergyElectrical 430
+8 ResistEnergyAcid 428
+9 CelestialBlood 86

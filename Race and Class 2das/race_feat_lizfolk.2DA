@@ -1,8 +1,9 @@
 2DA V2.0
 
  FeatLabel FeatIndex
-0 +1NaturalArmor 2112
-1 WeapProfSim 46
-2 Shield 32
-3 WeapProfCreature 289
-4 TwoWeaponFighting 41
+0 Darkvision 228
+1 +1NaturalArmor 2112
+2 WeapProfSim 46
+3 Shield 32
+4 WeapProfCreature 289
+5 TwoWeaponFighting 41

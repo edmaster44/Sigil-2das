@@ -28,6 +28,6 @@
 24 Intimidate 8756 16782734 isk_X2Inti 1 CHA 0 1 **** **** SKILL_INTIMIDATE 0 1336 0 **** 1 0
 25 CraftArmor 8787 174217 isk_X2CArm 1 INT 0 1 **** **** SKILL_CRAFT_ARMOR 0 1337 0 **** 0 0
 26 CraftWeapon 8789 8790 isk_X2CWeap 1 INT 0 1 **** **** SKILL_CRAFT_WEAPON 0 1338 0 **** 0 0
-27 CraftAlchemy 111469 8788 isk_X2CAlc 1 INT 0 1 **** **** SKILL_CRAFT_ALCHEMY 0 1339 0 **** 0 0
+27 CraftAlchemy 111469 16822601 isk_X2CAlc 1 INT 0 1 **** **** SKILL_CRAFT_ALCHEMY 0 1339 0 **** 0 0
 28 DEL_Ride *** *** isk_pocket 0 DEX 0 0 **** 1 SKILL_RIDE 1 -1 0 **** 0 1
 29 Survival 111471 113156 isk_survival 1 WIS 0 1 **** **** SKILL_SURVIVAL 0 1341 0 **** 0 0

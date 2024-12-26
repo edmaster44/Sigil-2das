@@ -1,15 +1,14 @@
 2DA V2.0
 
-   FeatLabel                           FeatIndex 
-0  darkvision                          228       
-1  resist_fire                         429       
-2  poison_immunity                     1751      
-3  invisibility                        1756      
-4  creatureprof                        289       
-5  FEAT_FAMILIAR_REGENERATION          3608      
-6  FEAT_FAMILIAR_DR                    3609      
-7  FEAT_FAMILIAR_ALTERNATE_FORM_BAT    3610      
-8  FEAT_FAMILIAR_ALTERNATE_FORM_SPIDER 3613      
-9  FEAT_FAMILIAR_ALTERNATE_FORM_WEASEL 3614  
-10 FEAT_WINGS                          2120          
-11 ****                                ****      
+ FeatLabel FeatIndex
+0 darkvision 228
+1 resist_fire 429
+2 poison_immunity 1751
+3 invisibility 1756
+4 creatureprof 289
+5 FEAT_FAMILIAR_REGENERATION 3608
+6 FEAT_FAMILIAR_DR 3609
+7 FEAT_FAMILIAR_ALTERNATE_FORM_BAT 3610
+8 FEAT_FAMILIAR_ALTERNATE_FORM_SPIDER 3613
+9 FEAT_FAMILIAR_ALTERNATE_FORM_WEASEL 3614
+10 FEAT_WINGS 2120

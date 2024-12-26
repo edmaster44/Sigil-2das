@@ -1,46 +1,69 @@
 2DA V2.0
 
-   Label                Name     
-0  "Abyssal Bloodiron"  16781316 
-1  "Alchemic Platinum"  16781317 
-2  Aurorum              16781318 
-3  "Axiomatic Brass"    16781319 
-4  "Blood Glass"        16781320 
-5  Byeshk               16781321 
-6  Glassteel            16781322 
-7  Metalline            16781323 
-8  "Meteoric Iron"      16781324 
-9  Mindsilver           16781325 
-10 Morguth-Iron         16781326 
-11 Oerthblood           16781327 
-12 "Pandemonic Silver"  16781328 
-13 Riverine             16781329 
-14 "Solanian Truesteel" 16781330 
-15 Tantulhor            16781331 
-16 Copper               16781332 
-17 Electrum             16781333 
-18 Gold                 16781334 
-19 Platinum             16781335 
-20 Silver               16781336 
-21 "White Gold"         16781337 
-22 "Dragon Hide: Black" 16781338 
-23 "Dragon Hide: Blue"  16781339 
-24 "Dragon Hide: Red"   16781340 
-25 "Dragon Hide: White" 16781341 
-26 "Dragon Hide: Green" 16781342 
-27 "Celestial Plumes"   16781343 
-28 Demonscale           16781344 
-29 Devilscale           16781345 
-30 "Ophidian Hide"      16781346 
-31 "Arboreal Oak"       16781347 
-32 "Dragon Bone"        16781348 
-33 "Formic Amber"       16781349 
-34 "Twelvetrees Bark"   16781350 
-35 "Dragon Sinew"       16781351 
-36 "Neumannic Flywheel" 16781352 
-37 "Regulan Gearspring" 16781353 
-38 Iron                 16781355 
-39 Leather              16781356 
-40 Wood                 16781357 
-41 "Cold Iron"          16781358 
-42 "Doomforged"          16781359 
+ Label Name Mat_2da Powerful_Mat
+0 "Abyssal Bloodiron" 16781316 scod_craft_metal 1
+1 "Alchemic Platinum" 16781317 scod_craft_metal 1
+2 Aurorum 16781318 scod_craft_metal 1
+3 "Axiomatic Brass" 16781319 scod_craft_metal 1
+4 "Blood Glass" 16781320 scod_craft_metal 1
+5 Byeshk 16781321 scod_craft_metal 1
+6 Glassteel 16781322 scod_craft_metal 1
+7 Metalline 16781323 scod_craft_metal 1
+8 "Meteoric Iron" 16781324 scod_craft_metal 1
+9 Mindsilver 16781325 scod_craft_metal 1
+10 Morguth-Iron 16781326 scod_craft_metal 1
+11 Oerthblood 16781327 scod_craft_metal 1
+12 "Pandemonic Silver" 16781328 scod_craft_metal 1
+13 Riverine 16781329 scod_craft_metal 1
+14 "Solanian Truesteel" 16781330 scod_craft_metal 1
+15 Tantulhor 16781331 scod_craft_metal 1
+16 Copper 16781332 scod_craft_metal 0
+17 Electrum 16781333 scod_craft_metal 1
+18 Gold 16781334 scod_craft_metal 1
+19 Platinum 16781335 scod_craft_metal 1
+20 "Alchemical Silver" 16781368 scod_craft_metal 1
+21 "White Gold" 16781337 scod_craft_metal 1
+22 "Dragon Hide: Black" 16781338 scod_craft_leather 1
+23 "Dragon Hide: Blue" 16781339 scod_craft_leather 1
+24 "Dragon Hide: Red" 16781340 scod_craft_leather 1
+25 "Dragon Hide: White" 16781341 scod_craft_leather 1
+26 "Dragon Hide: Green" 16781342 scod_craft_leather 1
+27 "Celestial Plumes" 16781343 scod_craft_leather 1
+28 Demonscale 16781344 scod_craft_leather 1
+29 Devilscale 16781345 scod_craft_leather 1
+30 "Ophidian Hide" 16781346 scod_craft_leather 1
+31 "Arboreal Oak" 16781347 scod_craft_wood 1
+32 "Dragon Bone" 16781348 scod_craft_wood 1
+33 "Formic Amber" 16781349 scod_craft_wood 1
+34 "Twelvetrees Bark" 16781350 scod_craft_wood 1
+35 "Dragon Sinew" 16781351 scod_craft_misc 1
+36 "Neumannic Flywheel" 16781352 scod_craft_misc 1
+37 "Regulan Gearspring" 16781353 scod_craft_misc 1
+38 Iron 16781355 scod_craft_metal 0
+39 Leather 16781356 scod_craft_leather 0
+40 Wood 16781357 scod_craft_wood 0
+41 "Cold Iron" 16781358 scod_craft_metal 1
+42 "Doomforged" 16781359 **** 1
+43 "Pure Adamantine" 16781360 scod_craft_metal 1
+44 Mithral 16781361 scod_craft_metal 1
+45 Darksteel 16781362 scod_craft_metal 1
+46 Duskwood 16781363 scod_craft_wood 1
+47 "Shederran Wood" 16781364 scod_craft_wood 1
+48 "Zalantar Wood" 16781365 scod_craft_wood 1
+49 Brass 16781367 scod_craft_metal 1
+50 "Fiendish Ivory" 16781369 scod_craft_misc 1
+51 "Demon Horn" 16781370 scod_craft_wood 1
+52 "Devil Horn" 16781371 scod_craft_wood 1
+53 "Astral Driftmetal" 16781866 scod_craft_metal 1
+54 "Chimera Hide" 16781867 scod_craft_leather 1
+55 "Giant Bone" 16781868 scod_craft_wood 1
+56 "Mercurian Rose" 16781869 scod_craft_misc 1
+57 "Flesh Golem Hide" 16781870 scod_craft_leather 1
+58 "Rowan Wood" 16781871 scod_craft_wood 1
+59 "Moon Pearl" 16781872 scod_craft_misc 1
+60 Ironwood 16781873 scod_craft_wood 1
+61 "Manticore Hide" 16781874 scod_craft_leather 1
+62 Pyrite 16781875 scod_craft_misc 1
+63 Silver 16781336 scod_craft_metal 1
+64 "Crossbow Cocking Lever" 16781372 scod_craft_metal 0
+65 "Crossbow Sight" 16781373 scod_craft_misc 0

@@ -1,8 +1,16 @@
 2DA V2.0
 
-  LABEL              BASE_RESREF     COST_TIER IP_DESCRIPTION_ID CRAFT_DC IP_MELEE_TYPE IP_MELEE_SUBTYPE IP_MELEE_PARAM DR_PIERC_MAT IP_ARMOR_TYPE IP_ARMOR_SUBTYPE IP_ARMOR_PARAM ARMOR_SUFFIX IP_RANGED_TYPE IP_RANGED_SUBTYPE IP_RANGED_PARAM 
-0 Wood               ****            0         40                ****     ****          ****             ****           ****         ****          ****             ****           ****         ****           ****              ****            
-1 "Arboreal Oak"     ps_crft_plk_ao  2         31                20       17            5                7              ****         2             5                7              ****         17             5                 7               
-2 "Dragon Bone"      ps_crft_plk_db  2         32                18       16            1                12             ****         ****          ****             ****           ****         45             ****              10              
-3 "Formic Amber"     ps_crft_formamb 2         33                19       16            2                12             ****         ****          ****             ****           ****         16             2                 12              
-4 "Twelvetrees Bark" ps_crft_plk_tb  2         34                20       17            4                7              ****         2             4                7              ****         17             4                 7               
+ LABEL BASE_RESREF COST_TIER IP_DESCRIPTION_ID CRAFT_DC IP_MELEE_TYPE IP_MELEE_SUBTYPE IP_MELEE_PARAM IP_M_SPECIAL M_POINTS DR_PIERC_MAT IP_ARMOR_TYPE IP_ARMOR_SUBTYPE IP_ARMOR_PARAM IP_A_SPECIAL A_POINTS ARMOR_SUFFIX IP_RANGED_TYPE IP_RANGED_SUBTYPE IP_RANGED_PARAM IP_R_SPECIAL R_POINTS
+0 Wood **** 0 40 **** **** **** **** **** 0 **** **** **** **** **** 0 **** **** **** **** **** 0
+1 "Arboreal Oak" ps_crft_plk_ao 2 31 20 17 5 8 **** 1 **** 2 5 7 **** 5 **** 17 5 8 **** 1
+2 "Demon Horn" ps_crft_demonhorn 2 51 18 17 2 8 **** 1 **** 2 2 7 **** 4 **** 17 2 8 **** 1
+3 "Devil Horn" ps_crft_devilhorn 2 52 18 17 3 8 **** 1 **** 2 3 7 **** 4 **** 17 3 8 **** 1
+4 "Dragon Bone" ps_crft_plk_db 2 32 18 16 5 6 **** 2 **** 39 **** 6 **** 3 **** 45 **** 10 **** 5
+5 Duskwood n2_crft_plkdskwood 2 46 17 43 **** **** **** 0 7 12 142 9 **** 0 **** 43 **** **** **** 0
+6 "Formic Amber" ps_crft_formamb 2 33 19 16 2 12 **** 3 **** 23 13 4 **** 4 **** 16 2 12 **** 3
+7 "Giant Bone" ps_golem_bone 2 55 18 16 11 6 **** 1 **** 40 4 4 **** 1 **** 16 11 6 **** 1
+8 Ironwood ps_crft_ironwood 2 60 18 16 5 2 **** 1 **** 84 **** 7 **** 6 **** 45 **** 6 **** 4
+9 "Rowan Wood" ps_crft_rowan 2 58 18 16 8 6 **** 2 **** 51 **** 2 **** 4 **** 16 8 6 **** 2
+10 "Shederran Wood" n2_crft_plkshed 2 47 16 16 2 2 **** 1 **** 40 13 2 **** 0 **** 45 **** 4 **** 3
+11 "Twelvetrees Bark" ps_crft_plk_tb 2 34 20 17 4 8 **** 1 **** 2 4 7 **** 5 **** 17 4 8 **** 1
+12 "Zalantar Wood" n2_crft_plkzalantar 2 48 17 16 9 2 **** 0 8 84 **** 8 **** 5 **** 16 9 2 **** 0

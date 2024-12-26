@@ -2,12 +2,13 @@
 
  FeatLabel FeatIndex
 0 darkvision 228
-1 skillaffinitymovesi 247
-2 skillaffinitylisten 237
-3 lucky 248
-4 FEAT_SKILL_AFFINITY_BLUFF 1097
-5 CHANGE_FORM 2828
-6 fearless 249
-7 goodaim 250
-8 Small 375
-9 FiendishBlood 81
+1 FEAT_TIEFLING_HIDE 1087
+2 skillaffinitymovesi 247
+3 skillaffinitylisten 237
+4 lucky 248
+5 FEAT_SKILL_AFFINITY_BLUFF 1097
+6 CHANGE_FORM 2828
+7 fearless 249
+8 goodaim 250
+9 Small 375
+10 FiendishBlood 81

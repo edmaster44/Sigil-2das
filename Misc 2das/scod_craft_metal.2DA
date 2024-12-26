@@ -1,28 +1,34 @@
 2DA V2.0
 
-   LABEL                BASE_RESREF         COST_TIER IP_DESCRIPTION_ID CRAFT_DC IP_MELEE_TYPE IP_MELEE_SUBTYPE IP_MELEE_PARAM DR_PIERC_MAT IP_ARMOR_TYPE IP_ARMOR_SUBTYPE IP_ARMOR_PARAM ARMOR_SUFFIX 
-0  Iron                 ****                0         38                0        ****          ****             ****           ****         ****          ****             ****           ****         
-1  "Abyssal Bloodiron"  ps_cfrt_ing_bi      2         0                 18       74            ****             53             6            ****          ****             ****           _abl         
-2  "Alchemic Platinum"  ps_crft_ing_ap      2         1                 18       16            9                12             5            ****          ****             ****           _plat        
-3  Aurorum              ps_crft_ing_au      6         2                 14       16            13               12             ****         51            ****             2              ****         
-4  "Axiomatic Brass"    ps_cfrt_ing_ab      4         3                 21       17            3                7              2            2             3                7              ****         
-5  "Blood Glass"        ps_cfrt_ing_bg      3         4                 18       16            2                8              1            23            10               4              ****         
-6  Byeshk               ps_cfrt_ing_by      3         5                 18       16            1                8              1            23            9                4              ****         
-7  Glassteel            ps_crft_ing_gs      2         6                 18       16            6                12             ****         ****          ****             ****           _gla         
-8  Metalline            ps_cfrt_ing_ml      4         7                 13       15            335              13             ****         23            13               4              ****         
-9  "Meteoric Iron"      ps_cfrt_ing_mi      5         8                 23       18            20               7              1            23            7                4              ****         
-10 Mindsilver           ps_crft_ing_ms      2         9                 18       16            5                6              ****         12            695              ****           ****         
-11 Morguth-Iron         ps_cfrt_ing_gm      4         10                21       17            4                7              5            2             4                7              ****         
-12 Oerthblood           ps_crft_ing_ob      2         11                24       16            10               12             ****         ****          ****             ****           _ob          
-13 "Pandemonic Silver"  ps_cfrt_ing_pd      4         12                21       17            2                7              6            2             2                7              ****         
-14 Riverine             ps_crft_ing_rv      2         13                18       16            7                12             ****         ****          ****             ****           _riv         
-15 "Solanian Truesteel" ps_cfrt_ing_st      4         14                21       17            5                7              5            2             5                7              ****         
-16 Tantulhor            ps_cfrt_ing_tt      3         15                18       16            0                8              1            23            6                4              ****         
-17 Copper               ps_crft_pm_copper   0         16                4        21            2                ****           ****         28            2                2              ****         
-18 Electrum             ps_crft_pm_electrum 0         17                4        21            1                ****           ****         28            2                2              ****         
-19 Gold                 ps_crft_pm_gold     0         18                4        21            2                ****           ****         28            2                2              ****         
-20 Platinum             ps_crft_pm_platinum 0         19                4        21            2                ****           ****         28            2                2              ****         
-21 Silver               ps_crft_pm_silver   0         20                4        21            1                ****           6            28            2                2              ****         
-22 "White Gold"         ps_crft_pm_wgold    0         21                4        21            2                ****           ****         28            2                2              ****         
-23 "Cold-Forged Iron"   n2_crft_ingcldiron  0         41                4        ****          ****             ****           2            4             17               2              ****         
-24 "Alchemic Silver"    n2_crft_ingsilver   0         20                4        ****          ****             ****           6            4             23               2              ****         
+ LABEL BASE_RESREF COST_TIER IP_DESCRIPTION_ID CRAFT_DC IP_MELEE_TYPE IP_MELEE_SUBTYPE IP_MELEE_PARAM IP_M_SPECIAL M_POINTS DR_PIERC_MAT IP_ARMOR_TYPE IP_ARMOR_SUBTYPE IP_ARMOR_PARAM IP_A_SPECIAL A_POINTS ARMOR_SUFFIX DECORATIVE_METAL XBOW_ONLY
+0 Iron **** 0 38 0 **** **** **** **** 0 **** **** **** **** **** 0 **** 0 0
+1 Copper **** 0 16 4 21 2 **** **** 0 **** 28 2 2 **** 0 **** 1 0
+2 "Crossbow Lever" ps_crft_xbowlever 2 64 18 **** **** **** **** 0 **** **** **** **** **** 0 **** 0 1
+3 "Abyssal Bloodiron" ps_cfrt_ing_bi 2 0 18 74 **** 53 **** 2 2 **** **** **** **** 2 _abl 0 0
+4 "Alchemic Platinum" ps_crft_ing_ap 2 1 18 16 9 12 **** 1 5 **** **** **** **** 0 _plat 0 0
+5 "Alchemic Silver" n2_crft_ingsilver 2 20 4 8 23 2 **** 0 6 40 5 2 **** **** **** 0 0
+6 "Astral Driftmetal" ps_crft_ing_asdrift 2 53 18 74 **** 53 **** 2 6 4 30 7 **** 3 **** 0 0
+7 Aurorum ps_crft_ing_au 6 2 14 16 13 12 **** 2 **** 51 **** 2 **** 4 **** 0 0
+8 "Axiomatic Brass" ps_cfrt_ing_ab 4 3 21 17 3 8 **** 1 2 2 3 7 **** 4 **** 0 0
+9 "Blood Glass" ps_cfrt_ing_bg 3 4 18 16 2 8 **** 3 1 23 10 4 **** 3 **** 0 0
+10 Brass ps_golem_brass 2 49 4 21 2 **** **** 0 **** 28 2 2 **** 0 **** 1 0
+11 Byeshk ps_cfrt_ing_by 3 5 18 16 1 8 **** 3 1 23 9 4 **** 3 **** 0 0
+12 "Cold-Forged Iron" n2_crft_ingcldiron 2 41 4 8 17 2 **** 0 2 40 11 2 **** 0 **** 0 0
+13 Darksteel n2_crft_ingdrksteel 2 45 12 16 9 1 **** 0 3 23 6 1 **** 1 **** 0 0
+14 Electrum ps_crft_pm_electrum 2 17 4 21 1 **** **** 0 **** 28 2 2 **** 0 **** 1 0
+15 Glassteel ps_crft_ing_gs 2 6 18 16 6 12 **** 1 **** **** **** **** **** 0 _gla 0 0
+16 Gold ps_crft_pm_gold 2 18 4 21 2 **** **** 0 **** 28 2 2 **** 0 **** 1 0
+17 Metalline ps_cfrt_ing_ml 4 7 13 15 335 13 **** 1 **** 23 13 4 **** 4 **** 0 0
+18 "Meteoric Iron" ps_cfrt_ing_mi 5 8 23 43 **** **** **** 0 1 23 7 4 **** 3 **** 0 0
+19 Mindsilver ps_crft_ing_ms 2 9 18 16 5 6 **** 2 6 12 695 **** **** 1 **** 0 0
+20 Mithral ps_golem_mithral 2 44 20 43 **** **** **** 0 5 **** **** **** **** 1 _mth 0 0
+21 Morguth-Iron ps_cfrt_ing_gm 4 10 21 17 4 8 **** 1 5 2 4 7 **** 5 **** 0 0
+22 Oerthblood ps_crft_ing_ob 2 11 24 16 10 12 **** 1 **** **** **** **** **** 3 _ob 0 0
+23 "Pandemonic Silver" ps_cfrt_ing_pd 4 12 21 17 2 8 **** 1 6 2 2 7 **** 4 **** 0 0
+24 "Pure Adamantine" ps_crft_ing_ada 2 43 20 16 5 2 **** 1 1 **** **** **** **** 6 _ada 0 0
+25 Platinum ps_crft_pm_platinum 2 19 4 21 2 **** **** 0 **** 28 2 2 **** 0 **** 1 0
+26 Riverine ps_crft_ing_rv 2 13 18 16 7 12 **** 1 **** **** **** **** **** 0 _riv 0 0
+27 Silver ps_crft_pm_silver 0 63 4 21 1 **** **** 0 6 28 2 2 **** 0 **** 1 0
+28 "Solanian Truesteel" ps_cfrt_ing_st 4 14 21 17 5 8 **** 1 5 2 5 7 **** 5 **** 0 0
+29 Tantulhor ps_cfrt_ing_tt 3 15 18 16 0 8 **** 3 1 23 6 4 **** 3 **** 0 0
+30 "White Gold" ps_crft_pm_wgold 0 21 4 21 2 **** **** 0 **** 28 2 2 **** 0 **** 1 0

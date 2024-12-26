@@ -1,10 +1,10 @@
 2DA V2.0
 
-  FeatLabel  FeatIndex 
-0 darkvision 228       
-1 RACEAC3    2264      
-3 immelec    2283      
-4 whirlwind  2284      
-5 enlarge    2374      
-6 reduce     2375      
-7 invis      2376      
+ FeatLabel FeatIndex
+0 darkvision 228
+1 RACEAC3 2264
+2 immelec 2283
+3 whirlwind 2284
+4 enlarge 2374
+5 reduce 2375
+6 invis 2376
