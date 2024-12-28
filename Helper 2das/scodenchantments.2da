@@ -94,10 +94,10 @@
 90 "Fire Resistance 10/-" 23 10 2 **** 2 500 cft_ess_fire2 gemstone_zircon_blue_q1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 PLAYER_MADE_ONLY_FOR_RINGS 1
 91 "Fire Resistance 15/-" 23 10 3 **** 3 1000 cft_ess_fire3 gemstone_zircon_blue_q2 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 PLAYER_MADE_ONLY_FOR_RINGS 1
 92 "Fire Resistance 20/-" 23 10 4 **** 4 3000 cft_ess_fire4 gemstone_zircon_blue_q3 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 PLAYER_MADE_ONLY_FOR_RINGS 1
-93 "Sonic Resistance 5/-" 23 9 1 **** 2 500 cft_ess_air1 **** 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 PLAYER_MADE 1
-94 "Sonic Resistance 10/-" 23 9 2 **** 3 1000 cft_ess_air2 gemstone_tourmaline_black_q1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 PLAYER_MADE 1
-95 "Sonic Resistance 15/-" 23 9 3 **** 4 3000 cft_ess_air3 gemstone_tourmaline_black_q2 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 PLAYER_MADE 1
-96 "Sonic Resistance 20/-" 23 9 4 **** 5 5000 cft_ess_air4 gemstone_tourmaline_black_q3 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 PLAYER_MADE 1
+93 "Sonic Resistance 5/-" 23 13 1 **** 2 500 cft_ess_air1 **** 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 PLAYER_MADE 1
+94 "Sonic Resistance 10/-" 23 13 2 **** 3 1000 cft_ess_air2 gemstone_tourmaline_black_q1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 PLAYER_MADE 1
+95 "Sonic Resistance 15/-" 23 13 3 **** 4 3000 cft_ess_air3 gemstone_tourmaline_black_q2 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 PLAYER_MADE 1
+96 "Sonic Resistance 20/-" 23 13 4 **** 5 5000 cft_ess_air4 gemstone_tourmaline_black_q3 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 PLAYER_MADE 1
 97 "Spell Resistance 14" 39 **** 2 **** 2 500 cft_ess_power2 gemstone_opal_black_q1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 **** 1
 98 "Spell Resistance 18" 39 **** 4 **** 3 1000 cft_ess_power3 gemstone_opal_black_q2 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 **** 1
 99 "Spell Resistance 22" 39 **** 6 **** 4 3000 cft_ess_power4 gemstone_opal_black_q3 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 **** 1
@@ -228,143 +228,145 @@
 224 "Bonus Feat: Spell Focus Illusion" 12 13 **** **** 1 500 **** gemstone_obsidian_rainbow_q2 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 **** 1
 225 "Bonus Feat: Spell Focus Necromancy" 12 14 **** **** 1 500 **** gemstone_chalcedony_white_q2 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 **** 1
 226 "Bonus Feat: Spell Penetration" 12 15 **** **** 2 500 **** gemstone_kuartz_white_q2 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 **** 1
-227 "Bonus Spell - Bard - Level 1" 13 1 1 **** 1 300 cft_ess_chaos1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
-228 "Bonus Spell - Bard - Level 2" 13 1 2 **** 1 300 cft_ess_chaos1 gemstone_sapphire_star_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
-229 "Bonus Spell - Bard - Level 3" 13 1 3 **** 2 500 cft_ess_chaos2 gemstone_sapphire_star_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
-230 "Bonus Spell - Bard - Level 4" 13 1 4 **** 2 500 cft_ess_chaos2 gemstone_sapphire_star_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
-231 "Bonus Spell - Bard - Level 5" 13 1 5 **** 3 1000 cft_ess_chaos3 gemstone_sapphire_star_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
-232 "Bonus Spell - Bard - Level 6" 13 1 6 **** 4 3000 cft_ess_chaos3 gemstone_sapphire_star_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
-233 "Bonus Spell - Cleric - Level 1" 13 2 1 **** 1 300 cft_ess_power1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-234 "Bonus Spell - Cleric - Level 2" 13 2 2 **** 1 300 cft_ess_power1 gemstone_sapphire_blue_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-235 "Bonus Spell - Cleric - Level 3" 13 2 3 **** 2 500 cft_ess_power2 gemstone_sapphire_blue_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-236 "Bonus Spell - Cleric - Level 4" 13 2 4 **** 2 500 cft_ess_power2 gemstone_sapphire_blue_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-237 "Bonus Spell - Cleric - Level 5" 13 2 5 **** 3 1000 cft_ess_power3 gemstone_sapphire_blue_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-238 "Bonus Spell - Cleric - Level 6" 13 2 6 **** 4 3000 cft_ess_power3 gemstone_sapphire_blue_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-239 "Bonus Spell - Druid - Level 1" 13 3 1 **** 1 300 cft_ess_life1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-240 "Bonus Spell - Druid - Level 2" 13 3 2 **** 1 300 cft_ess_life1 gemstone_chalcedony_moss_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-241 "Bonus Spell - Druid - Level 3" 13 3 3 **** 2 500 cft_ess_life2 gemstone_chalcedony_moss_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-242 "Bonus Spell - Druid - Level 4" 13 3 4 **** 2 500 cft_ess_life2 gemstone_chalcedony_moss_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-243 "Bonus Spell - Druid - Level 5" 13 3 5 **** 3 1000 cft_ess_life3 gemstone_chalcedony_moss_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-244 "Bonus Spell - Druid - Level 6" 13 3 6 **** 4 3000 cft_ess_life3 gemstone_chalcedony_moss_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-245 "Bonus Spell - Paladin - Level 1" 13 6 1 **** 1 300 cft_ess_good1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-246 "Bonus Spell - Paladin - Level 2" 13 6 2 **** 1 300 cft_ess_good1 gemstone_pearl_white_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-247 "Bonus Spell - Paladin - Level 3" 13 6 3 **** 2 500 cft_ess_good2 gemstone_pearl_white_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-248 "Bonus Spell - Paladin - Level 4" 13 6 4 **** 2 500 cft_ess_good2 gemstone_pearl_white_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-249 "Bonus Spell - Ranger - Level 1" 13 7 1 **** 1 300 cft_ess_life1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-250 "Bonus Spell - Ranger - Level 2" 13 7 2 **** 1 300 cft_ess_life1 gemstone_chalcedony_moss_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-251 "Bonus Spell - Ranger - Level 3" 13 7 3 **** 2 500 cft_ess_life2 gemstone_chalcedony_moss_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-252 "Bonus Spell - Ranger - Level 4" 13 7 4 **** 2 500 cft_ess_life2 gemstone_chalcedony_moss_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-253 "Bonus Spell - Sorcerer - Level 1" 13 9 1 **** 1 300 cft_ess_power1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
-254 "Bonus Spell - Sorcerer - Level 2" 13 9 2 **** 1 300 cft_ess_power1 gemstone_kuartz_purple_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
-255 "Bonus Spell - Sorcerer - Level 3" 13 9 3 **** 2 500 cft_ess_power2 gemstone_kuartz_purple_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
-256 "Bonus Spell - Sorcerer - Level 4" 13 9 4 **** 2 500 cft_ess_power2 gemstone_kuartz_purple_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
-257 "Bonus Spell - Sorcerer - Level 5" 13 9 5 **** 3 1000 cft_ess_power3 gemstone_kuartz_purple_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
-258 "Bonus Spell - Sorcerer - Level 6" 13 9 6 **** 4 3000 cft_ess_power3 gemstone_kuartz_purple_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
-259 "Bonus Spell - Wizard - Level 1" 13 10 1 **** 1 300 cft_ess_power1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
-260 "Bonus Spell - Wizard - Level 2" 13 10 2 **** 1 300 cft_ess_power1 gemstone_kuartz_purple_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
-261 "Bonus Spell - Wizard - Level 3" 13 10 3 **** 2 500 cft_ess_power2 gemstone_kuartz_purple_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
-262 "Bonus Spell - Wizard - Level 4" 13 10 4 **** 2 500 cft_ess_power2 gemstone_kuartz_purple_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
-263 "Bonus Spell - Wizard - Level 5" 13 10 5 **** 3 1000 cft_ess_power3 gemstone_kuartz_purple_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
-264 "Bonus Spell - Wizard - Level 6" 13 10 6 **** 4 3000 cft_ess_power3 gemstone_kuartz_purple_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
-265 "Bonus Spell - Shaman - Level 1" 13 55 1 **** 1 300 cft_ess_life1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-266 "Bonus Spell - Shaman - Level 2" 13 55 2 **** 1 300 cft_ess_life1 gemstone_chalcedony_moss_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-267 "Bonus Spell - Shaman - Level 3" 13 55 3 **** 2 500 cft_ess_life2 gemstone_chalcedony_moss_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-268 "Bonus Spell - Shaman - Level 4" 13 55 4 **** 2 500 cft_ess_life2 gemstone_chalcedony_moss_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-269 "Bonus Spell - Shaman - Level 5" 13 55 5 **** 3 1000 cft_ess_life3 gemstone_chalcedony_moss_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-270 "Bonus Spell - Shaman - Level 6" 13 55 6 **** 4 3000 cft_ess_life3 gemstone_chalcedony_moss_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
-271 "Bonus Spell - Favored Soul - Level 1" 13 58 1 **** 1 300 cft_ess_power1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-272 "Bonus Spell - Favored Soul - Level 2" 13 58 2 **** 1 300 cft_ess_power1 gemstone_sapphire_blue_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-273 "Bonus Spell - Favored Soul - Level 3" 13 58 3 **** 2 500 cft_ess_power2 gemstone_sapphire_blue_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-274 "Bonus Spell - Favored Soul - Level 4" 13 58 4 **** 2 500 cft_ess_power2 gemstone_sapphire_blue_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-275 "Bonus Spell - Favored Soul - Level 5" 13 58 5 **** 3 1000 cft_ess_power3 gemstone_sapphire_blue_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-276 "Bonus Spell - Favored Soul - Level 6" 13 58 6 **** 4 3000 cft_ess_power3 gemstone_sapphire_blue_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
-277 "Bonus Feat: Lingering Song" 12 173 **** **** 1 500 **** gemstone_beryl_green_q2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 0 **** 1
-278 "Bonus Feat: Curse Song" 12 168 **** **** 2 500 cft_ess_death1 gemstone_chalcedony_silver_q2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 0 CL_BARD 1
-279 "Fairy Fire 1/Charge" 15 780 6 **** 1 300 **** gemstone_kuartz_white_q1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 **** 1
-280 "Bonus Feat: Cleave" 12 2 **** **** 2 500 cft_ess_power1 gemstone_obsidian_rainbow_q1 1 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 **** 1
-281 "Bonus Feat: Power Attack" 12 16 **** **** 1 500 **** gemstone_obsidian_rainbow_q1 1 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 **** 1
-282 "Bonus Feat: Two Weapon Fighting" 12 17 **** **** 1 500 **** gemstone_kuartz_green_q1 1 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 **** 1
-283 "Bonus Feat: Two Weapon Defense" 12 192 **** **** 2 500 **** gemstone_kuartz_green_q2 1 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 **** 1
-284 "Bonus Feat: Guild Sneak Attack +1d6" 12 439 **** **** 2 500 **** gemstone_chalcedony_red_q2 1 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 **** 1
-285 "Bonus Feat: Artist" 12 41 **** **** 1 500 **** gemstone_kuartz_green_q1 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 **** 1
-286 "Bonus Feat: Blooded" 12 42 **** **** 1 500 **** gemstone_garnet_green_q1 0 0 0 0 0 1 1 0 1 1 0 1 0 0 0 0 **** 1
-287 "Bonus Feat: Bullheaded" 12 43 **** **** 1 500 **** gemstone_garnet_orange_q1 0 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 **** 1
-288 "Bonus Feat: Improved Initiative" 12 84 **** **** 1 500 **** gemstone_kuartz_green_q1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 **** 1
-289 "Bonus Feat: Toughness" 12 92 **** **** 3 1000 **** gemstone_pearl_black_q1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 **** 1
-290 "Bonus Feat: Arcane Defense Abjuration" 12 102 **** **** 1 500 **** gemstone_kuartz_purple_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
-291 "Bonus Feat: Arcane Defense Conjuration" 12 103 **** **** 1 500 **** gemstone_kuartz_white_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
-292 "Bonus Feat: Arcane Defense Divination" 12 104 **** **** 1 500 **** gemstone_pearl_black_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
-293 "Bonus Feat: Arcane Defense Enchantment" 12 105 **** **** 1 500 **** gemstone_kuartz_green_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
-294 "Bonus Feat: Arcane Defense Evocation" 12 106 **** **** 1 500 **** gemstone_opal_red_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
-295 "Bonus Feat: Arcane Defense Illusion" 12 107 **** **** 1 500 **** gemstone_obsidian_rainbow_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
-296 "Bonus Feat: Arcane Defense Necromancy" 12 108 **** **** 1 500 **** gemstone_chalcedony_white_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
-297 "Bonus Feat: Arcane Defense Transmutation" 12 109 **** **** 1 500 **** gemstone_pearl_white_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
-298 "Bonus Feat: Track" 12 191 **** **** 1 500 **** gemstone_chalcedony_moss_q1 1 0 0 0 0 1 1 0 1 1 0 0 1 0 0 0 **** 1
-299 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** 0
-300 "Armor Bonus +7 vs Chaos" 2 3 7 **** 3 5000 cft_ess_power4 gemstone_opal_black_q2 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 **** 0
-301 "Armor Bonus +7 vs. Law" 2 2 7 **** 3 5000 cft_ess_power4 gemstone_sapphire_white_q2 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 **** 0
-302 "Spell Immunity: Fireball" 53 **** 53 **** 2 1000 cft_ess_fire2 gemstone_tourmaline_red_q1 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 **** 0
-303 "Spell Immunity: Fire Storm" 53 **** 52 **** 2 1000 cft_ess_fire2 gemstone_tourmaline_red_q1 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 **** 0
-304 "Spell Immunity: Flame Arrow" 53 **** 54 **** 1 1000 cft_ess_fire2 gemstone_tourmaline_red_q1 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 **** 0
-305 "Spell Immunity: Flame Strike" 53 **** 56 **** 2 1000 cft_ess_fire2 gemstone_tourmaline_red_q1 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 **** 0
-306 "Spell Immunity: Combust" 53 **** 227 **** 2 1000 cft_ess_fire2 gemstone_tourmaline_red_q1 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 **** 0
-307 "Saving Throw (Universal) +1" 40 0 1 **** 1 500 **** **** 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 **** 0
-308 "Saving Throw (Universal) +2" 40 0 2 **** 2 1000 **** **** 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 **** 0
-309 "Saving Throw (Universal) +3" 40 0 3 **** 3 500 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 **** 0
-310 "Saving Throw (Universal) +4" 40 0 4 **** 4 500 **** **** 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 **** 0
-311 "Saving Throw (Universal) +5" 40 0 5 **** 5 500 **** **** 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 **** 0
-312 "Massive Criticals +4d6" 74 **** 53 **** 3 1000 cft_ess_fire1 gemstone_zircon_white_q2 1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 **** 0
-313 "Animate Dead 1/Charge" 15 4 6 **** 3 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-314 "Arc of Lightning 1/Charge" 15 710 6 **** 4 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-315 "Assay Resistance 1/Charge" 15 541 6 **** 4 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-316 "Aura of Vitality 1/Charge" 15 321 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-317 "Avasculate 1/Charge" 15 647 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-318 "Awaken 1/Charge" 15 303 6 **** 5 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-319 "Balagarns Iron Horn 1/Charge" 15 367 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 CL_ARCANE 0
-320 "Bane 1/Charge" 15 380 6 **** 1 500 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 CL_DIVINE 0
-321 "Barkskin 1/Charge" 15 7 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-322 "Battletide 1/Charge" 15 455 6 **** 5 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 CL_DIVINE 0
-323 "Bear's Endurance 1/Charge" 15 97 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-324 "Bestow Curse 1/Charge" 15 8 6 **** 3 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-325 "Blade Barrier 1/Charge" 15 10 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-326 "Bladeweave 1/Charge" 15 712 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-327 "Blades of Fire 1/Charge" 15 711 6 **** 1 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-328 "Bless 1/Charge" 15 11 6 **** 1 500 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-329 "Blindness/Deafness 1/Charge" 15 14 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-330 "Blood to Water 1/Charge" 15 713 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-331 "Bodak's Glare 1/Charge" 15 714 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-332 "Body of the Sun 1/Charge" 15 502 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-333 "Bombardment 1/Charge" 15 354 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-334 "Bull's Strength 1/Charge" 15 17 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-335 "Burning Hands 1/Charge" 15 19 6 **** 1 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-336 "Cacophonic Burst 1/Charge" 15 650 6 **** 5 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-337 "Call Lightning 1/Charge" 15 21 6 **** 3 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-338 "Camouflage 1/Charge" 15 352 6 **** 1 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-339 "Cat's Grace 1/Charge" 15 27 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-340 "Cause Fear 1/Charge" 15 241 6 **** 1 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-341 "Chain Lightning 1/Charge" 15 30 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-342 "Charm Monster 1/Charge" 15 32 6 **** 4 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-343 "Circle of Death 1/Charge" 15 39 6 **** 5 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-344 "Clairaudience / Clairvoyance 1/Charge" 15 45 6 **** 3 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-345 "Cloud of Bewilderment 1/Charge" 15 486 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-346 "Cloudkill 1/Charge" 15 48 6 **** 5 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-347 "Color Spray 1/Charge" 15 49 6 **** 1 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-348 "Combust 1/Charge" 15 456 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-349 "Cone of Cold 1/Charge" 15 51 6 **** 5 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-350 "Confusion 1/Charge" 15 53 6 **** 4 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-351 "Contagion 1/Charge" 15 54 6 **** 3 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
-352 "Unique On Use" 15 335 13 **** 1 1000 cft_ess_power1 gemstone_opal_white_q1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
-353 "Bonus Feat: Combat Expertise" 12 44 **** **** 3 500 **** gemstone_obsidian_rainbow_q2 1 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 **** 0
-354 "Knock 1/Charge" 15 154 6 **** 1 500 cft_ess_water1 gemstone_opal_black_q1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 CL_ARCANE 0
-355 "Attack Bonus +1" 56 **** 1 **** 0 300 **** **** 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
-356 "Attack Bonus +2" 56 **** 2 **** 0 500 cft_ess_power1 **** 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
-357 "Attack Bonus +3" 56 **** 3 **** 1 1000 cft_ess_power2 gemstone_diamond_white_q1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
-358 "Attack Bonus +4" 56 **** 4 **** 2 3000 cft_ess_power3 gemstone_diamond_white_q2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
-359 "Attack Bonus +5" 56 **** 5 **** 3 5000 cft_ess_power4 gemstone_diamond_white_q3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
-360 "Skill: Craft Weapon +5" 52 26 5 **** 1 500 **** gemstone_topaz_yellow_q1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 **** 0
-361 "Skill: Craft Armor +5" 52 25 5 **** 1 500 **** gemstone_topaz_yellow_q1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 **** 0
-362 "Skill: Craft Alchemy +5" 52 27 5 **** 1 500 **** gemstone_garnet_green_q1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 **** 0
-363 "Level Drain 25% / 1 rnds @ 16 DC" 48 17 1 13 1 500 cft_ess_death1 gemstone_chalcedony_white_q1 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 **** 0
-364 "Level Drain 25% / 2 rnds @ 20 DC" 48 17 3 14 2 1000 cft_ess_death2 gemstone_chalcedony_white_q2 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 **** 0
-365 "Level Drain 25% / 3 rnds @ 24 DC" 48 17 5 2 3 3000 cft_ess_death3 gemstone_chalcedony_white_q3 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 **** 0
-366 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** 0
+227 "Bonus Feat: Weap Prof Martial" 12 22 **** **** 2 1000 **** gemstone_zircon_red_q2 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 **** 1
+228 "Bonus Feat: Weap Prof  Exotic" 12 21 **** **** 3 2000 **** gemstone_zircon_red_q3 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 **** 1
+229 "Bonus Spell - Bard - Level 1" 13 1 1 **** 1 300 cft_ess_chaos1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
+230 "Bonus Spell - Bard - Level 2" 13 1 2 **** 1 300 cft_ess_chaos1 gemstone_sapphire_star_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
+231 "Bonus Spell - Bard - Level 3" 13 1 3 **** 2 500 cft_ess_chaos2 gemstone_sapphire_star_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
+232 "Bonus Spell - Bard - Level 4" 13 1 4 **** 2 500 cft_ess_chaos2 gemstone_sapphire_star_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
+233 "Bonus Spell - Bard - Level 5" 13 1 5 **** 3 1000 cft_ess_chaos3 gemstone_sapphire_star_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
+234 "Bonus Spell - Bard - Level 6" 13 1 6 **** 4 3000 cft_ess_chaos3 gemstone_sapphire_star_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
+235 "Bonus Spell - Cleric - Level 1" 13 2 1 **** 1 300 cft_ess_power1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+236 "Bonus Spell - Cleric - Level 2" 13 2 2 **** 1 300 cft_ess_power1 gemstone_sapphire_blue_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+237 "Bonus Spell - Cleric - Level 3" 13 2 3 **** 2 500 cft_ess_power2 gemstone_sapphire_blue_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+238 "Bonus Spell - Cleric - Level 4" 13 2 4 **** 2 500 cft_ess_power2 gemstone_sapphire_blue_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+239 "Bonus Spell - Cleric - Level 5" 13 2 5 **** 3 1000 cft_ess_power3 gemstone_sapphire_blue_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+240 "Bonus Spell - Cleric - Level 6" 13 2 6 **** 4 3000 cft_ess_power3 gemstone_sapphire_blue_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+241 "Bonus Spell - Druid - Level 1" 13 3 1 **** 1 300 cft_ess_life1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+242 "Bonus Spell - Druid - Level 2" 13 3 2 **** 1 300 cft_ess_life1 gemstone_chalcedony_moss_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+243 "Bonus Spell - Druid - Level 3" 13 3 3 **** 2 500 cft_ess_life2 gemstone_chalcedony_moss_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+244 "Bonus Spell - Druid - Level 4" 13 3 4 **** 2 500 cft_ess_life2 gemstone_chalcedony_moss_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+245 "Bonus Spell - Druid - Level 5" 13 3 5 **** 3 1000 cft_ess_life3 gemstone_chalcedony_moss_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+246 "Bonus Spell - Druid - Level 6" 13 3 6 **** 4 3000 cft_ess_life3 gemstone_chalcedony_moss_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+247 "Bonus Spell - Paladin - Level 1" 13 6 1 **** 1 300 cft_ess_good1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+248 "Bonus Spell - Paladin - Level 2" 13 6 2 **** 1 300 cft_ess_good1 gemstone_pearl_white_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+249 "Bonus Spell - Paladin - Level 3" 13 6 3 **** 2 500 cft_ess_good2 gemstone_pearl_white_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+250 "Bonus Spell - Paladin - Level 4" 13 6 4 **** 2 500 cft_ess_good2 gemstone_pearl_white_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+251 "Bonus Spell - Ranger - Level 1" 13 7 1 **** 1 300 cft_ess_life1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+252 "Bonus Spell - Ranger - Level 2" 13 7 2 **** 1 300 cft_ess_life1 gemstone_chalcedony_moss_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+253 "Bonus Spell - Ranger - Level 3" 13 7 3 **** 2 500 cft_ess_life2 gemstone_chalcedony_moss_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+254 "Bonus Spell - Ranger - Level 4" 13 7 4 **** 2 500 cft_ess_life2 gemstone_chalcedony_moss_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+255 "Bonus Spell - Sorcerer - Level 1" 13 9 1 **** 1 300 cft_ess_power1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
+256 "Bonus Spell - Sorcerer - Level 2" 13 9 2 **** 1 300 cft_ess_power1 gemstone_kuartz_purple_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
+257 "Bonus Spell - Sorcerer - Level 3" 13 9 3 **** 2 500 cft_ess_power2 gemstone_kuartz_purple_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
+258 "Bonus Spell - Sorcerer - Level 4" 13 9 4 **** 2 500 cft_ess_power2 gemstone_kuartz_purple_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
+259 "Bonus Spell - Sorcerer - Level 5" 13 9 5 **** 3 1000 cft_ess_power3 gemstone_kuartz_purple_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
+260 "Bonus Spell - Sorcerer - Level 6" 13 9 6 **** 4 3000 cft_ess_power3 gemstone_kuartz_purple_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
+261 "Bonus Spell - Wizard - Level 1" 13 10 1 **** 1 300 cft_ess_power1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
+262 "Bonus Spell - Wizard - Level 2" 13 10 2 **** 1 300 cft_ess_power1 gemstone_kuartz_purple_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
+263 "Bonus Spell - Wizard - Level 3" 13 10 3 **** 2 500 cft_ess_power2 gemstone_kuartz_purple_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
+264 "Bonus Spell - Wizard - Level 4" 13 10 4 **** 2 500 cft_ess_power2 gemstone_kuartz_purple_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
+265 "Bonus Spell - Wizard - Level 5" 13 10 5 **** 3 1000 cft_ess_power3 gemstone_kuartz_purple_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
+266 "Bonus Spell - Wizard - Level 6" 13 10 6 **** 4 3000 cft_ess_power3 gemstone_kuartz_purple_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_ARCANE 1
+267 "Bonus Spell - Shaman - Level 1" 13 55 1 **** 1 300 cft_ess_life1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+268 "Bonus Spell - Shaman - Level 2" 13 55 2 **** 1 300 cft_ess_life1 gemstone_chalcedony_moss_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+269 "Bonus Spell - Shaman - Level 3" 13 55 3 **** 2 500 cft_ess_life2 gemstone_chalcedony_moss_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+270 "Bonus Spell - Shaman - Level 4" 13 55 4 **** 2 500 cft_ess_life2 gemstone_chalcedony_moss_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+271 "Bonus Spell - Shaman - Level 5" 13 55 5 **** 3 1000 cft_ess_life3 gemstone_chalcedony_moss_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+272 "Bonus Spell - Shaman - Level 6" 13 55 6 **** 4 3000 cft_ess_life3 gemstone_chalcedony_moss_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_NATURE 1
+273 "Bonus Spell - Favored Soul - Level 1" 13 58 1 **** 1 300 cft_ess_power1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+274 "Bonus Spell - Favored Soul - Level 2" 13 58 2 **** 1 300 cft_ess_power1 gemstone_sapphire_blue_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+275 "Bonus Spell - Favored Soul - Level 3" 13 58 3 **** 2 500 cft_ess_power2 gemstone_sapphire_blue_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+276 "Bonus Spell - Favored Soul - Level 4" 13 58 4 **** 2 500 cft_ess_power2 gemstone_sapphire_blue_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+277 "Bonus Spell - Favored Soul - Level 5" 13 58 5 **** 3 1000 cft_ess_power3 gemstone_sapphire_blue_q2 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+278 "Bonus Spell - Favored Soul - Level 6" 13 58 6 **** 4 3000 cft_ess_power3 gemstone_sapphire_blue_q3 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_DIVINE 1
+279 "Bonus Feat: Lingering Song" 12 173 **** **** 1 500 **** gemstone_beryl_green_q2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 0 **** 1
+280 "Bonus Feat: Curse Song" 12 168 **** **** 2 500 cft_ess_death1 gemstone_chalcedony_silver_q2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 0 CL_BARD 1
+281 "Fairy Fire 1/Charge" 15 780 6 **** 1 300 **** gemstone_kuartz_white_q1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 **** 1
+282 "Bonus Feat: Cleave" 12 2 **** **** 2 500 cft_ess_power1 gemstone_obsidian_rainbow_q1 1 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 **** 1
+283 "Bonus Feat: Power Attack" 12 16 **** **** 1 500 **** gemstone_obsidian_rainbow_q1 1 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 **** 1
+284 "Bonus Feat: Two Weapon Fighting" 12 17 **** **** 1 500 **** gemstone_kuartz_green_q1 1 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 **** 1
+285 "Bonus Feat: Two Weapon Defense" 12 192 **** **** 2 500 **** gemstone_kuartz_green_q2 1 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 **** 1
+286 "Bonus Feat: Guild Sneak Attack +1d6" 12 439 **** **** 2 500 **** gemstone_chalcedony_red_q2 1 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 **** 1
+287 "Bonus Feat: Artist" 12 41 **** **** 1 500 **** gemstone_kuartz_green_q1 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 **** 1
+288 "Bonus Feat: Blooded" 12 42 **** **** 1 500 **** gemstone_garnet_green_q1 0 0 0 0 0 1 1 0 1 1 0 1 0 0 0 0 **** 1
+289 "Bonus Feat: Bullheaded" 12 43 **** **** 1 500 **** gemstone_garnet_orange_q1 0 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 **** 1
+290 "Bonus Feat: Improved Initiative" 12 84 **** **** 1 500 **** gemstone_kuartz_green_q1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 **** 1
+291 "Bonus Feat: Toughness" 12 92 **** **** 3 1000 **** gemstone_pearl_black_q1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 **** 1
+292 "Bonus Feat: Arcane Defense Abjuration" 12 102 **** **** 1 500 **** gemstone_kuartz_purple_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
+293 "Bonus Feat: Arcane Defense Conjuration" 12 103 **** **** 1 500 **** gemstone_kuartz_white_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
+294 "Bonus Feat: Arcane Defense Divination" 12 104 **** **** 1 500 **** gemstone_pearl_black_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
+295 "Bonus Feat: Arcane Defense Enchantment" 12 105 **** **** 1 500 **** gemstone_kuartz_green_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
+296 "Bonus Feat: Arcane Defense Evocation" 12 106 **** **** 1 500 **** gemstone_opal_red_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
+297 "Bonus Feat: Arcane Defense Illusion" 12 107 **** **** 1 500 **** gemstone_obsidian_rainbow_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
+298 "Bonus Feat: Arcane Defense Necromancy" 12 108 **** **** 1 500 **** gemstone_chalcedony_white_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
+299 "Bonus Feat: Arcane Defense Transmutation" 12 109 **** **** 1 500 **** gemstone_pearl_white_q2 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 **** 1
+300 "Bonus Feat: Track" 12 191 **** **** 1 500 **** gemstone_chalcedony_moss_q1 1 0 0 0 0 1 1 0 1 1 0 0 1 0 0 0 **** 1
+301 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** 0
+302 "Armor Bonus +7 vs Chaos" 2 3 7 **** 3 5000 cft_ess_power4 gemstone_opal_black_q2 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 **** 0
+303 "Armor Bonus +7 vs. Law" 2 2 7 **** 3 5000 cft_ess_power4 gemstone_sapphire_white_q2 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 **** 0
+304 "Spell Immunity: Fireball" 53 **** 53 **** 2 1000 cft_ess_fire2 gemstone_tourmaline_red_q1 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 **** 0
+305 "Spell Immunity: Fire Storm" 53 **** 52 **** 2 1000 cft_ess_fire2 gemstone_tourmaline_red_q1 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 **** 0
+306 "Spell Immunity: Flame Arrow" 53 **** 54 **** 1 1000 cft_ess_fire2 gemstone_tourmaline_red_q1 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 **** 0
+307 "Spell Immunity: Flame Strike" 53 **** 56 **** 2 1000 cft_ess_fire2 gemstone_tourmaline_red_q1 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 **** 0
+308 "Spell Immunity: Combust" 53 **** 227 **** 2 1000 cft_ess_fire2 gemstone_tourmaline_red_q1 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0 **** 0
+309 "Saving Throw (Universal) +1" 40 0 1 **** 1 500 **** **** 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 **** 0
+310 "Saving Throw (Universal) +2" 40 0 2 **** 2 1000 **** **** 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 **** 0
+311 "Saving Throw (Universal) +3" 40 0 3 **** 3 500 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 **** 0
+312 "Saving Throw (Universal) +4" 40 0 4 **** 4 500 **** **** 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 **** 0
+313 "Saving Throw (Universal) +5" 40 0 5 **** 5 500 **** **** 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 **** 0
+314 "Massive Criticals +4d6" 74 **** 53 **** 3 1000 cft_ess_fire1 gemstone_zircon_white_q2 1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 **** 0
+315 "Animate Dead 1/Charge" 15 4 6 **** 3 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+316 "Arc of Lightning 1/Charge" 15 710 6 **** 4 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+317 "Assay Resistance 1/Charge" 15 541 6 **** 4 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+318 "Aura of Vitality 1/Charge" 15 321 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+319 "Avasculate 1/Charge" 15 647 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+320 "Awaken 1/Charge" 15 303 6 **** 5 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+321 "Balagarns Iron Horn 1/Charge" 15 367 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 CL_ARCANE 0
+322 "Bane 1/Charge" 15 380 6 **** 1 500 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 CL_DIVINE 0
+323 "Barkskin 1/Charge" 15 7 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+324 "Battletide 1/Charge" 15 455 6 **** 5 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 CL_DIVINE 0
+325 "Bear's Endurance 1/Charge" 15 97 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+326 "Bestow Curse 1/Charge" 15 8 6 **** 3 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+327 "Blade Barrier 1/Charge" 15 10 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+328 "Bladeweave 1/Charge" 15 712 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+329 "Blades of Fire 1/Charge" 15 711 6 **** 1 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+330 "Bless 1/Charge" 15 11 6 **** 1 500 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+331 "Blindness/Deafness 1/Charge" 15 14 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+332 "Blood to Water 1/Charge" 15 713 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+333 "Bodak's Glare 1/Charge" 15 714 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+334 "Body of the Sun 1/Charge" 15 502 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+335 "Bombardment 1/Charge" 15 354 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+336 "Bull's Strength 1/Charge" 15 17 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+337 "Burning Hands 1/Charge" 15 19 6 **** 1 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+338 "Cacophonic Burst 1/Charge" 15 650 6 **** 5 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+339 "Call Lightning 1/Charge" 15 21 6 **** 3 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+340 "Camouflage 1/Charge" 15 352 6 **** 1 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+341 "Cat's Grace 1/Charge" 15 27 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+342 "Cause Fear 1/Charge" 15 241 6 **** 1 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+343 "Chain Lightning 1/Charge" 15 30 6 **** 6 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+344 "Charm Monster 1/Charge" 15 32 6 **** 4 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+345 "Circle of Death 1/Charge" 15 39 6 **** 5 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+346 "Clairaudience / Clairvoyance 1/Charge" 15 45 6 **** 3 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+347 "Cloud of Bewilderment 1/Charge" 15 486 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+348 "Cloudkill 1/Charge" 15 48 6 **** 5 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+349 "Color Spray 1/Charge" 15 49 6 **** 1 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+350 "Combust 1/Charge" 15 456 6 **** 2 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+351 "Cone of Cold 1/Charge" 15 51 6 **** 5 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+352 "Confusion 1/Charge" 15 53 6 **** 4 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+353 "Contagion 1/Charge" 15 54 6 **** 3 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
+354 "Unique On Use" 15 335 13 **** 1 1000 cft_ess_power1 gemstone_opal_white_q1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
+355 "Bonus Feat: Combat Expertise" 12 44 **** **** 3 500 **** gemstone_obsidian_rainbow_q2 1 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 **** 0
+356 "Knock 1/Charge" 15 154 6 **** 1 500 cft_ess_water1 gemstone_opal_black_q1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 CL_ARCANE 0
+357 "Attack Bonus +1" 56 **** 1 **** 0 300 **** **** 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
+358 "Attack Bonus +2" 56 **** 2 **** 0 500 cft_ess_power1 **** 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
+359 "Attack Bonus +3" 56 **** 3 **** 1 1000 cft_ess_power2 gemstone_diamond_white_q1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
+360 "Attack Bonus +4" 56 **** 4 **** 2 3000 cft_ess_power3 gemstone_diamond_white_q2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
+361 "Attack Bonus +5" 56 **** 5 **** 3 5000 cft_ess_power4 gemstone_diamond_white_q3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
+362 "Skill: Craft Weapon +5" 52 26 5 **** 1 500 **** gemstone_topaz_yellow_q1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 **** 0
+363 "Skill: Craft Armor +5" 52 25 5 **** 1 500 **** gemstone_topaz_yellow_q1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 **** 0
+364 "Skill: Craft Alchemy +5" 52 27 5 **** 1 500 **** gemstone_garnet_green_q1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 **** 0
+365 "Level Drain 25% / 1 rnds @ 16 DC" 48 17 1 13 1 500 cft_ess_death1 gemstone_chalcedony_white_q1 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 **** 0
+366 "Level Drain 25% / 2 rnds @ 20 DC" 48 17 3 14 2 1000 cft_ess_death2 gemstone_chalcedony_white_q2 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 **** 0
+367 "Level Drain 25% / 3 rnds @ 24 DC" 48 17 5 2 3 3000 cft_ess_death3 gemstone_chalcedony_white_q3 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 **** 0
+368 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** 0
