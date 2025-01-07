@@ -94,7 +94,7 @@
 90 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 91 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 92 VFX_RADIANT_LIGHT C 4 **** **** ps_srr_radiantlightA **** **** 0 0 **** **** **** **** **** 1
-93 VFX_LIGHT C 6.7 **** **** nw_s2_lighta nw_s2_lightb **** 0 1 1 **** **** **** **** 1
+93 VFX_LIGHT C 6.7 **** **** nw_s2_lighta nw_s2_lightb **** 0 0 148 **** **** **** **** 1
 94 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 95 VFX_PER_HALLUCINATORY_TERRAIN C 9.14 **** **** scod_s_hallucinatory_one scod_s_hallucinatory_onex **** 0 1 910 sfx_hitarea_conjuration **** sfx_hit_conjuration sp_entangle_aoe.sef 1
 96 VFX_PER_HUNGRYDARKNESS C 6.7 **** **** scod_s_hgrydarkness_one scod_s_hgrydarkness_onex scod_s_hgrydarkness_hrt 0 1 1 **** **** **** **** 1
