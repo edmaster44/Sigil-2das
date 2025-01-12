@@ -228,8 +228,8 @@
 224 "Bonus Feat: Spell Focus Illusion" 12 13 **** **** 1 500 **** gemstone_obsidian_rainbow_q2 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 **** 1
 225 "Bonus Feat: Spell Focus Necromancy" 12 14 **** **** 1 500 **** gemstone_chalcedony_white_q2 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 **** 1
 226 "Bonus Feat: Spell Penetration" 12 15 **** **** 2 500 **** gemstone_kuartz_white_q2 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 **** 1
-227 "Bonus Feat: Weap Prof Martial" 12 22 **** **** 3 1000 **** gemstone_zircon_red_q2 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 **** 0
-228 "Bonus Feat: Weap Prof  Exotic" 12 21 **** **** 3 2000 **** gemstone_zircon_red_q3 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 **** 0
+227 "Bonus Feat: Weap Prof Martial" 12 22 **** **** 1 1000 **** gemstone_zircon_red_q2 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 **** 0
+228 "Bonus Feat: Weap Prof  Exotic" 12 21 **** **** 1 2000 **** gemstone_zircon_red_q3 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 **** 0
 229 "Bonus Spell - Bard - Level 1" 13 1 1 **** 1 300 cft_ess_chaos1 **** 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
 230 "Bonus Spell - Bard - Level 2" 13 1 2 **** 1 300 cft_ess_chaos1 gemstone_sapphire_star_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
 231 "Bonus Spell - Bard - Level 3" 13 1 3 **** 2 500 cft_ess_chaos2 gemstone_sapphire_star_q1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 CL_BARD 1
