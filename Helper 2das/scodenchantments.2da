@@ -137,7 +137,7 @@
 133 "Ability: Wisdom +5" 0 4 5 **** 5 5000 cft_ess_earth4 gemstone_beryl_pink_q3 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 PLAYER_MADE_ONLY_FOR_RINGS 1
 134 "Saving Throw (Reflex) +4" 41 3 4 **** 1 500 cft_ess_power1 gemstone_feldspar_black_q1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 **** 1
 135 "Saving Throw (Fortitude) +4" 41 1 4 **** 1 500 cft_ess_power1 gemstone_chalcedony_blood_q1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 **** 1
-136 "Saving Throw (Will) +4" 41 2 4 **** 1 500 cft_ess_power1 gemstone_feldspar_white_q1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 **** 1
+136 "Saving Throw (Will) +4" 41 2 4 **** 1 500 cft_ess_power1 gemstone_feldspar_white_q1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 **** 1
 137 "Skill: Bluff +5" 52 23 5 **** 1 500 **** gemstone_garnet_orange_q1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 **** 1
 138 "Skill: Bluff +10" 52 23 10 **** 2 1000 **** gemstone_garnet_orange_q2 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 **** 1
 139 "Skill: Concentration +5" 52 1 5 **** 1 500 **** gemstone_topaz_white_q1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 **** 1
