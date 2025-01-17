@@ -217,7 +217,7 @@
 213 "Bonus Feat: Extra Rage" 12 200 **** **** 1 500 **** gemstone_zircon_red_q2 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 **** 1
 214 "Bonus Feat: Extra Turning" 12 5 **** **** 1 500 **** gemstone_jade_green_q2 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 **** 1
 215 "Bonus Feat: Extra Wild Shape" 12 201 **** **** 1 500 **** gemstone_garnet_green_q2 0 0 0 0 0 1 1 0 1 1 0 1 0 0 0 0 **** 1
-216 "Bonus Feat: Fast Movement" 12 528 **** **** 1 3000 cft_ess_air3 gemstone_topaz_yellow_q3 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 **** 1
+216 "Bonus Feat: Fast Movement" 12 528 **** **** 2 3000 cft_ess_air3 gemstone_topaz_yellow_q3 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 **** 1
 217 "Bonus Feat: Point Blank Shot" 12 7 **** **** 2 500 **** gemstone_topaz_brown_q2 0 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 **** 1
 218 "Bonus Feat: Rapid Reload" 12 89 **** **** 2 500 **** gemstone_topaz_brown_q2 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 PLAYERMADE_XBOW_BRACER_GLOVE 1
 219 "Bonus Feat: Spell Focus Abjuration" 12 8 **** **** 1 500 **** gemstone_kuartz_purple_q2 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 **** 1
