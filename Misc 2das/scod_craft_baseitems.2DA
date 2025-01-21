@@ -87,7 +87,7 @@
 83 Lyre 128 M ps_music_lyre 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u **** ****
 84 Mace 9 W nw_wblml001 10 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC mace **** ****
 85 "Mace, War, Large" 126 W nw_wdbma001 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC mace **** ****
-86 "Mace, War, Huge" 153 W nw_wdbma001 100 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC mace **** ****
+86 "Mace, War, Huge" 153 W ps_giantwarmace 100 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC mace **** ****
 87 Maul 87 W ps_maul 40 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_wham **** ****
 88 "Miscellaneous Item" 24 M ps_crft_basemisc 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER it_qi **** ****
 89 Morningstar 47 W nw_wblms001 16 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_m **** ****
