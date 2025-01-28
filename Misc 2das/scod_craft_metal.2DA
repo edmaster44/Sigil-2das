@@ -23,7 +23,7 @@
 19 Mindsilver ps_crft_ing_ms 2 9 18 16 5 6 **** 2 6 12 695 **** **** 1 **** 0 0
 20 "Mithral (Sigilian)" ps_golem_mithral 2 44 20 43 **** **** **** 0 5 **** **** **** **** 1 _mth 0 0
 21 Morguth-Iron ps_cfrt_ing_gm 4 10 21 17 4 8 **** 1 5 2 4 7 **** 5 **** 0 0
-22 Oerthblood ps_crft_ing_ob 2 11 24 16 10 12 **** 1 **** **** **** **** **** 3 _ob 0 0
+22 Oerthblood ps_crft_ing_ob 2 11 24 16 10 12 **** 1 **** 40 0 3 **** 3 **** 0 0
 23 "Pandemonic Silver" ps_cfrt_ing_pd 4 12 21 17 2 8 **** 1 6 2 2 7 **** 4 **** 0 0
 24 "Pure Adamantine" ps_crft_ing_ada 2 43 20 16 5 2 **** 1 1 **** **** **** **** 6 _ada 0 0
 25 Platinum ps_crft_pm_platinum 2 19 4 21 2 **** **** 0 **** 28 2 2 **** 0 **** 1 0

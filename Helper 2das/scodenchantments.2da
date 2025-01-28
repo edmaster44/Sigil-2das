@@ -203,11 +203,11 @@
 199 "Melf's Acid Arrow 1/Charge" 15 186 6 **** 2 500 cft_ess_earth1 gemstone_tourmaline_green_q1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 CL_ARCANE 1
 200 "Protection From Alignment 1/Charge" 15 285 6 **** 2 500 cft_ess_power1 gemstone_jade_green_q1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 CL_DIVINE 1
 201 "See Invisibility 1/Charge" 15 243 6 **** 2 500 cft_ess_power1 gemstone_topaz_brown_q1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 CL_ARCANE 1
-202 "Mighty +1" 45 **** 1 **** 1 300 cft_ess_earth1 **** 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 1
-203 "Mighty +2" 45 **** 2 **** 2 500 cft_ess_earth2 **** 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 1
-204 "Mighty +3" 45 **** 3 **** 3 1000 cft_ess_earth2 gemstone_beryl_blue_q1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 1
-205 "Mighty +4" 45 **** 4 **** 4 3000 cft_ess_earth3 gemstone_beryl_blue_q2 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 1
-206 "Mighty +5" 45 **** 5 **** 5 5000 cft_ess_earth4 gemstone_beryl_blue_q3 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 1
+202 "Mighty +1" 45 **** 1 **** 1 300 cft_ess_earth1 **** 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 NO_SLINGS 1
+203 "Mighty +2" 45 **** 2 **** 2 500 cft_ess_earth2 **** 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 NO_SLINGS 1
+204 "Mighty +3" 45 **** 3 **** 3 1000 cft_ess_earth2 gemstone_beryl_blue_q1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 NO_SLINGS 1
+205 "Mighty +4" 45 **** 4 **** 4 3000 cft_ess_earth3 gemstone_beryl_blue_q2 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 NO_SLINGS 1
+206 "Mighty +5" 45 **** 5 **** 5 5000 cft_ess_earth4 gemstone_beryl_blue_q3 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 NO_SLINGS 1
 207 "Massive Criticals +2d4" 74 **** 12 **** 1 500 **** gemstone_zircon_white_q1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 **** 1
 208 "Massive Criticals +3d6" 74 **** 60 **** 2 1000 cft_ess_fire1 gemstone_zircon_white_q2 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 **** 1
 209 "Bonus Feat: Alertness" 12 0 **** **** 1 500 **** gemstone_topaz_brown_q2 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 **** 1
@@ -360,7 +360,7 @@
 356 "Confusion 1/Charge" 15 53 6 **** 4 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
 357 "Contagion 1/Charge" 15 54 6 **** 3 1000 cft_ess_power1 gemstone_opal_white_q1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 **** 0
 358 "Unique On Use" 15 335 13 **** 1 1000 cft_ess_power1 gemstone_opal_white_q1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
-359 "Bonus Feat: Combat Expertise" 12 44 **** **** 3 500 **** gemstone_obsidian_rainbow_q2 1 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 **** 0
+359 "Bonus Feat: Combat Expertise" 12 44 **** **** 1 500 cft_ess_power1 gemstone_obsidian_rainbow_q2 1 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 **** 1
 360 "Knock 1/Charge" 15 154 6 **** 1 500 cft_ess_water1 gemstone_opal_black_q1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 CL_ARCANE 0
 361 "Attack Bonus +1" 56 **** 1 **** 0 300 **** **** 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0
 362 "Attack Bonus +2" 56 **** 2 **** 0 500 cft_ess_power1 **** 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 **** 0

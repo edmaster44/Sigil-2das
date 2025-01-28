@@ -6,11 +6,11 @@
 2 "Chimera Hide" ps_crft_chimera 2 54 18 48 5 5 2 1 **** 40 11 4 **** **** 0 45 **** 2 **** 1
 3 Demonscale ps_crft_demonscale 2 28 22 17 2 8 **** 1 20 **** **** **** **** 2 _dem 17 2 8 **** 1
 4 Devilscale ps_crft_devilscale 2 29 22 17 3 8 **** 1 20 **** **** **** **** 2 _dev 17 3 8 **** 1
-5 "Dragon Hide: Black" ps_crft_dragonhide_blk 2 22 18 16 6 12 **** 1 9 23 6 4 **** 3 **** 45 **** 10 **** 5
-6 "Dragon Hide: Blue" ps_crft_dragonhide_blu 2 23 18 16 9 12 **** 1 9 23 9 4 **** 3 **** 45 **** 10 **** 5
-7 "Dragon Hide: Green" ps_crft_dragonhide_grn 2 26 18 48 19 5 2 3 9 12 643 **** **** 3 **** 45 **** 10 **** 5
-8 "Dragon Hide: Red" ps_crft_dragonhide_red 2 24 18 16 10 12 **** 1 9 23 10 4 **** 3 **** 45 **** 10 **** 5
-9 "Dragon Hide: White" ps_crft_dragonhide_wht 2 25 18 16 7 12 **** 1 9 23 7 4 **** 3 **** 45 **** 10 **** 5
+5 "Dragon Hide: Black" ps_crft_dragonhide_blk 2 22 18 16 6 12 **** 1 9 23 6 4 **** 3 **** 16 2 7 **** 2
+6 "Dragon Hide: Blue" ps_crft_dragonhide_blu 2 23 18 16 9 12 **** 1 9 23 9 4 **** 3 **** 16 2 7 **** 2
+7 "Dragon Hide: Green" ps_crft_dragonhide_grn 2 26 18 48 19 5 2 3 9 12 643 **** **** 3 **** 16 2 7 **** 2
+8 "Dragon Hide: Red" ps_crft_dragonhide_red 2 24 18 16 10 12 **** 1 9 23 10 4 **** 3 **** 16 2 7 **** 2
+9 "Dragon Hide: White" ps_crft_dragonhide_wht 2 25 18 16 7 12 **** 1 9 23 7 4 **** 3 **** 16 2 7 **** 2
 10 "Flesh Golem Hide" ps_crft_fleshgolem 2 57 22 17 4 8 **** 1 1 **** **** **** **** 6 _gol 17 4 8 **** 1
 11 "Manticore Hide" ps_crft_manticore 2 61 18 16 1 8 **** 3 **** 12 528 **** **** 1 **** 45 **** 4 **** 2
 12 "Ophidian Hide" ps_crft_ophidian 2 30 17 16 6 6 **** 0 10 12 142 **** **** 0 **** 16 6 6 **** 0
