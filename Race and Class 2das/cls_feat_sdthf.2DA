@@ -85,9 +85,9 @@
 81 WeapFocDMace 125 1 -1 0
 82 WeapFocDAxe 126 1 -1 0
 83 WeapFoc2Sw 127 1 -1 0
-84 padding **** 0 **** 0
-85 padding **** 0 **** 0
-86 padding **** 0 **** 0
+84 FEAT_WEAPON_FOCUS_MAUL 3219 1 -1 0
+85 FEAT_WEAPON_FOCUS_ODACHI 3239 1 -1 0
+86 FEAT_WEAPON_FOCUS_NINJATO 3249 1 -1 0
 87 padding **** 0 **** 0
 88 padding **** 0 **** 0
 89 padding **** 0 **** 0
@@ -124,4 +124,3 @@
 120 padding **** 0 **** 0
 121 padding **** 0 **** 0
 122 padding **** 0 **** 0
-123 padding **** 0 **** 0
