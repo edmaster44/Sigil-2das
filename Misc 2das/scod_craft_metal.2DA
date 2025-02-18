@@ -25,7 +25,7 @@
 21 Morguth-Iron ps_cfrt_ing_gm 4 10 21 17 4 8 **** 1 5 2 4 7 **** 5 **** 0 0
 22 Oerthblood ps_crft_ing_ob 2 11 24 16 10 12 **** 1 **** 40 0 3 **** 3 **** 0 0
 23 "Pandemonic Silver" ps_cfrt_ing_pd 4 12 21 17 2 8 **** 1 6 2 2 7 **** 4 **** 0 0
-24 "Pure Adamantine" ps_crft_ing_ada 2 43 20 16 5 2 **** 1 1 **** **** **** **** 6 _ada 0 0
+24 "Pure Adamantine" ps_crft_ing_ada 2 43 20 16 5 2 **** 1 1 **** **** **** **** 2 _ada 0 0
 25 Platinum ps_crft_pm_platinum 2 19 4 21 2 **** **** 0 **** 28 2 2 **** 0 **** 1 0
 26 Riverine ps_crft_ing_rv 2 13 18 16 7 12 **** 1 **** **** **** **** **** 0 _riv 0 0
 27 Silver ps_crft_pm_silver 0 63 4 21 1 **** **** 0 6 28 2 2 **** 0 **** 1 0
