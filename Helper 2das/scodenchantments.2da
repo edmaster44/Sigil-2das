@@ -105,8 +105,8 @@
 101 "Spell Resistance 14" 39 **** 2 **** 2 500 cft_ess_power2 gemstone_opal_black_q1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 **** 1
 102 "Spell Resistance 18" 39 **** 4 **** 3 1000 cft_ess_power3 gemstone_opal_black_q2 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 **** 1
 103 "Spell Resistance 22" 39 **** 6 **** 4 3000 cft_ess_power4 gemstone_opal_black_q3 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 **** 1
-104 "Regen +1" 51 **** 1 **** 3 1000 cft_ess_life2 gemstone_feldspar_yellow_q1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 **** 1
-105 "Regen +2" 51 **** 2 **** 5 5000 cft_ess_life4 gemstone_feldspar_yellow_q3 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 **** 1
+104 "Regen +1" 51 **** 1 **** 2 1000 cft_ess_life2 gemstone_feldspar_yellow_q1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 **** 1
+105 "Regen +2" 51 **** 2 **** 4 5000 cft_ess_life4 gemstone_feldspar_yellow_q3 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 **** 1
 106 "50% Reduced Weight" 11 **** 6 **** 0 300 cft_ess_air1 **** 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 **** 1
 107 "99% Reduced Weight" 11 **** 8 **** 1 500 cft_ess_air2 gemstone_chalcedony_moss_q1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 **** 1
 108 "Ability: Charisma +1" 0 5 1 **** 1 300 cft_ess_water1 **** 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 **** 1
