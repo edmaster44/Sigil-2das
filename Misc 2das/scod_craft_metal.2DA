@@ -8,7 +8,7 @@
 4 "Alchemic Platinum" ps_crft_ing_ap 2 1 18 16 9 12 **** 1 5 **** **** **** **** 0 _plat 0 0
 5 "Alchemic Silver" n2_crft_ingsilver 2 20 4 8 23 2 **** 0 6 40 5 2 **** **** **** 0 0
 6 "Astral Driftmetal" ps_crft_ing_asdrift 2 53 18 74 **** 53 **** 2 6 4 30 7 **** 3 **** 0 0
-7 Aurorum ps_crft_ing_au 6 2 14 16 13 12 **** 2 **** 51 **** 2 **** 4 **** 0 0
+7 Aurorum ps_crft_ing_au 6 2 14 16 13 12 **** 2 **** 51 **** 2 **** 3 **** 0 0
 8 "Axiomatic Brass" ps_cfrt_ing_ab 4 3 21 17 3 8 **** 1 2 2 3 7 **** 4 **** 0 0
 9 "Blood Glass" ps_cfrt_ing_bg 3 4 18 16 2 8 **** 3 1 23 10 4 **** 3 **** 0 0
 10 Brass ps_golem_brass 2 49 4 21 2 **** **** 0 **** 28 2 2 **** 0 **** 1 0
