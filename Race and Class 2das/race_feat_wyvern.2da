@@ -1,0 +1,14 @@
+2DA V2.0
+
+ FeatLabel FeatIndex
+0 WeapProfCreature 289
+1 darkvision 228
+3 immunitysleep 235
+4 FEAT_DRAGON_IMMUNE_PARALYSIS 963
+**** skillaffinitylisten 237
+**** skillaffinitysearch 238
+**** skillaffinityspot 239
+**** BarbEndurance 194
+**** FEAT_HAGSPAWN_NATURAL_ARMOR 2090
+**** unnerve 21914
+**** FEAT_NOMANUAL 2340
