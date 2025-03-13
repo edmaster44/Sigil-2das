@@ -1,8 +1,9 @@
 2DA V2.0
 
-  FeatLabel  FeatIndex 
-0 mechcan    2342      
-1 nomanual   2340      
-2 impunastr  21        
-3 darkvision 228       
-4 constructp 2345      
+ FeatLabel FeatIndex
+0 mechcan 2342
+1 nomanual 2340
+2 impunastr 21
+3 darkvision 228
+4 constructp 2345
+5 creatureweap 289
