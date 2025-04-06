@@ -166,8 +166,8 @@
 162 "Skill: Open Lock +10" 52 9 10 **** 2 1000 **** gemstone_feldspar_white_q2 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 **** 1
 163 "Skill: Parry +5" 52 10 5 **** 1 500 **** gemstone_topaz_white_q1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 **** 1
 164 "Skill: Parry +10" 52 10 10 **** 2 1000 **** gemstone_topaz_white_q2 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 **** 1
-165 "Skill: Perform +5" 52 11 10 **** 1 500 cft_ess_power1 gemstone_sapphire_star_q1 0 0 0 0 0 1 1 0 1 0 0 0 0 0 1 0 **** 1
-166 "Skill: Perform +10" 52 11 5 **** 2 1000 cft_ess_power2 gemstone_sapphire_star_q2 0 0 0 0 0 1 1 0 1 0 0 0 0 0 1 0 **** 1
+165 "Skill: Perform +5" 52 11 5 **** 1 500 cft_ess_power1 gemstone_sapphire_star_q1 0 0 0 0 0 1 1 0 1 0 0 0 0 0 1 0 **** 1
+166 "Skill: Perform +10" 52 11 10 **** 2 1000 cft_ess_power2 gemstone_sapphire_star_q2 0 0 0 0 0 1 1 0 1 0 0 0 0 0 1 0 **** 1
 167 "Skill: Search +5" 52 14 5 **** 1 500 **** gemstone_topaz_white_q1 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 **** 1
 168 "Skill: Search +10" 52 14 10 **** 2 1000 **** gemstone_topaz_white_q2 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 **** 1
 169 "Skill: Set Traps +5" 52 15 5 **** 1 500 **** gemstone_topaz_yellow_q1 0 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 **** 1
