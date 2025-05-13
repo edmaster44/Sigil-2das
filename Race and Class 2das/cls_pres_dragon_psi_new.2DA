@@ -1,0 +1,8 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 Race_Dragon RACE 11 ****
+1 PPPool FEATOR 20998 ****
+2 PPYPOOL FEATOR 20996 ****
+3 Base_attack BAB 2 ****
+4 CLASS_DRAGON_PRC CLASSNOT 129 ****

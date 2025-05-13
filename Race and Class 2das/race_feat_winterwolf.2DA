@@ -1,15 +1,15 @@
-2DA	V2.0	
-		
-	FeatLabel	FeatIndex
-0	darkvision	228
-1	immunitycold	2261
-2	vulnfire	2258
-2	breathweapon	2364
-3	creweapprof	289
-4	multiattack	1784
-5	impunastrike	21
-6	scent	2178
-7	track	1116
-8	nomanual	2340
-9	swifttracker	1393
-10	natac5	2266
+2DA V2.0
+
+ FeatLabel FeatIndex
+0 darkvision 228
+1 immunitycold 2261
+2 vulnfire 2258
+3 breathweapon 2364
+4 creweapprof 289
+5 multiattack 4000
+6 impunastrike 21
+7 scent 2178
+8 track 1116
+9 nomanual 2340
+10 swifttracker 1393
+11 natac5 2266
