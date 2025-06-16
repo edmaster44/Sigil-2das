@@ -210,7 +210,7 @@
 206 "Mighty +5" 45 **** 5 **** 5 5000 cft_ess_earth4 gemstone_beryl_blue_q3 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 NO_SLINGS 1
 207 "Massive Criticals +2d4" 74 **** 12 **** 1 500 **** gemstone_zircon_white_q1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 **** 1
 208 "Massive Criticals +3d6" 74 **** 60 **** 2 1000 cft_ess_fire1 gemstone_zircon_white_q2 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 **** 1
-209 "Bonus Feat: Alertness" 12 1324 **** **** 1 500 **** gemstone_topaz_brown_q2 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 **** 1
+209 "Bonus Feat: Alertness" 12 1324 **** **** 1 500 **** gemstone_topaz_brown_q2 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 **** 0
 210 "Bonus Feat: Blindfight" 12 386 **** **** 2 1000 cft_ess_air2 gemstone_topaz_brown_q3 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 **** 1
 211 "Bonus Feat: Combat Casting" 12 3 **** **** 1 500 **** gemstone_opal_white_q2 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 **** 1
 212 "Bonus Feat: Dash" 12 197 **** **** 1 500 **** gemstone_topaz_yellow_q2 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 **** 1
