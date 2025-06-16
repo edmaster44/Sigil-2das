@@ -26,30 +26,30 @@
 22 Cloak 80 M ps_crft_basecloak 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_ck **** ****
 23 Club 28 W nw_wblcl001 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wu_club **** ****
 24 Container 131 M ps_crft_basecontainer 5 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC bag **** ****
-25 "Creature Claw Sheath - Tiny" 181 W creatureclaweld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-26 "Creature Claw Sheath - Small" 176 W creatureclaweld 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-27 "Creature Claw Sheath - Medium" 188 W creatureclaweld_med 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-28 "Creature Claw Sheath - Large" 179 W creatureclaweld_lrg 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+25 "Creature Claw Sheath - Tiny" 181 W creatureclaweld_tiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+26 "Creature Claw Sheath - Small" 176 W creatureclaweld 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+27 "Creature Claw Sheath - Medium" 188 W creatureclaweld_med 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+28 "Creature Claw Sheath - Large" 179 W creatureclaweld_lrg 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
 29 "Creature Claw Sheath - Huge" 189 W creatureclaweld_giant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-30 "Creature Fang Veneers- Tiny" 184 W creaturebiteeld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-31 "Creature Fang Veneers- Small" 186 W creaturebiteeld_sml 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-32 "Creature Fang Veneers- Medium" 177 W creaturebiteeld 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-33 "Creature Fang Veneers - Large" 185 W creaturebiteeld_large 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+30 "Creature Fang Veneers- Tiny" 184 W creaturebiteeld_tiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+31 "Creature Fang Veneers- Small" 186 W creaturebiteeld_sml 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+32 "Creature Fang Veneers- Medium" 177 W creaturebiteeld 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+33 "Creature Fang Veneers - Large" 185 W creaturebiteeld_large 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
 34 "Creature Fang Veneers - Huge" 187 W creaturebiteeld_giant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-35 "Creature Kick/Tail - Tiny" 192 W creaturekick_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-36 "Creature Kick/Tail - Small" 193 W creaturekick_sml 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-37 "Creature Kick/Tail - Medium" 194 W creaturekick_med 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-38 "Creature Kick/Tail - Large" 195 W creaturekick_lrg 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+35 "Creature Kick/Tail - Tiny" 192 W creaturekick_tiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+36 "Creature Kick/Tail - Small" 193 W creaturekick_sml 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+37 "Creature Kick/Tail - Medium" 194 W creaturekick_med 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+38 "Creature Kick/Tail - Large" 195 W creaturekick_lrg 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
 39 "Creature Kick/Tail - Huge" 196 W creaturekick_giant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-40 "Creature 'Knuckles' - Tiny" 182 W creatureslameld_tiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-41 "Creature 'Knuckles' - Small" 190 W creatureslameld_sml 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-42 "Creature 'Knuckles' - Medium" 183 W creatureslameld_med 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-43 "Creature 'Knuckles' - Large" 178 W creatureslameld 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+40 "Creature 'Knuckles' - Tiny" 182 W creatureslameld_tiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+41 "Creature 'Knuckles' - Small" 190 W creatureslameld_sml 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+42 "Creature 'Knuckles' - Medium" 183 W creatureslameld_med 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+43 "Creature 'Knuckles' - Large" 178 W creatureslameld 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
 44 "Creature 'Knuckles' - Huge" 191 W creatureslameld_giant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-45 "Creature Talon - Tiny" 197 W creaturetalontiny 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-46 "Creature Talon - Small" 198 W creaturetalonsmall 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-47 "Creature Talon - Medium" 199 W creaturetalonmed 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-48 "Creature Talon - Large" 200 W creaturetalonlrg 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+45 "Creature Talon - Tiny" 197 W creaturetalontiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+46 "Creature Talon - Small" 198 W creaturetalonsmall 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+47 "Creature Talon - Medium" 199 W creaturetalonmed 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+48 "Creature Talon - Large" 200 W creaturetalonlrg 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
 49 "Creature Talon - Huge" 201 W creaturetalongiant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
 50 "Crossbow Cocking Lever" 24 M ps_crft_xbowlever 100 SCOD_CRAFT_MISC **** **** it_qi_imaskaridevicelever **** ****
 51 "Crossbow, Light" 7 W nw_wbwxl001 70 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wr_lx **** ****
