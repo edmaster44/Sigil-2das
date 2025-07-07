@@ -1,7 +1,8 @@
 2DA V2.0
 
-  LABEL    ReqType ReqParam1 ReqParam2 
-0 CanineBD SUBRACE 231       ****      
-1 CanineWW SUBRACE 235       ****      
-2 CanineWO SUBRACE 230       ****      
-3 BAB      BAB     3         ****      
+ LABEL ReqType ReqParam1 ReqParam2
+0 CanineBD SUBRACE 231 ****
+1 CanineWW SUBRACE 235 ****
+2 CanineWO SUBRACE 230 ****
+3 Race_Gnoll SUBRACE 66 ****
+4 BAB BAB 3 ****
