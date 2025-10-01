@@ -1413,9 +1413,11 @@
 1409 Freezing_Fog 16822538 9 5 **** 1485 0 1 1 is_freezingfog
 1410 Freezing_Fog 16822537 14 5 **** 1485 0 1 1 is_freezingfog
 1411 Freezing_Fog 16822536 19 5 **** 1485 0 1 1 is_freezingfog
-1412 **** **** **** **** **** **** **** **** **** ****
-1413 **** **** **** **** **** **** **** **** **** ****
-1414 **** **** **** **** **** **** **** **** **** ****
-1415 **** **** **** **** **** **** **** **** **** ****
-1416 **** **** **** **** **** **** **** **** **** ****
-1417 **** **** **** **** **** **** **** **** **** ****
+1412 Shield_of_Faith 16781929 6 1 **** 450 1 1 1 it_s_shieldoffaith
+1413 Shield_of_Faith 16823447 11 1 **** 450 1 1 1 it_s_shieldoffaith
+1414 Halo_Of_Sand 16780418 7 4 **** 2502 1 1 1 is_epic_haloofsand
+1415 Halo_Of_Sand 16780418 12 4 **** 2502 1 1 1 is_epic_haloofsand
+1416 Halo_Of_Sand 16780418 17 4 **** 2502 1 1 1 is_epic_haloofsand
+1417 ForceBarrier 16780967 3 2 **** 1877 1 1 1 it_s_shieldoffaith
+1418 ForceBarrier 16780968 8 2 **** 1877 1 1 1 it_s_shieldoffaith
+1419 ForceBarrier 16780969 13 2 **** 1877 1 1 1 it_s_shieldoffaith
