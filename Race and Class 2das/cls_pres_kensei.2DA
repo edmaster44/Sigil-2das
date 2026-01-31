@@ -1,0 +1,14 @@
+2DA V2.0
+
+ LABEL ReqType ReqParam1 ReqParam2
+0 Concentration SKILL 1 5
+1 Diplomacy SKILL 12 5
+2 Expertise FEAT 389 ****
+3 Base_Attack BAB 5 ****
+4 WeapFocStaff FEATOR 96 ****
+5 WeapFocSpear FEATOR 97 ****
+6 WeapFocHalb FEATOR 112 ****
+7 WeapFocKama FEATOR 117 ****
+8 WeapFocKatana FEATOR 122 ****
+9 FEAT_WEAPON_FOCUS_ODACHI FEATOR 3239 ****
+10 FEAT_WEAPON_FOCUS_NINJATO FEATOR 3249 ****
