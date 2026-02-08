@@ -87,7 +87,7 @@
 83 VFX_MOB_DRAGON_FEAR_PC C 15 **** **** ps_dragfeara **** **** 0 0 291 **** **** **** **** 1
 84 VFX_SNOWSONG C 9.1 **** **** ed_snowsong_a ed_snowsong_c **** 0 1 **** scm_hitcold **** **** fx_enviro_snowmedium.sef 1
 85 VFX_MOB_ARCHON_MENACE C 7 **** **** scod_archon_menace **** **** 0 0 271 **** **** **** **** 1
-86 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
+86 VFX_KNIGHTS_AURA C 9.1 **** **** scod_f_knightauraA scod_f_knightauraB **** 0 1 **** **** **** **** **** 1
 87 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 88 VFX_IUD_AURA C 10 **** **** feat_iud_enter feat_iud_exit **** 0 0 **** **** **** **** **** 1
 89 VFX_MOB_DESECRATE C 3.3 **** **** scod_s_desA NW_S0_CircEvilB **** 0 0 728 **** **** **** **** 1
