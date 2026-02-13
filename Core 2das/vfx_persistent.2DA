@@ -99,7 +99,7 @@
 95 VFX_PER_HALLUCINATORY_TERRAIN C 9.14 **** **** scod_s_hallucinatory_one scod_s_hallucinatory_onex **** 0 1 910 sfx_hitarea_conjuration **** sfx_hit_conjuration sp_entangle_aoe.sef 1
 96 VFX_PER_HUNGRYDARKNESS C 6.7 **** **** scod_s_hgrydarkness_one scod_s_hgrydarkness_onex scod_s_hgrydarkness_hrt 0 1 1 **** **** **** **** 1
 97 VFX_PER_DARKDISCORPORATION C 6.7 **** **** **** **** scod_s_darkdiscorp_hrt 0 1 **** **** **** **** **** 1
-98 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
+98 VFX_SAMURAI_COMMANDING_PRESENCE C 6.7 **** **** class_samurai_presenceA class_samurai_presenceB class_samurai_presenceC **** **** **** **** **** **** **** 1
 99 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 100 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 101 SCOD_VFX_PER_ATTRAPVIS C 2.5 **** **** **** **** **** 0 1 **** sfx_hitarea_evocation **** sfx_hit_evocation scod_trap_at.sef 3
