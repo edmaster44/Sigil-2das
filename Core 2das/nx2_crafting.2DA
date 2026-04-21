@@ -502,9 +502,9 @@
 498 PADDING PADDING **** **** **** **** **** **** **** **** **** **** **** **** ****
 499 PADDING PADDING **** **** **** **** **** **** **** **** **** **** **** **** ****
 500 <<Craftable_Potions>> PADDING **** **** **** **** **** **** **** **** **** **** **** **** ****
-501 LESSER_SEQUENCER ps_r_pot_lseq ps_potion_lessersequencer 300 **** x2_it_cfm_pbottl **** **** **** **** 944 "27,5" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
-502 SEQUNCER ps_r_pot_seq ps_potion_sequencer 600 **** x2_it_cfm_pbottl **** **** **** **** 944 "27,1" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
-503 GREATER_SEQUENCER ps_r_pot_gseq ps_potion_greatersequncer 1000 **** x2_it_cfm_pbottl **** **** **** **** 944 "27,15" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
+501 LESSER_SEQUENCER ps_r_pot_lseq ps_potion_lessersequencer 200 **** x2_it_cfm_pbottl **** **** **** **** 944 "27,10" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
+502 SEQUNCER ps_r_pot_seq ps_potion_sequencer 400 **** x2_it_cfm_pbottl **** **** **** **** 944 "27,20" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
+503 GREATER_SEQUENCER ps_r_pot_gseq ps_potion_greatersequncer 600 **** x2_it_cfm_pbottl **** **** **** **** 944 "27,15" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
 504 GREATER_FOX ps_r_pot_gfox ps_potions6_07,5 1500 **** x2_it_cfm_pbottl **** **** 356 **** 944 "27,15" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
 505 GREATER_BEAR ps_r_pot_gbear ps_potions6_03,5 1500 **** x2_it_cfm_pbottl **** **** 49 **** 944 "27,15" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
 506 GREATER_BULL ps_r_pot_gbull ps_potions6_04,5 1500 **** x2_it_cfm_pbottl **** **** 9 **** 944 "27,15" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
