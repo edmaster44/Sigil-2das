@@ -13,105 +13,105 @@
 9 "Armor, Half Plate" 16 A nw_aarcl006 600 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_ah_ 7 45
 10 "Armor, Full Plate" 16 A nw_aarcl007 1500 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_ah_ 8 46
 11 Arrows 20 W ps_utility_arrowquiver 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wo_arrow **** ****
-12 Bagpipe 132 M ps_music_bagpipe 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u_ **** ****
-13 "Bastard Sword" 3 W nw_wswbs001 70 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
-14 "Battle Axe" 2 W nw_waxbt001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wa_ **** ****
-15 Belt 21 M ps_crft_basebelt 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_be_ **** ****
-16 Bolts 25 W ps_utility_boltquiver 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wo_bolt **** ****
-17 Boots 26 M ps_crft_baseboots 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_bo_ **** ****
-18 "Bow, Short" 11 W nw_wbwsh001 60 SCOD_CRAFT_WOOD SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_wr_short **** ****
-19 "Bow, Long" 8 W nw_wbwln001 150 SCOD_CRAFT_WOOD SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_wr_long **** ****
-20 Bracer 78 M ps_crft_basebracers 1 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_br_ **** ****
-21 Bullets 27 W ps_utility_bulletpouch 50 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_wo_bullet **** ****
-22 Cloak 80 M ps_crft_basecloak 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_ck **** ****
-23 Club 28 W nw_wblcl001 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wu_club **** ****
-24 Container 131 M ps_crft_basecontainer 5 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC bag **** ****
-25 "Creature Claw Sheath - Tiny" 181 W creatureclaweld_tiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-26 "Creature Claw Sheath - Small" 176 W creatureclaweld 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-27 "Creature Claw Sheath - Medium" 188 W creatureclaweld_med 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-28 "Creature Claw Sheath - Large" 179 W creatureclaweld_lrg 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-29 "Creature Claw Sheath - Huge" 189 W creatureclaweld_giant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-30 "Creature Fang Veneers- Tiny" 184 W creaturebiteeld_tiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-31 "Creature Fang Veneers- Small" 186 W creaturebiteeld_sml 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-32 "Creature Fang Veneers- Medium" 177 W creaturebiteeld 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-33 "Creature Fang Veneers - Large" 185 W creaturebiteeld_large 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-34 "Creature Fang Veneers - Huge" 187 W creaturebiteeld_giant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-35 "Creature Kick/Tail - Tiny" 192 W creaturekick_tiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-36 "Creature Kick/Tail - Small" 193 W creaturekick_sml 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-37 "Creature Kick/Tail - Medium" 194 W creaturekick_med 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-38 "Creature Kick/Tail - Large" 195 W creaturekick_lrg 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-39 "Creature Kick/Tail - Huge" 196 W creaturekick_giant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-40 "Creature 'Knuckles' - Tiny" 182 W creatureslameld_tiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-41 "Creature 'Knuckles' - Small" 190 W creatureslameld_sml 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-42 "Creature 'Knuckles' - Medium" 183 W creatureslameld_med 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-43 "Creature 'Knuckles' - Large" 178 W creatureslameld 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-44 "Creature 'Knuckles' - Huge" 191 W creatureslameld_giant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-45 "Creature Talon - Tiny" 197 W creaturetalontiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-46 "Creature Talon - Small" 198 W creaturetalonsmall 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-47 "Creature Talon - Medium" 199 W creaturetalonmed 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-48 "Creature Talon - Large" 200 W creaturetalonlrg 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-49 "Creature Talon - Huge" 201 W creaturetalongiant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
-50 "Crossbow Cocking Lever" 24 M ps_crft_xbowlever 100 SCOD_CRAFT_MISC **** **** it_qi_imaskaridevicelever **** ****
-51 "Crossbow, Light" 7 W nw_wbwxl001 70 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wr_lx **** ****
-52 "Crossbow, Heavy" 6 W nw_wbwxh001 100 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wr_hx **** ****
-53 "Crossbow Sight" 24 M ps_crft_xbowsight 100 SCOD_CRAFT_MISC **** **** it_qi_signetring **** ****
-54 Dagger 22 W nw_wswdg001 4 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
-55 Darts 31 W ps_utility_returningdart 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wo_dart **** ****
-56 Drum 128 M ps_music_drum 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u **** ****
-57 "Dwarven Waraxe" 108 W x2_wdwraxe001 60 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wa_ **** ****
-58 Falchion 114 W n2_wswfl001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
-59 "Flail, Tiny" 88 W ps_tinyflail 6 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_flail **** ****
-60 "Flail, Small" 116 W ps_smallflail 6 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_flail **** ****
-61 "Flail, Medium" 147 W ps_mediumflail 6 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_flail **** ****
-62 "Flail, Hand & 1/2" 203 W ps_infantryflail 6 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_flail **** ****
-63 "Flail, Large" 35 W ps_heavyflail 6 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_flail **** ****
-64 "Flail, Giant" 175 W ps_seigeflail 10 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_flail **** ****
-65 Flute 129 M ps_music_flute 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u_ **** ****
-66 "Giant Axe" 151 W srr_giant_axe 120 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wa_ **** ****
-67 "Giant Club" 152 W srr_giant_club 120 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wu_club **** ****
-68 "Giant Sword" 150 W srr_giant_sword 120 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
-69 Gloves 36 M ps_crft_basegloves 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_gl **** ****
-70 "Great Axe" 18 W nw_waxgr001 40 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wa_ **** ****
-71 "Great Sword" 13 W nw_wswgs001 100 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
-72 "Halberd, Large" 10 W nw_wplhb001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_hal **** ****
-73 "Halberd, Giant" 205 W nw_wplhb002 100 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_hal **** ****
-74 "Hammer, Light" 37 W nw_wblhl001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_lham **** ****
-75 "Hammer, War" 5 W nw_wblhw001 24 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_wham **** ****
-76 "Hand Axe" 38 W nw_waxhn001 12 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wa_ **** ****
-77 Helmet 17 M ps_crft_basehelm 3 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_he_ **** ****
-78 Horn 132 M ps_music_horn 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u_ **** ****
-79 Kama 40 W nw_wspka001 4 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_we_kama **** ****
-80 Katana 41 W nw_wswka001 80 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
-81 Kukri 42 W nw_wspku001 16 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_we_kukri **** ****
-82 "Long Sword" 1 W nw_wswls001 30 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
-83 Lute 132 M ps_music_lute 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u_ **** ****
-84 Lyre 128 M ps_music_lyre 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u **** ****
-85 Mace 9 W nw_wblml001 10 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC mace **** ****
-86 "Mace, War, Large" 126 W nw_wdbma001 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC mace **** ****
-87 "Mace, War, Huge" 153 W ps_giantwarmace 100 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC mace **** ****
-88 Maul 87 W ps_maul 40 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_wham **** ****
-89 "Miscellaneous Item" 24 M ps_crft_basemisc 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER it_qi **** ****
-90 Morningstar 47 W nw_wblms001 16 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_m **** ****
-91 Ninjato 85 W ps_ninjato 100 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
-92 Odachi 96 W ps_odachi 250 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
-93 "Quarterstaff, Medium" 45 W ps_shortstaff 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wd_ **** ****
-94 "Quarterstaff, Large" 50 W nw_wdbqs001 2 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wd_ **** ****
-95 "Quarterstaff, Huge" 98 W ps_giantstaff 3 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wd_ **** ****
-96 Rapier 51 W nw_wswrp001 40 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
-97 Ring 52 M ps_crft_basering 300 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_ring **** ****
-98 Scimitar 53 W nw_wswsc001 30 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
-99 "Scythe, Large" 55 W nw_wplsc001 40 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_scy **** ****
-100 "Scythe, Huge" 97 W ps_giantscythe 80 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_scy **** ****
-101 "Shield, Light" 14 A nw_ashsw001 9 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_as_ **** ****
-102 "Shield, Heavy" 56 A nw_ashlw001 50 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_as_ **** ****
-103 "Shield, Tower" 57 A nw_ashto001 100 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_as_ **** ****
-104 "Short Sword" 0 W nw_wswss001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
-105 Shuriken 59 W ps_utility_returningshuriken 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wt_shur **** ****
-106 Sickle 60 W nw_wspsc001 12 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_we_sick **** ****
-107 Sling 61 W nw_wbwsl001 2 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wr_sling **** ****
-108 "Spear, Medium" 58 W ps_shortspear 15 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_spear **** ****
-109 "Spear, Large" 119 W nw_wplss001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_spear **** ****
-110 "Spear, Huge" 99 W ps_giantspear 25 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_spear **** ****
-111 Stiletto 86 W ps_stiletto 6 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
+12 "Axe, Hand" 38 W nw_waxhn001 12 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wa_ **** ****
+13 "Axe, Battle" 2 W nw_waxbt001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wa_ **** ****
+14 "Axe, Dwarven War" 108 W x2_wdwraxe001 60 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wa_ **** ****
+15 "Axe, Great" 18 W nw_waxgr001 40 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wa_ **** ****
+16 "Axe, Giant" 151 W srr_giant_axe 120 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wa_ **** ****
+17 Bagpipe 132 M ps_music_bagpipe 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u_ **** ****
+18 Belt 21 M ps_crft_basebelt 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_be_ **** ****
+19 Bolts 25 W ps_utility_boltquiver 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wo_bolt **** ****
+20 Boots 26 M ps_crft_baseboots 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_bo_ **** ****
+21 "Bow, Short" 11 W nw_wbwsh001 60 SCOD_CRAFT_WOOD SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_wr_short **** ****
+22 "Bow, Long" 8 W nw_wbwln001 150 SCOD_CRAFT_WOOD SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_wr_long **** ****
+23 Bracer 78 M ps_crft_basebracers 1 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_br_ **** ****
+24 Bullets 27 W ps_utility_bulletpouch 50 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_wo_bullet **** ****
+25 Cloak 80 M ps_crft_basecloak 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_ck **** ****
+26 "Club, Medium" 28 W nw_wblcl001 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wu_club **** ****
+27 "Club, Giant" 152 W srr_giant_club 120 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wu_club **** ****
+28 Container 131 M ps_crft_basecontainer 5 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC bag **** ****
+29 "Creature Claw Sheath - Tiny" 181 W creatureclaweld_tiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+30 "Creature Claw Sheath - Small" 176 W creatureclaweld 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+31 "Creature Claw Sheath - Medium" 188 W creatureclaweld_med 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+32 "Creature Claw Sheath - Large" 179 W creatureclaweld_lrg 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+33 "Creature Claw Sheath - Huge" 189 W creatureclaweld_giant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+34 "Creature Fang Veneers- Tiny" 184 W creaturebiteeld_tiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+35 "Creature Fang Veneers- Small" 186 W creaturebiteeld_sml 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+36 "Creature Fang Veneers- Medium" 177 W creaturebiteeld 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+37 "Creature Fang Veneers - Large" 185 W creaturebiteeld_large 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+38 "Creature Fang Veneers - Huge" 187 W creaturebiteeld_giant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+39 "Creature Kick/Tail - Tiny" 192 W creaturekick_tiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+40 "Creature Kick/Tail - Small" 193 W creaturekick_sml 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+41 "Creature Kick/Tail - Medium" 194 W creaturekick_med 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+42 "Creature Kick/Tail - Large" 195 W creaturekick_lrg 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+43 "Creature Kick/Tail - Huge" 196 W creaturekick_giant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+44 "Creature 'Knuckles' - Tiny" 182 W creatureslameld_tiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+45 "Creature 'Knuckles' - Small" 190 W creatureslameld_sml 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+46 "Creature 'Knuckles' - Medium" 183 W creatureslameld_med 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+47 "Creature 'Knuckles' - Large" 178 W creatureslameld 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+48 "Creature 'Knuckles' - Huge" 191 W creatureslameld_giant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+49 "Creature Talon - Tiny" 197 W creaturetalontiny 60 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+50 "Creature Talon - Small" 198 W creaturetalonsmall 70 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+51 "Creature Talon - Medium" 199 W creaturetalonmed 80 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+52 "Creature Talon - Large" 200 W creaturetalonlrg 90 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+53 "Creature Talon - Huge" 201 W creaturetalongiant 100 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_cw_ **** ****
+54 "Crossbow Cocking Lever" 24 M ps_crft_xbowlever 100 SCOD_CRAFT_MISC **** **** it_qi_imaskaridevicelever **** ****
+55 "Crossbow, Light" 7 W nw_wbwxl001 70 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wr_lx **** ****
+56 "Crossbow, Heavy" 6 W nw_wbwxh001 100 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wr_hx **** ****
+57 "Crossbow Sight" 24 M ps_crft_xbowsight 100 SCOD_CRAFT_MISC **** **** it_qi_signetring **** ****
+58 "Dagger, Stiletto" 86 W ps_stiletto 6 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
+59 "Dagger, Common" 22 W nw_wswdg001 4 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
+60 Darts 31 W ps_utility_returningdart 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wo_dart **** ****
+61 Drum 128 M ps_music_drum 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u **** ****
+62 Falchion 114 W n2_wswfl001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
+63 "Flail, Tiny" 88 W ps_tinyflail 6 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_flail **** ****
+64 "Flail, Small" 116 W ps_smallflail 6 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_flail **** ****
+65 "Flail, Medium" 147 W ps_mediumflail 6 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_flail **** ****
+66 "Flail, Hand & 1/2" 203 W ps_infantryflail 6 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_flail **** ****
+67 "Flail, Large" 35 W ps_heavyflail 6 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_flail **** ****
+68 "Flail, Giant" 175 W ps_seigeflail 10 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_flail **** ****
+69 Flute 129 M ps_music_flute 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u_ **** ****
+70 Gloves 36 M ps_crft_basegloves 1 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_gl **** ****
+71 "Halberd, Large" 10 W nw_wplhb001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_hal **** ****
+72 "Halberd, Giant" 205 W nw_wplhb002 100 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_hal **** ****
+73 "Hammer, Light" 37 W nw_wblhl001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_lham **** ****
+74 "Hammer, War" 5 W nw_wblhw001 24 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_wham **** ****
+75 Helmet 17 M ps_crft_basehelm 3 SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER SCOD_CRAFT_MISC it_he_ **** ****
+76 Horn 132 M ps_music_horn 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u_ **** ****
+77 Kama 40 W nw_wspka001 4 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_we_kama **** ****
+78 Kukri 42 W nw_wspku001 16 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_we_kukri **** ****
+79 Lute 132 M ps_music_lute 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u_ **** ****
+80 Lyre 128 M ps_music_lyre 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_u **** ****
+81 "Mace, Small" 9 W nw_wblml001 10 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC mace **** ****
+82 "Mace, Morningstar" 47 W nw_wblms001 16 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_m **** ****
+83 "Mace, Maul" 87 W ps_maul 40 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wu_wham **** ****
+84 "Mace, War, Large" 126 W nw_wdbma001 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC mace **** ****
+85 "Mace, War, Huge" 153 W ps_giantwarmace 100 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC mace **** ****
+86 "Miscellaneous Item" 24 M ps_crft_basemisc 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_LEATHER it_qi **** ****
+87 "Quarterstaff, Medium" 45 W ps_shortstaff 1 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wd_ **** ****
+88 "Quarterstaff, Large" 50 W nw_wdbqs001 2 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wd_ **** ****
+89 "Quarterstaff, Huge" 98 W ps_giantstaff 3 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wd_ **** ****
+90 Ring 52 M ps_crft_basering 300 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_ring **** ****
+91 "Scythe, Large" 55 W nw_wplsc001 40 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_scy **** ****
+92 "Scythe, Huge" 97 W ps_giantscythe 80 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_scy **** ****
+93 "Shield, Light" 14 A nw_ashsw001 9 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_as_ **** ****
+94 "Shield, Heavy" 56 A nw_ashlw001 50 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_as_ **** ****
+95 "Shield, Tower" 57 A nw_ashto001 100 SCOD_CRAFT_WOOD SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_as_ **** ****
+96 Shuriken 59 W ps_utility_returningshuriken 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wt_shur **** ****
+97 Sickle 60 W nw_wspsc001 12 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_we_sick **** ****
+98 Sling 61 W nw_wbwsl001 2 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wr_sling **** ****
+99 "Spear, Medium" 58 W ps_shortspear 15 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_spear **** ****
+100 "Spear, Large" 119 W nw_wplss001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_spear **** ****
+101 "Spear, Huge" 99 W ps_giantspear 25 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wp_spear **** ****
+102 "Sword, Ninjato" 85 W ps_ninjato 100 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
+103 "Sword, Short" 0 W nw_wswss001 20 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
+104 "Sword, Long" 1 W nw_wswls001 30 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
+105 "Sword, Rapier" 51 W nw_wswrp001 40 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
+106 "Sword, Scimitar" 53 W nw_wswsc001 30 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
+107 "Sword, Katana" 41 W nw_wswka001 80 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
+108 "Sword, Bastard" 3 W nw_wswbs001 70 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
+109 "Sword, Great" 13 W nw_wswgs001 100 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
+110 "Sword, Giant" 150 W srr_giant_sword 120 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
+111 "Sword, Odachi" 96 W ps_odachi 250 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wb_ **** ****
 112 "Throwing Axes" 63 W ps_utility_returningaxe 50 SCOD_CRAFT_METAL SCOD_CRAFT_WOOD SCOD_CRAFT_MISC it_wt_taxe **** ****
 113 Whip 202 W ps_whip 100 SCOD_CRAFT_LEATHER SCOD_CRAFT_METAL SCOD_CRAFT_MISC it_wp_whip **** ****

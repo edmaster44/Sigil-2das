@@ -502,9 +502,9 @@
 498 PADDING PADDING **** **** **** **** **** **** **** **** **** **** **** **** ****
 499 PADDING PADDING **** **** **** **** **** **** **** **** **** **** **** **** ****
 500 <<Craftable_Potions>> PADDING **** **** **** **** **** **** **** **** **** **** **** **** ****
-501 LESSER_SEQUENCER ps_r_pot_lseq ps_potion_lessersequencer 200 **** x2_it_cfm_pbottl **** **** **** **** 944 "27,10" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
-502 SEQUNCER ps_r_pot_seq ps_potion_sequencer 400 **** x2_it_cfm_pbottl **** **** **** **** 944 "27,20" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
-503 GREATER_SEQUENCER ps_r_pot_gseq ps_potion_greatersequncer 600 **** x2_it_cfm_pbottl **** **** **** **** 944 "27,15" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
+501 LESSER_SEQUENCER ps_r_pot_lseq ps_potion_lessersequencernew 200 **** x2_it_cfm_pbottl **** **** **** **** 944 "27,10" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
+502 SEQUNCER ps_r_pot_seq ps_potion_sequencernew 400 **** x2_it_cfm_pbottl **** **** **** **** 944 "27,20" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
+503 GREATER_SEQUENCER ps_r_pot_gseq ps_potion_greatersequncernew 600 **** x2_it_cfm_pbottl **** **** **** **** 944 "27,15" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
 504 GREATER_FOX ps_r_pot_gfox ps_potions6_07,5 1500 **** x2_it_cfm_pbottl **** **** 356 **** 944 "27,15" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
 505 GREATER_BEAR ps_r_pot_gbear ps_potions6_03,5 1500 **** x2_it_cfm_pbottl **** **** 49 **** 944 "27,15" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
 506 GREATER_BULL ps_r_pot_gbull ps_potions6_04,5 1500 **** x2_it_cfm_pbottl **** **** 9 **** 944 "27,15" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
@@ -519,9 +519,9 @@
 515 GREATER_EAGLE_MUNDANE ps_r_pot_geagle_mu ps_potions6_06,5 1500 **** x2_it_cfm_pbottl,cft_ess_power3 **** **** **** **** 944 "27,15" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
 516 GREATER_OWL_MUNDANE ps_r_pot_gowl_mu ps_potions6_08,5 1500 **** x2_it_cfm_pbottl,cft_ess_power3 **** **** **** **** 944 "27,15" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
 517 GREATER_HEROISM_MUNDANE ps_r_pot_ghero_mu ps_potions6_02,5 1500 **** x2_it_cfm_pbottl,cft_ess_power3 **** **** **** **** 944 "27,15" PLC_MR_AWBench **** as_na_lava_bubbles_lp_3
-518 PADDING PADDING **** **** **** **** **** **** **** **** **** **** **** **** ****
-519 PADDING PADDING **** **** **** **** **** **** **** **** **** **** **** **** ****
-520 PADDING PADDING **** **** **** **** **** **** **** **** **** **** **** **** ****
+518 LESSER_AQUA_VITAE ps_recipe_aqua_vitae_lssr ps_potion_aqua_vitae_lssr 100 **** x2_it_cfm_pbottl,cft_ess_air1,cft_ess_earth1,cft_ess_fire1,cft_ess_water1,cft_ess_power2 **** **** **** **** **** **** **** **** ****
+519 AQUA_VITAE ps_recipe_aqua_vitae ps_potion_aqua_vitae 200 **** x2_it_cfm_pbottl,cft_ess_air2,cft_ess_earth2,cft_ess_fire2,cft_ess_water2,cft_ess_power3 **** **** **** **** **** **** **** **** ****
+520 GREATER_AQUA_VITAE ps_recipe_aqua_vitae_grtr ps_potion_aqua_vitae_grtr 300 **** x2_it_cfm_pbottl,cft_ess_air3,cft_ess_earth3,cft_ess_fire3,cft_ess_water3,cft_ess_power4 **** **** **** **** **** **** **** **** ****
 521 PADDING PADDING **** **** **** **** **** **** **** **** **** **** **** **** ****
 522 PADDING PADDING **** **** **** **** **** **** **** **** **** **** **** **** ****
 523 PADDING PADDING **** **** **** **** **** **** **** **** **** **** **** **** ****
