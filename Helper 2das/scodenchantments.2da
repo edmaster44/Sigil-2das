@@ -334,8 +334,8 @@
 330 "Visual Effect: Electrical" 83 2 **** **** 0 300 **** **** 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 VIS_ELEC 1
 331 "Visual Effect: Fire" 83 3 **** **** 0 300 **** **** 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 VIS_FIRE 1
 332 "Visual Effect: Sonic" 83 4 **** **** 0 300 **** **** 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 VIS_SONIC 1
-333 "Visual Effect: Evil" 83 5 **** **** 0 300 **** **** 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 VIS_EVIL 1
-334 "Visual Effect: Good" 83 6 **** **** 0 300 **** **** 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 VIS_GOOD 1
+333 "Visual Effect: Evil" 83 6 **** **** 0 300 **** **** 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 VIS_EVIL 1
+334 "Visual Effect: Good" 83 5 **** **** 0 300 **** **** 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 VIS_GOOD 1
 335 **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
 336 "Bonus Feat: Weap Prof Martial" 12 22 **** **** 1 1000 **** gemstone_zircon_red_q2 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 **** 0
 337 "Bonus Feat: Weap Prof  Exotic" 12 21 **** **** 1 2000 **** gemstone_zircon_red_q3 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 **** 0
