@@ -2,7 +2,7 @@
 
  LABEL StringRef NWN2_ModelName NWN2_Skeleton_File NWN2_BaseAnims MODEL
 0 None 112753 **** **** **** ****
-1 **** **** **** **** **** ****
+1 CentauroWings **** c_Centauro_Wings01 c_centauroExtra_skel c_centauro c_Centauro_Wings01
 2 f_mezzoloth 16777600 P_MEZ_Wings P_HHFcapewing_skel P_HHF P_MEZ_Wings
 3 new_celestialwings_M 16781487 angel_wings01 P_HHMcapewing_skel P_HHM angel_wings01
 4 new_celestialwings_F 16781487 angel_wings01 P_HHFcapewing_skel P_HHF angel_wings01
