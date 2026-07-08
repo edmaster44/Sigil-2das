@@ -28,8 +28,8 @@
 24 SpellFocusTra 172 0 -1 0
 25 SpellFocusAbj 35 0 -1 0
 26 FEAT_COUNTERSPELL 2666 0 -1 2
-27 ELDRITCH_ADEPT 3621 3 10 1
-28 FEAT_NECROMANTIC_MIGHT 3617 0 -1 0
+27 FEAT_NECROMANTIC_MIGHT 3617 0 -1 0
+28 padding **** 0 **** 0
 29 padding **** 0 **** 0
 30 padding **** 0 **** 0
 31 padding **** 0 **** 0
@@ -53,4 +53,3 @@
 49 padding **** 0 **** 0
 50 padding **** 0 **** 0
 51 padding **** 0 **** 0
-52 padding **** 0 **** 0
