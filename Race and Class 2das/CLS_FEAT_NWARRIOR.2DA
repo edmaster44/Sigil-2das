@@ -1,12 +1,16 @@
 2DA V2.0
 
  FeatLabel FeatIndex List GrantedOnLevel OnMenu
-0 FEAT_ARMOR_OF_THE_CROCODILE 2936 2 1 0
-1 FEAT_WILD_GROWTH 2943 2 1 0
-2 FEAT_BLAZE_OF_POWER 2937 2 1 0
-3 FEAT_CLAWS_OF_THE_GRIZZLY 2938 2 1 0
-4 FEAT_EARTH_RESILIENCE 2939 2 1 0
-5 FEAT_NATURES_WEAPON 2940 2 1 0
-6 FEAT_ROBE_OF_CLOUDS 2941 2 1 0
-7 FEAT_SERPENTINE_COIL 2942 2 1 0
-8 FEAT_WILD_GROWTH 2943 2 1 0
+0 ranger_casting 2944 2 1 0
+1 druid_casting 2945 2 1 0
+2 shaman_casting 2946 2 1 0
+3 cleric_casting 2947 2 1 0
+4 Below_handled)by_gui_extra_choices **** **** **** ****
+5 FEAT_ARMOR_OF_THE_CROCODILE **** **** **** ****
+6 FEAT_BLAZE_OF_POWER_2937 **** **** **** ****
+7 FEAT_CLAWS_OF_THE_GRIZZLY_2938 **** **** **** ****
+8 FEAT_EARTH_RESILIENCE_2939 **** **** **** ****
+9 FEAT_NATURES_WEAPON_2940 **** **** **** ****
+10 FEAT_ROBE_OF_CLOUDS_2941 **** **** **** ****
+11 FEAT_SERPENTINE_COIL_2942 **** **** **** ****
+12 FEAT_WILD_GROWTH_2943 **** **** **** ****
