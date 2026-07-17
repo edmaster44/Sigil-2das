@@ -399,7 +399,7 @@
 395 Divine_Might 9147 5 1 4903 473 1 1 1 ife_divinemight
 396 Divine_Shield 9148 5 1 4903 474 1 1 1 ife_divineshield
 397 Displacement 16823439 10 3 19508 458 1 1 1 it_s_displacement
-398 Flesh_to_stone 16823433 11 6 35540 485 0 0 1 it_s_fleshtostone
+398 Flesh_to_stone 16823433 11 6 35540 485 1 0 1 it_s_fleshtostone
 399 Stone_to_flesh 16823432 11 6 35540 486 0 0 1 it_s_stonetoflesh
 400 Dragon_Breath_Acid 5267 10 3 22058 236 1 1 1 is_acidsplash
 401 Dragon_Breath_Cold 5268 10 3 22058 237 1 1 1 is_coneofcold
@@ -1119,8 +1119,8 @@
 1115 Bigbys_Clenched_Fist 16822975 25 8 109670 462 0 1 1 it_s_bigbyclench
 1116 Bigbys_Crushing_Hand 16822974 22 9 124798 463 0 1 1 it_s_bigbycrush
 1117 Bigbys_Crushing_Hand 16822973 27 9 124798 463 0 1 1 it_s_bigbycrush
-1118 Flesh_to_stone 16822972 16 6 35540 485 0 0 1 it_s_fleshtostone
-1119 Flesh_to_stone 16822971 21 6 35540 485 0 0 1 it_s_fleshtostone
+1118 Flesh_to_stone 16822972 16 6 35540 485 1 0 1 it_s_fleshtostone
+1119 Flesh_to_stone 16822971 21 6 35540 485 1 0 1 it_s_fleshtostone
 1120 Crumble 16822970 16 6 48635 512 0 1 1 it_s_crumble
 1121 Crumble 16822969 21 6 48635 512 0 1 1 it_s_crumble
 1122 Infestation_of_Maggots 16822968 10 3 11758 513 0 1 1 it_s_infestmaggots
